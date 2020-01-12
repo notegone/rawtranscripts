@@ -1,0 +1,2815 @@
+{
+  "name": "projects/923263939845/locations/us-east1/operations/6280256365687205542",
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoProgress",
+    "annotationProgress": [
+      {
+        "inputUri": "/shfvideos/ShinzenVideos/EARTHQUAKE ~ Shinzen Young.mp4",
+        "progressPercent": 100,
+        "startTime": "2019-12-27T06:13:13.102607Z",
+        "updateTime": "2019-12-27T06:15:12.849001Z"
+      }
+    ]
+  },
+  "done": true,
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoResponse",
+    "annotationResults": [
+      {
+        "inputUri": "/shfvideos/ShinzenVideos/EARTHQUAKE ~ Shinzen Young.mp4",
+        "segment": {
+          "startTimeOffset": "0s",
+          "endTimeOffset": "368.616780s"
+        },
+        "speechTranscriptions": [
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": "Now that sounds like the wealth of the earth meaning that it could could become a major turning point in the history of our species. We're having an earthquake. Is that what that is? Yeah.",
+                "confidence": 0.9128384,
+                "words": [
+                  {
+                    "startTime": "10.900s",
+                    "endTime": "11.100s",
+                    "word": "Now"
+                  },
+                  {
+                    "startTime": "11.100s",
+                    "endTime": "11.400s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "11.400s",
+                    "endTime": "11.700s",
+                    "word": "sounds"
+                  },
+                  {
+                    "startTime": "11.700s",
+                    "endTime": "11.900s",
+                    "word": "like"
+                  },
+                  {
+                    "startTime": "11.900s",
+                    "endTime": "12.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "12.100s",
+                    "endTime": "12.400s",
+                    "word": "wealth"
+                  },
+                  {
+                    "startTime": "12.400s",
+                    "endTime": "12.600s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "12.600s",
+                    "endTime": "12.900s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "12.900s",
+                    "endTime": "13.400s",
+                    "word": "earth"
+                  },
+                  {
+                    "startTime": "14.800s",
+                    "endTime": "15.300s",
+                    "word": "meaning"
+                  },
+                  {
+                    "startTime": "15.300s",
+                    "endTime": "16s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "18s",
+                    "endTime": "18.300s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "18.300s",
+                    "endTime": "19.100s",
+                    "word": "could"
+                  },
+                  {
+                    "startTime": "19.300s",
+                    "endTime": "20.100s",
+                    "word": "could"
+                  },
+                  {
+                    "startTime": "20.200s",
+                    "endTime": "21s",
+                    "word": "become"
+                  },
+                  {
+                    "startTime": "22.400s",
+                    "endTime": "22.700s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "22.700s",
+                    "endTime": "23.600s",
+                    "word": "major"
+                  },
+                  {
+                    "startTime": "23.600s",
+                    "endTime": "24.100s",
+                    "word": "turning"
+                  },
+                  {
+                    "startTime": "24.100s",
+                    "endTime": "24.800s",
+                    "word": "point"
+                  },
+                  {
+                    "startTime": "25.100s",
+                    "endTime": "25.300s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "25.300s",
+                    "endTime": "25.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "25.400s",
+                    "endTime": "26.100s",
+                    "word": "history"
+                  },
+                  {
+                    "startTime": "26.100s",
+                    "endTime": "26.600s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "26.600s",
+                    "endTime": "26.800s",
+                    "word": "our"
+                  },
+                  {
+                    "startTime": "26.800s",
+                    "endTime": "27.700s",
+                    "word": "species."
+                  },
+                  {
+                    "startTime": "29.700s",
+                    "endTime": "29.800s",
+                    "word": "We're"
+                  },
+                  {
+                    "startTime": "29.800s",
+                    "endTime": "30.200s",
+                    "word": "having"
+                  },
+                  {
+                    "startTime": "30.200s",
+                    "endTime": "30.400s",
+                    "word": "an"
+                  },
+                  {
+                    "startTime": "30.400s",
+                    "endTime": "31.300s",
+                    "word": "earthquake."
+                  },
+                  {
+                    "startTime": "32.100s",
+                    "endTime": "32.200s",
+                    "word": "Is"
+                  },
+                  {
+                    "startTime": "32.200s",
+                    "endTime": "32.400s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "32.400s",
+                    "endTime": "32.500s",
+                    "word": "what"
+                  },
+                  {
+                    "startTime": "32.500s",
+                    "endTime": "32.800s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "32.800s",
+                    "endTime": "33.100s",
+                    "word": "is?"
+                  },
+                  {
+                    "startTime": "33.500s",
+                    "endTime": "34s",
+                    "word": "Yeah."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": "Well, I hope you weren't disappointed that ain't much of an earthquake.",
+                "confidence": 0.8783902,
+                "words": [
+                  {
+                    "startTime": "44.600s",
+                    "endTime": "45.300s",
+                    "word": "Well,"
+                  },
+                  {
+                    "startTime": "49.400s",
+                    "endTime": "49.400s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "49.400s",
+                    "endTime": "49.900s",
+                    "word": "hope"
+                  },
+                  {
+                    "startTime": "49.900s",
+                    "endTime": "50s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "50s",
+                    "endTime": "50.400s",
+                    "word": "weren't"
+                  },
+                  {
+                    "startTime": "50.400s",
+                    "endTime": "51.400s",
+                    "word": "disappointed"
+                  },
+                  {
+                    "startTime": "53.200s",
+                    "endTime": "53.500s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "53.500s",
+                    "endTime": "53.700s",
+                    "word": "ain't"
+                  },
+                  {
+                    "startTime": "53.700s",
+                    "endTime": "54s",
+                    "word": "much"
+                  },
+                  {
+                    "startTime": "54s",
+                    "endTime": "54.100s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "54.100s",
+                    "endTime": "54.200s",
+                    "word": "an"
+                  },
+                  {
+                    "startTime": "54.200s",
+                    "endTime": "54.800s",
+                    "word": "earthquake."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": "That's great. We were enjoying it. So he's having a complete experience. What can I say? We can do a lot better than that. Yeah, we don't get them on the East Coast very much. It's true.",
+                "confidence": 0.90847445,
+                "words": [
+                  {
+                    "startTime": "73.700s",
+                    "endTime": "74s",
+                    "word": "That's"
+                  },
+                  {
+                    "startTime": "74s",
+                    "endTime": "74.600s",
+                    "word": "great."
+                  },
+                  {
+                    "startTime": "75s",
+                    "endTime": "75.100s",
+                    "word": "We"
+                  },
+                  {
+                    "startTime": "75.100s",
+                    "endTime": "75.500s",
+                    "word": "were"
+                  },
+                  {
+                    "startTime": "75.500s",
+                    "endTime": "76.100s",
+                    "word": "enjoying"
+                  },
+                  {
+                    "startTime": "76.100s",
+                    "endTime": "76.500s",
+                    "word": "it."
+                  },
+                  {
+                    "startTime": "80.200s",
+                    "endTime": "80.300s",
+                    "word": "So"
+                  },
+                  {
+                    "startTime": "80.300s",
+                    "endTime": "80.500s",
+                    "word": "he's"
+                  },
+                  {
+                    "startTime": "80.500s",
+                    "endTime": "80.800s",
+                    "word": "having"
+                  },
+                  {
+                    "startTime": "80.800s",
+                    "endTime": "80.900s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "80.900s",
+                    "endTime": "81.400s",
+                    "word": "complete"
+                  },
+                  {
+                    "startTime": "81.400s",
+                    "endTime": "82.200s",
+                    "word": "experience."
+                  },
+                  {
+                    "startTime": "88.400s",
+                    "endTime": "88.600s",
+                    "word": "What"
+                  },
+                  {
+                    "startTime": "88.600s",
+                    "endTime": "88.700s",
+                    "word": "can"
+                  },
+                  {
+                    "startTime": "88.700s",
+                    "endTime": "88.900s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "88.900s",
+                    "endTime": "89.300s",
+                    "word": "say?"
+                  },
+                  {
+                    "startTime": "89.900s",
+                    "endTime": "90.100s",
+                    "word": "We"
+                  },
+                  {
+                    "startTime": "90.100s",
+                    "endTime": "90.200s",
+                    "word": "can"
+                  },
+                  {
+                    "startTime": "90.200s",
+                    "endTime": "90.400s",
+                    "word": "do"
+                  },
+                  {
+                    "startTime": "90.400s",
+                    "endTime": "90.500s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "90.500s",
+                    "endTime": "90.800s",
+                    "word": "lot"
+                  },
+                  {
+                    "startTime": "90.800s",
+                    "endTime": "91s",
+                    "word": "better"
+                  },
+                  {
+                    "startTime": "91s",
+                    "endTime": "91.200s",
+                    "word": "than"
+                  },
+                  {
+                    "startTime": "91.200s",
+                    "endTime": "91.700s",
+                    "word": "that."
+                  },
+                  {
+                    "startTime": "97.100s",
+                    "endTime": "97.300s",
+                    "word": "Yeah,"
+                  },
+                  {
+                    "startTime": "97.300s",
+                    "endTime": "97.400s",
+                    "word": "we"
+                  },
+                  {
+                    "startTime": "97.400s",
+                    "endTime": "97.600s",
+                    "word": "don't"
+                  },
+                  {
+                    "startTime": "97.600s",
+                    "endTime": "97.800s",
+                    "word": "get"
+                  },
+                  {
+                    "startTime": "97.800s",
+                    "endTime": "98s",
+                    "word": "them"
+                  },
+                  {
+                    "startTime": "98s",
+                    "endTime": "98.100s",
+                    "word": "on"
+                  },
+                  {
+                    "startTime": "98.100s",
+                    "endTime": "98.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "98.200s",
+                    "endTime": "98.500s",
+                    "word": "East"
+                  },
+                  {
+                    "startTime": "98.500s",
+                    "endTime": "98.900s",
+                    "word": "Coast"
+                  },
+                  {
+                    "startTime": "98.900s",
+                    "endTime": "99.100s",
+                    "word": "very"
+                  },
+                  {
+                    "startTime": "99.100s",
+                    "endTime": "99.600s",
+                    "word": "much."
+                  },
+                  {
+                    "startTime": "99.700s",
+                    "endTime": "99.800s",
+                    "word": "It's"
+                  },
+                  {
+                    "startTime": "99.800s",
+                    "endTime": "100.200s",
+                    "word": "true."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " The earthquake yes what to do when the earthquake comes. Well, there's a Zen koan anyone care to answer what to do when the earthquake comes that's the explanation or the manifestation. Yeah. That's my explanation would be you can't",
+                "confidence": 0.91283834,
+                "words": [
+                  {
+                    "startTime": "104.300s",
+                    "endTime": "104.800s",
+                    "word": "The"
+                  },
+                  {
+                    "startTime": "106.100s",
+                    "endTime": "107s",
+                    "word": "earthquake"
+                  },
+                  {
+                    "startTime": "107s",
+                    "endTime": "107.500s",
+                    "word": "yes"
+                  },
+                  {
+                    "startTime": "107.500s",
+                    "endTime": "107.700s",
+                    "word": "what"
+                  },
+                  {
+                    "startTime": "107.700s",
+                    "endTime": "107.800s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "107.800s",
+                    "endTime": "108s",
+                    "word": "do"
+                  },
+                  {
+                    "startTime": "108s",
+                    "endTime": "108.100s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "108.100s",
+                    "endTime": "108.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "108.300s",
+                    "endTime": "108.900s",
+                    "word": "earthquake"
+                  },
+                  {
+                    "startTime": "108.900s",
+                    "endTime": "109.600s",
+                    "word": "comes."
+                  },
+                  {
+                    "startTime": "111.800s",
+                    "endTime": "112.400s",
+                    "word": "Well,"
+                  },
+                  {
+                    "startTime": "112.900s",
+                    "endTime": "113.300s",
+                    "word": "there's"
+                  },
+                  {
+                    "startTime": "113.300s",
+                    "endTime": "113.400s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "113.400s",
+                    "endTime": "113.700s",
+                    "word": "Zen"
+                  },
+                  {
+                    "startTime": "113.700s",
+                    "endTime": "114.300s",
+                    "word": "koan"
+                  },
+                  {
+                    "startTime": "116.700s",
+                    "endTime": "117.100s",
+                    "word": "anyone"
+                  },
+                  {
+                    "startTime": "117.100s",
+                    "endTime": "117.400s",
+                    "word": "care"
+                  },
+                  {
+                    "startTime": "117.400s",
+                    "endTime": "117.500s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "117.500s",
+                    "endTime": "118.200s",
+                    "word": "answer"
+                  },
+                  {
+                    "startTime": "118.300s",
+                    "endTime": "118.500s",
+                    "word": "what"
+                  },
+                  {
+                    "startTime": "118.500s",
+                    "endTime": "118.600s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "118.600s",
+                    "endTime": "118.800s",
+                    "word": "do"
+                  },
+                  {
+                    "startTime": "118.800s",
+                    "endTime": "118.900s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "118.900s",
+                    "endTime": "119.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "119.100s",
+                    "endTime": "119.700s",
+                    "word": "earthquake"
+                  },
+                  {
+                    "startTime": "119.700s",
+                    "endTime": "120.400s",
+                    "word": "comes"
+                  },
+                  {
+                    "startTime": "121.700s",
+                    "endTime": "122s",
+                    "word": "that's"
+                  },
+                  {
+                    "startTime": "122s",
+                    "endTime": "122.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "122.100s",
+                    "endTime": "123.100s",
+                    "word": "explanation"
+                  },
+                  {
+                    "startTime": "123.900s",
+                    "endTime": "124.100s",
+                    "word": "or"
+                  },
+                  {
+                    "startTime": "124.100s",
+                    "endTime": "124.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "124.300s",
+                    "endTime": "125.400s",
+                    "word": "manifestation."
+                  },
+                  {
+                    "startTime": "126.300s",
+                    "endTime": "126.600s",
+                    "word": "Yeah."
+                  },
+                  {
+                    "startTime": "126.600s",
+                    "endTime": "126.800s",
+                    "word": "That's"
+                  },
+                  {
+                    "startTime": "130s",
+                    "endTime": "130.300s",
+                    "word": "my"
+                  },
+                  {
+                    "startTime": "130.300s",
+                    "endTime": "131.100s",
+                    "word": "explanation"
+                  },
+                  {
+                    "startTime": "131.100s",
+                    "endTime": "131.300s",
+                    "word": "would"
+                  },
+                  {
+                    "startTime": "131.300s",
+                    "endTime": "131.600s",
+                    "word": "be"
+                  },
+                  {
+                    "startTime": "131.600s",
+                    "endTime": "131.800s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "131.800s",
+                    "endTime": "132.100s",
+                    "word": "can't"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Shake the shaking.",
+                "confidence": 0.8028194,
+                "words": [
+                  {
+                    "startTime": "132.300s",
+                    "endTime": "132.700s",
+                    "word": "Shake"
+                  },
+                  {
+                    "startTime": "132.700s",
+                    "endTime": "132.800s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "132.800s",
+                    "endTime": "133.500s",
+                    "word": "shaking."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " impermanence complete experience",
+                "confidence": 0.9049452,
+                "words": [
+                  {
+                    "startTime": "137.500s",
+                    "endTime": "138.700s",
+                    "word": "impermanence"
+                  },
+                  {
+                    "startTime": "139.500s",
+                    "endTime": "140s",
+                    "word": "complete"
+                  },
+                  {
+                    "startTime": "140s",
+                    "endTime": "141.100s",
+                    "word": "experience"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " actually does Feel Like An Earthquake?",
+                "confidence": 0.86772406,
+                "words": [
+                  {
+                    "startTime": "142.300s",
+                    "endTime": "143.100s",
+                    "word": "actually"
+                  },
+                  {
+                    "startTime": "143.300s",
+                    "endTime": "143.800s",
+                    "word": "does"
+                  },
+                  {
+                    "startTime": "143.800s",
+                    "endTime": "144.100s",
+                    "word": "Feel"
+                  },
+                  {
+                    "startTime": "144.100s",
+                    "endTime": "144.400s",
+                    "word": "Like"
+                  },
+                  {
+                    "startTime": "144.400s",
+                    "endTime": "144.500s",
+                    "word": "An"
+                  },
+                  {
+                    "startTime": "144.500s",
+                    "endTime": "145.200s",
+                    "word": "Earthquake?"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " That earthquake was on cue for me. At least. I'm going to interpret it. That way. I was just about to say that when you have a complete experience. It feels like an earthquake. It shakes Heaven and Earth because it is the",
+                "confidence": 0.91283834,
+                "words": [
+                  {
+                    "startTime": "146.200s",
+                    "endTime": "146.600s",
+                    "word": "That"
+                  },
+                  {
+                    "startTime": "146.600s",
+                    "endTime": "147s",
+                    "word": "earthquake"
+                  },
+                  {
+                    "startTime": "147s",
+                    "endTime": "147.200s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "147.200s",
+                    "endTime": "147.400s",
+                    "word": "on"
+                  },
+                  {
+                    "startTime": "147.400s",
+                    "endTime": "147.800s",
+                    "word": "cue"
+                  },
+                  {
+                    "startTime": "147.800s",
+                    "endTime": "148s",
+                    "word": "for"
+                  },
+                  {
+                    "startTime": "148s",
+                    "endTime": "148.500s",
+                    "word": "me."
+                  },
+                  {
+                    "startTime": "150.400s",
+                    "endTime": "150.500s",
+                    "word": "At"
+                  },
+                  {
+                    "startTime": "150.500s",
+                    "endTime": "150.800s",
+                    "word": "least."
+                  },
+                  {
+                    "startTime": "150.800s",
+                    "endTime": "150.900s",
+                    "word": "I'm"
+                  },
+                  {
+                    "startTime": "150.900s",
+                    "endTime": "151.100s",
+                    "word": "going"
+                  },
+                  {
+                    "startTime": "151.100s",
+                    "endTime": "151.200s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "151.200s",
+                    "endTime": "151.700s",
+                    "word": "interpret"
+                  },
+                  {
+                    "startTime": "151.700s",
+                    "endTime": "151.800s",
+                    "word": "it."
+                  },
+                  {
+                    "startTime": "151.800s",
+                    "endTime": "152.100s",
+                    "word": "That"
+                  },
+                  {
+                    "startTime": "152.100s",
+                    "endTime": "152.400s",
+                    "word": "way."
+                  },
+                  {
+                    "startTime": "154.100s",
+                    "endTime": "154.200s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "154.200s",
+                    "endTime": "154.500s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "154.500s",
+                    "endTime": "154.900s",
+                    "word": "just"
+                  },
+                  {
+                    "startTime": "154.900s",
+                    "endTime": "155.200s",
+                    "word": "about"
+                  },
+                  {
+                    "startTime": "155.200s",
+                    "endTime": "155.300s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "155.300s",
+                    "endTime": "155.800s",
+                    "word": "say"
+                  },
+                  {
+                    "startTime": "156s",
+                    "endTime": "156.200s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "156.200s",
+                    "endTime": "156.400s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "156.400s",
+                    "endTime": "156.500s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "156.500s",
+                    "endTime": "156.700s",
+                    "word": "have"
+                  },
+                  {
+                    "startTime": "156.700s",
+                    "endTime": "156.800s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "156.800s",
+                    "endTime": "157.300s",
+                    "word": "complete"
+                  },
+                  {
+                    "startTime": "157.300s",
+                    "endTime": "158.400s",
+                    "word": "experience."
+                  },
+                  {
+                    "startTime": "159.500s",
+                    "endTime": "160s",
+                    "word": "It"
+                  },
+                  {
+                    "startTime": "160s",
+                    "endTime": "160.500s",
+                    "word": "feels"
+                  },
+                  {
+                    "startTime": "160.500s",
+                    "endTime": "160.700s",
+                    "word": "like"
+                  },
+                  {
+                    "startTime": "160.700s",
+                    "endTime": "160.900s",
+                    "word": "an"
+                  },
+                  {
+                    "startTime": "160.900s",
+                    "endTime": "161.400s",
+                    "word": "earthquake."
+                  },
+                  {
+                    "startTime": "161.400s",
+                    "endTime": "161.600s",
+                    "word": "It"
+                  },
+                  {
+                    "startTime": "161.600s",
+                    "endTime": "162.100s",
+                    "word": "shakes"
+                  },
+                  {
+                    "startTime": "162.100s",
+                    "endTime": "162.400s",
+                    "word": "Heaven"
+                  },
+                  {
+                    "startTime": "162.400s",
+                    "endTime": "162.600s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "162.600s",
+                    "endTime": "162.900s",
+                    "word": "Earth"
+                  },
+                  {
+                    "startTime": "162.900s",
+                    "endTime": "163.300s",
+                    "word": "because"
+                  },
+                  {
+                    "startTime": "163.300s",
+                    "endTime": "163.400s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "163.400s",
+                    "endTime": "163.800s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "164.300s",
+                    "endTime": "164.700s",
+                    "word": "the"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " The authentic person without a fixed position. I wasn't gonna related to an earthquake. Okay, but just but it's it is a reasonable comparison and one in fact that I have made numerous times in the past. So one of the times when I knew that this practice",
+                "confidence": 0.7876079,
+                "words": [
+                  {
+                    "startTime": "167.400s",
+                    "endTime": "167.800s",
+                    "word": "The"
+                  },
+                  {
+                    "startTime": "167.800s",
+                    "endTime": "168.500s",
+                    "word": "authentic"
+                  },
+                  {
+                    "startTime": "168.500s",
+                    "endTime": "169.300s",
+                    "word": "person"
+                  },
+                  {
+                    "startTime": "169.600s",
+                    "endTime": "170.400s",
+                    "word": "without"
+                  },
+                  {
+                    "startTime": "170.400s",
+                    "endTime": "170.600s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "170.600s",
+                    "endTime": "171.100s",
+                    "word": "fixed"
+                  },
+                  {
+                    "startTime": "171.100s",
+                    "endTime": "171.900s",
+                    "word": "position."
+                  },
+                  {
+                    "startTime": "172.700s",
+                    "endTime": "172.800s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "172.800s",
+                    "endTime": "173.600s",
+                    "word": "wasn't"
+                  },
+                  {
+                    "startTime": "173.600s",
+                    "endTime": "174.100s",
+                    "word": "gonna"
+                  },
+                  {
+                    "startTime": "174.300s",
+                    "endTime": "174.700s",
+                    "word": "related"
+                  },
+                  {
+                    "startTime": "174.700s",
+                    "endTime": "174.800s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "174.800s",
+                    "endTime": "175s",
+                    "word": "an"
+                  },
+                  {
+                    "startTime": "175s",
+                    "endTime": "175.600s",
+                    "word": "earthquake."
+                  },
+                  {
+                    "startTime": "175.600s",
+                    "endTime": "175.900s",
+                    "word": "Okay,"
+                  },
+                  {
+                    "startTime": "175.900s",
+                    "endTime": "176.200s",
+                    "word": "but"
+                  },
+                  {
+                    "startTime": "178.500s",
+                    "endTime": "179.200s",
+                    "word": "just"
+                  },
+                  {
+                    "startTime": "179.300s",
+                    "endTime": "179.600s",
+                    "word": "but"
+                  },
+                  {
+                    "startTime": "179.600s",
+                    "endTime": "180s",
+                    "word": "it's"
+                  },
+                  {
+                    "startTime": "180.200s",
+                    "endTime": "180.500s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "180.500s",
+                    "endTime": "180.900s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "180.900s",
+                    "endTime": "181.100s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "181.100s",
+                    "endTime": "182s",
+                    "word": "reasonable"
+                  },
+                  {
+                    "startTime": "182.900s",
+                    "endTime": "183.600s",
+                    "word": "comparison"
+                  },
+                  {
+                    "startTime": "183.600s",
+                    "endTime": "183.800s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "183.800s",
+                    "endTime": "184.100s",
+                    "word": "one"
+                  },
+                  {
+                    "startTime": "184.100s",
+                    "endTime": "184.300s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "184.300s",
+                    "endTime": "184.600s",
+                    "word": "fact"
+                  },
+                  {
+                    "startTime": "184.600s",
+                    "endTime": "184.800s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "184.800s",
+                    "endTime": "184.900s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "184.900s",
+                    "endTime": "185.200s",
+                    "word": "have"
+                  },
+                  {
+                    "startTime": "185.200s",
+                    "endTime": "185.800s",
+                    "word": "made"
+                  },
+                  {
+                    "startTime": "185.900s",
+                    "endTime": "186.300s",
+                    "word": "numerous"
+                  },
+                  {
+                    "startTime": "186.300s",
+                    "endTime": "186.700s",
+                    "word": "times"
+                  },
+                  {
+                    "startTime": "186.700s",
+                    "endTime": "186.800s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "186.800s",
+                    "endTime": "186.900s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "186.900s",
+                    "endTime": "187.500s",
+                    "word": "past."
+                  },
+                  {
+                    "startTime": "188.400s",
+                    "endTime": "189.200s",
+                    "word": "So"
+                  },
+                  {
+                    "startTime": "190.400s",
+                    "endTime": "190.600s",
+                    "word": "one"
+                  },
+                  {
+                    "startTime": "190.600s",
+                    "endTime": "190.600s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "190.600s",
+                    "endTime": "191.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "191.900s",
+                    "endTime": "192.600s",
+                    "word": "times"
+                  },
+                  {
+                    "startTime": "192.900s",
+                    "endTime": "193.200s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "193.200s",
+                    "endTime": "193.300s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "193.300s",
+                    "endTime": "193.800s",
+                    "word": "knew"
+                  },
+                  {
+                    "startTime": "193.800s",
+                    "endTime": "194.100s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "194.100s",
+                    "endTime": "194.300s",
+                    "word": "this"
+                  },
+                  {
+                    "startTime": "194.300s",
+                    "endTime": "195.200s",
+                    "word": "practice"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Was really doing something industrial strength for me was when we had the center some of you were around back that far on Eldon Avenue remember in Koreatown? So one morning I",
+                "confidence": 0.7863607,
+                "words": [
+                  {
+                    "startTime": "196.400s",
+                    "endTime": "196.800s",
+                    "word": "Was"
+                  },
+                  {
+                    "startTime": "196.800s",
+                    "endTime": "197.200s",
+                    "word": "really"
+                  },
+                  {
+                    "startTime": "197.200s",
+                    "endTime": "197.500s",
+                    "word": "doing"
+                  },
+                  {
+                    "startTime": "197.500s",
+                    "endTime": "197.900s",
+                    "word": "something"
+                  },
+                  {
+                    "startTime": "197.900s",
+                    "endTime": "198.600s",
+                    "word": "industrial"
+                  },
+                  {
+                    "startTime": "198.600s",
+                    "endTime": "199.300s",
+                    "word": "strength"
+                  },
+                  {
+                    "startTime": "200s",
+                    "endTime": "200.200s",
+                    "word": "for"
+                  },
+                  {
+                    "startTime": "200.200s",
+                    "endTime": "200.900s",
+                    "word": "me"
+                  },
+                  {
+                    "startTime": "200.900s",
+                    "endTime": "201.300s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "201.300s",
+                    "endTime": "201.600s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "201.600s",
+                    "endTime": "201.900s",
+                    "word": "we"
+                  },
+                  {
+                    "startTime": "202s",
+                    "endTime": "202.500s",
+                    "word": "had"
+                  },
+                  {
+                    "startTime": "202.500s",
+                    "endTime": "202.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "202.600s",
+                    "endTime": "203.100s",
+                    "word": "center"
+                  },
+                  {
+                    "startTime": "203.100s",
+                    "endTime": "203.300s",
+                    "word": "some"
+                  },
+                  {
+                    "startTime": "203.300s",
+                    "endTime": "203.500s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "203.500s",
+                    "endTime": "203.700s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "203.700s",
+                    "endTime": "203.800s",
+                    "word": "were"
+                  },
+                  {
+                    "startTime": "203.800s",
+                    "endTime": "204.400s",
+                    "word": "around"
+                  },
+                  {
+                    "startTime": "204.400s",
+                    "endTime": "204.900s",
+                    "word": "back"
+                  },
+                  {
+                    "startTime": "204.900s",
+                    "endTime": "205.200s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "205.200s",
+                    "endTime": "205.800s",
+                    "word": "far"
+                  },
+                  {
+                    "startTime": "206.500s",
+                    "endTime": "206.700s",
+                    "word": "on"
+                  },
+                  {
+                    "startTime": "206.700s",
+                    "endTime": "207.100s",
+                    "word": "Eldon"
+                  },
+                  {
+                    "startTime": "207.100s",
+                    "endTime": "207.600s",
+                    "word": "Avenue"
+                  },
+                  {
+                    "startTime": "207.600s",
+                    "endTime": "208.300s",
+                    "word": "remember"
+                  },
+                  {
+                    "startTime": "208.300s",
+                    "endTime": "208.500s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "208.500s",
+                    "endTime": "209.500s",
+                    "word": "Koreatown?"
+                  },
+                  {
+                    "startTime": "211.500s",
+                    "endTime": "212.300s",
+                    "word": "So"
+                  },
+                  {
+                    "startTime": "213.100s",
+                    "endTime": "213.400s",
+                    "word": "one"
+                  },
+                  {
+                    "startTime": "213.400s",
+                    "endTime": "213.900s",
+                    "word": "morning"
+                  },
+                  {
+                    "startTime": "213.900s",
+                    "endTime": "214.200s",
+                    "word": "I"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " I had to go in to do something that I'd forgotten and so I got in my car and then it's all I forgot to do that and I ran into the center and I left the keys in the car is downtown right and sure enough like two minutes later. I came out.",
+                "confidence": 0.8943731,
+                "words": [
+                  {
+                    "startTime": "216.700s",
+                    "endTime": "216.800s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "216.800s",
+                    "endTime": "217s",
+                    "word": "had"
+                  },
+                  {
+                    "startTime": "217s",
+                    "endTime": "217.200s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "217.200s",
+                    "endTime": "217.400s",
+                    "word": "go"
+                  },
+                  {
+                    "startTime": "217.400s",
+                    "endTime": "217.700s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "217.700s",
+                    "endTime": "218.100s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "218.300s",
+                    "endTime": "218.600s",
+                    "word": "do"
+                  },
+                  {
+                    "startTime": "218.600s",
+                    "endTime": "219s",
+                    "word": "something"
+                  },
+                  {
+                    "startTime": "219s",
+                    "endTime": "219.200s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "219.200s",
+                    "endTime": "219.400s",
+                    "word": "I'd"
+                  },
+                  {
+                    "startTime": "219.400s",
+                    "endTime": "220.200s",
+                    "word": "forgotten"
+                  },
+                  {
+                    "startTime": "220.700s",
+                    "endTime": "221.100s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "221.100s",
+                    "endTime": "221.600s",
+                    "word": "so"
+                  },
+                  {
+                    "startTime": "221.600s",
+                    "endTime": "221.900s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "222.700s",
+                    "endTime": "223.100s",
+                    "word": "got"
+                  },
+                  {
+                    "startTime": "223.100s",
+                    "endTime": "223.200s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "223.200s",
+                    "endTime": "223.400s",
+                    "word": "my"
+                  },
+                  {
+                    "startTime": "223.400s",
+                    "endTime": "224s",
+                    "word": "car"
+                  },
+                  {
+                    "startTime": "224s",
+                    "endTime": "224.200s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "224.200s",
+                    "endTime": "224.600s",
+                    "word": "then"
+                  },
+                  {
+                    "startTime": "224.700s",
+                    "endTime": "224.900s",
+                    "word": "it's"
+                  },
+                  {
+                    "startTime": "224.900s",
+                    "endTime": "225.200s",
+                    "word": "all"
+                  },
+                  {
+                    "startTime": "225.200s",
+                    "endTime": "225.200s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "225.200s",
+                    "endTime": "225.600s",
+                    "word": "forgot"
+                  },
+                  {
+                    "startTime": "225.600s",
+                    "endTime": "225.700s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "225.700s",
+                    "endTime": "225.800s",
+                    "word": "do"
+                  },
+                  {
+                    "startTime": "225.800s",
+                    "endTime": "226.100s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "226.100s",
+                    "endTime": "226.600s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "226.600s",
+                    "endTime": "226.700s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "226.700s",
+                    "endTime": "227s",
+                    "word": "ran"
+                  },
+                  {
+                    "startTime": "227s",
+                    "endTime": "227.200s",
+                    "word": "into"
+                  },
+                  {
+                    "startTime": "227.200s",
+                    "endTime": "227.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "227.400s",
+                    "endTime": "227.900s",
+                    "word": "center"
+                  },
+                  {
+                    "startTime": "230.400s",
+                    "endTime": "230.800s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "230.800s",
+                    "endTime": "230.800s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "230.800s",
+                    "endTime": "231.400s",
+                    "word": "left"
+                  },
+                  {
+                    "startTime": "231.400s",
+                    "endTime": "231.500s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "231.500s",
+                    "endTime": "232.200s",
+                    "word": "keys"
+                  },
+                  {
+                    "startTime": "232.200s",
+                    "endTime": "232.300s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "232.300s",
+                    "endTime": "232.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "232.400s",
+                    "endTime": "232.900s",
+                    "word": "car"
+                  },
+                  {
+                    "startTime": "233.900s",
+                    "endTime": "234.100s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "234.100s",
+                    "endTime": "234.700s",
+                    "word": "downtown"
+                  },
+                  {
+                    "startTime": "234.700s",
+                    "endTime": "235.100s",
+                    "word": "right"
+                  },
+                  {
+                    "startTime": "236s",
+                    "endTime": "236.800s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "236.800s",
+                    "endTime": "237s",
+                    "word": "sure"
+                  },
+                  {
+                    "startTime": "237s",
+                    "endTime": "237.600s",
+                    "word": "enough"
+                  },
+                  {
+                    "startTime": "237.900s",
+                    "endTime": "238.400s",
+                    "word": "like"
+                  },
+                  {
+                    "startTime": "239.100s",
+                    "endTime": "239.300s",
+                    "word": "two"
+                  },
+                  {
+                    "startTime": "239.300s",
+                    "endTime": "239.700s",
+                    "word": "minutes"
+                  },
+                  {
+                    "startTime": "239.700s",
+                    "endTime": "240.100s",
+                    "word": "later."
+                  },
+                  {
+                    "startTime": "240.100s",
+                    "endTime": "240.200s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "240.200s",
+                    "endTime": "240.500s",
+                    "word": "came"
+                  },
+                  {
+                    "startTime": "240.500s",
+                    "endTime": "241.200s",
+                    "word": "out."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " The car is gone. And what was that experience? I'm remembering it because at the time it was just like an earthquake. That's all there was. No thought there was no emotion as an object. It was so complete that it was just space rocking. It was just like that last penultimate scene.",
+                "confidence": 0.9128382,
+                "words": [
+                  {
+                    "startTime": "242s",
+                    "endTime": "242.200s",
+                    "word": "The"
+                  },
+                  {
+                    "startTime": "242.200s",
+                    "endTime": "242.500s",
+                    "word": "car"
+                  },
+                  {
+                    "startTime": "242.500s",
+                    "endTime": "242.700s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "242.700s",
+                    "endTime": "243.300s",
+                    "word": "gone."
+                  },
+                  {
+                    "startTime": "245.300s",
+                    "endTime": "245.500s",
+                    "word": "And"
+                  },
+                  {
+                    "startTime": "245.500s",
+                    "endTime": "245.700s",
+                    "word": "what"
+                  },
+                  {
+                    "startTime": "245.700s",
+                    "endTime": "245.800s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "245.800s",
+                    "endTime": "246s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "246s",
+                    "endTime": "247s",
+                    "word": "experience?"
+                  },
+                  {
+                    "startTime": "247.800s",
+                    "endTime": "247.900s",
+                    "word": "I'm"
+                  },
+                  {
+                    "startTime": "247.900s",
+                    "endTime": "248.500s",
+                    "word": "remembering"
+                  },
+                  {
+                    "startTime": "248.500s",
+                    "endTime": "248.700s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "248.700s",
+                    "endTime": "249.300s",
+                    "word": "because"
+                  },
+                  {
+                    "startTime": "249.300s",
+                    "endTime": "249.500s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "249.500s",
+                    "endTime": "249.700s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "249.700s",
+                    "endTime": "250.300s",
+                    "word": "time"
+                  },
+                  {
+                    "startTime": "251s",
+                    "endTime": "251.200s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "251.200s",
+                    "endTime": "251.500s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "252.400s",
+                    "endTime": "252.700s",
+                    "word": "just"
+                  },
+                  {
+                    "startTime": "252.700s",
+                    "endTime": "252.900s",
+                    "word": "like"
+                  },
+                  {
+                    "startTime": "252.900s",
+                    "endTime": "253.100s",
+                    "word": "an"
+                  },
+                  {
+                    "startTime": "253.100s",
+                    "endTime": "254s",
+                    "word": "earthquake."
+                  },
+                  {
+                    "startTime": "254.600s",
+                    "endTime": "254.900s",
+                    "word": "That's"
+                  },
+                  {
+                    "startTime": "254.900s",
+                    "endTime": "255.400s",
+                    "word": "all"
+                  },
+                  {
+                    "startTime": "255.400s",
+                    "endTime": "255.600s",
+                    "word": "there"
+                  },
+                  {
+                    "startTime": "255.600s",
+                    "endTime": "255.800s",
+                    "word": "was."
+                  },
+                  {
+                    "startTime": "255.800s",
+                    "endTime": "256s",
+                    "word": "No"
+                  },
+                  {
+                    "startTime": "256s",
+                    "endTime": "256.800s",
+                    "word": "thought"
+                  },
+                  {
+                    "startTime": "256.900s",
+                    "endTime": "257.100s",
+                    "word": "there"
+                  },
+                  {
+                    "startTime": "257.100s",
+                    "endTime": "257.200s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "257.200s",
+                    "endTime": "257.400s",
+                    "word": "no"
+                  },
+                  {
+                    "startTime": "257.400s",
+                    "endTime": "258.200s",
+                    "word": "emotion"
+                  },
+                  {
+                    "startTime": "259.100s",
+                    "endTime": "259.300s",
+                    "word": "as"
+                  },
+                  {
+                    "startTime": "259.300s",
+                    "endTime": "259.600s",
+                    "word": "an"
+                  },
+                  {
+                    "startTime": "259.600s",
+                    "endTime": "260.500s",
+                    "word": "object."
+                  },
+                  {
+                    "startTime": "260.800s",
+                    "endTime": "261s",
+                    "word": "It"
+                  },
+                  {
+                    "startTime": "261s",
+                    "endTime": "261.200s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "261.200s",
+                    "endTime": "261.400s",
+                    "word": "so"
+                  },
+                  {
+                    "startTime": "261.400s",
+                    "endTime": "262.100s",
+                    "word": "complete"
+                  },
+                  {
+                    "startTime": "262.100s",
+                    "endTime": "262.200s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "262.200s",
+                    "endTime": "262.300s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "262.300s",
+                    "endTime": "262.500s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "262.500s",
+                    "endTime": "263.100s",
+                    "word": "just"
+                  },
+                  {
+                    "startTime": "263.900s",
+                    "endTime": "264.700s",
+                    "word": "space"
+                  },
+                  {
+                    "startTime": "264.900s",
+                    "endTime": "265.700s",
+                    "word": "rocking."
+                  },
+                  {
+                    "startTime": "267s",
+                    "endTime": "267.100s",
+                    "word": "It"
+                  },
+                  {
+                    "startTime": "267.100s",
+                    "endTime": "267.500s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "267.500s",
+                    "endTime": "267.800s",
+                    "word": "just"
+                  },
+                  {
+                    "startTime": "267.800s",
+                    "endTime": "268s",
+                    "word": "like"
+                  },
+                  {
+                    "startTime": "268s",
+                    "endTime": "268.600s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "269.400s",
+                    "endTime": "270.300s",
+                    "word": "last"
+                  },
+                  {
+                    "startTime": "270.400s",
+                    "endTime": "271.200s",
+                    "word": "penultimate"
+                  },
+                  {
+                    "startTime": "271.200s",
+                    "endTime": "271.600s",
+                    "word": "scene."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " In the first Matrix when puts the name of the character that he Nia huh? Yeah, Annie O Neill realizes who he is, right and the whole frame of the movie sort of goes away. I mean, that's really what it was like it wasn't just",
+                "confidence": 0.74822783,
+                "words": [
+                  {
+                    "startTime": "272.200s",
+                    "endTime": "272.800s",
+                    "word": "In"
+                  },
+                  {
+                    "startTime": "272.800s",
+                    "endTime": "272.900s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "272.900s",
+                    "endTime": "273.300s",
+                    "word": "first"
+                  },
+                  {
+                    "startTime": "273.300s",
+                    "endTime": "274.100s",
+                    "word": "Matrix"
+                  },
+                  {
+                    "startTime": "276.300s",
+                    "endTime": "276.700s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "280.300s",
+                    "endTime": "280.600s",
+                    "word": "puts"
+                  },
+                  {
+                    "startTime": "280.600s",
+                    "endTime": "280.900s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "280.900s",
+                    "endTime": "281.100s",
+                    "word": "name"
+                  },
+                  {
+                    "startTime": "281.100s",
+                    "endTime": "281.200s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "281.200s",
+                    "endTime": "281.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "281.300s",
+                    "endTime": "281.900s",
+                    "word": "character"
+                  },
+                  {
+                    "startTime": "281.900s",
+                    "endTime": "282.100s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "282.100s",
+                    "endTime": "282.200s",
+                    "word": "he"
+                  },
+                  {
+                    "startTime": "282.200s",
+                    "endTime": "282.700s",
+                    "word": "Nia"
+                  },
+                  {
+                    "startTime": "283.900s",
+                    "endTime": "284.300s",
+                    "word": "huh?"
+                  },
+                  {
+                    "startTime": "284.500s",
+                    "endTime": "285s",
+                    "word": "Yeah,"
+                  },
+                  {
+                    "startTime": "285s",
+                    "endTime": "285.500s",
+                    "word": "Annie"
+                  },
+                  {
+                    "startTime": "285.500s",
+                    "endTime": "285.900s",
+                    "word": "O"
+                  },
+                  {
+                    "startTime": "286.700s",
+                    "endTime": "287.400s",
+                    "word": "Neill"
+                  },
+                  {
+                    "startTime": "287.800s",
+                    "endTime": "288.600s",
+                    "word": "realizes"
+                  },
+                  {
+                    "startTime": "288.600s",
+                    "endTime": "288.800s",
+                    "word": "who"
+                  },
+                  {
+                    "startTime": "288.800s",
+                    "endTime": "289s",
+                    "word": "he"
+                  },
+                  {
+                    "startTime": "289s",
+                    "endTime": "289.400s",
+                    "word": "is,"
+                  },
+                  {
+                    "startTime": "290.500s",
+                    "endTime": "291.200s",
+                    "word": "right"
+                  },
+                  {
+                    "startTime": "291.400s",
+                    "endTime": "291.800s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "292.900s",
+                    "endTime": "293.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "293.100s",
+                    "endTime": "293.300s",
+                    "word": "whole"
+                  },
+                  {
+                    "startTime": "293.300s",
+                    "endTime": "293.800s",
+                    "word": "frame"
+                  },
+                  {
+                    "startTime": "293.800s",
+                    "endTime": "293.900s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "293.900s",
+                    "endTime": "294s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "294s",
+                    "endTime": "294.400s",
+                    "word": "movie"
+                  },
+                  {
+                    "startTime": "294.400s",
+                    "endTime": "294.600s",
+                    "word": "sort"
+                  },
+                  {
+                    "startTime": "294.600s",
+                    "endTime": "294.700s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "294.700s",
+                    "endTime": "294.900s",
+                    "word": "goes"
+                  },
+                  {
+                    "startTime": "294.900s",
+                    "endTime": "295.100s",
+                    "word": "away."
+                  },
+                  {
+                    "startTime": "299.300s",
+                    "endTime": "299.400s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "299.400s",
+                    "endTime": "299.600s",
+                    "word": "mean,"
+                  },
+                  {
+                    "startTime": "299.600s",
+                    "endTime": "300s",
+                    "word": "that's"
+                  },
+                  {
+                    "startTime": "300s",
+                    "endTime": "300.400s",
+                    "word": "really"
+                  },
+                  {
+                    "startTime": "300.400s",
+                    "endTime": "300.500s",
+                    "word": "what"
+                  },
+                  {
+                    "startTime": "300.500s",
+                    "endTime": "300.600s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "300.600s",
+                    "endTime": "300.700s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "300.700s",
+                    "endTime": "301s",
+                    "word": "like"
+                  },
+                  {
+                    "startTime": "301s",
+                    "endTime": "301.100s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "301.100s",
+                    "endTime": "301.400s",
+                    "word": "wasn't"
+                  },
+                  {
+                    "startTime": "301.400s",
+                    "endTime": "301.600s",
+                    "word": "just"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " My mind and my body it was the Sight and Sound everything the whole frame of the self and scene was just this wave.",
+                "confidence": 0.7556181,
+                "words": [
+                  {
+                    "startTime": "301.700s",
+                    "endTime": "302.400s",
+                    "word": "My"
+                  },
+                  {
+                    "startTime": "302.400s",
+                    "endTime": "302.800s",
+                    "word": "mind"
+                  },
+                  {
+                    "startTime": "302.800s",
+                    "endTime": "302.900s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "302.900s",
+                    "endTime": "303.100s",
+                    "word": "my"
+                  },
+                  {
+                    "startTime": "303.100s",
+                    "endTime": "303.500s",
+                    "word": "body"
+                  },
+                  {
+                    "startTime": "303.500s",
+                    "endTime": "303.700s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "303.700s",
+                    "endTime": "304.100s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "304.100s",
+                    "endTime": "304.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "304.200s",
+                    "endTime": "305.100s",
+                    "word": "Sight"
+                  },
+                  {
+                    "startTime": "305.100s",
+                    "endTime": "305.300s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "305.300s",
+                    "endTime": "305.700s",
+                    "word": "Sound"
+                  },
+                  {
+                    "startTime": "305.700s",
+                    "endTime": "306.400s",
+                    "word": "everything"
+                  },
+                  {
+                    "startTime": "306.800s",
+                    "endTime": "306.900s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "306.900s",
+                    "endTime": "307.400s",
+                    "word": "whole"
+                  },
+                  {
+                    "startTime": "307.400s",
+                    "endTime": "308.300s",
+                    "word": "frame"
+                  },
+                  {
+                    "startTime": "309.100s",
+                    "endTime": "309.500s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "309.500s",
+                    "endTime": "309.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "309.600s",
+                    "endTime": "310.100s",
+                    "word": "self"
+                  },
+                  {
+                    "startTime": "310.100s",
+                    "endTime": "310.200s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "310.200s",
+                    "endTime": "310.900s",
+                    "word": "scene"
+                  },
+                  {
+                    "startTime": "311.100s",
+                    "endTime": "311.400s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "311.400s",
+                    "endTime": "311.700s",
+                    "word": "just"
+                  },
+                  {
+                    "startTime": "311.700s",
+                    "endTime": "312.200s",
+                    "word": "this"
+                  },
+                  {
+                    "startTime": "312.400s",
+                    "endTime": "313.400s",
+                    "word": "wave."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " and then",
+                "confidence": 0.77724373,
+                "words": [
+                  {
+                    "startTime": "315.100s",
+                    "endTime": "315.300s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "315.300s",
+                    "endTime": "316s",
+                    "word": "then"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " it was just like being massaged.",
+                "confidence": 0.90045863,
+                "words": [
+                  {
+                    "startTime": "317.900s",
+                    "endTime": "318.100s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "318.100s",
+                    "endTime": "318.200s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "318.200s",
+                    "endTime": "318.400s",
+                    "word": "just"
+                  },
+                  {
+                    "startTime": "318.400s",
+                    "endTime": "318.600s",
+                    "word": "like"
+                  },
+                  {
+                    "startTime": "318.600s",
+                    "endTime": "318.900s",
+                    "word": "being"
+                  },
+                  {
+                    "startTime": "318.900s",
+                    "endTime": "319.800s",
+                    "word": "massaged."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " And then I just went in called the cops. And that was that was that you know reported it. That was dramatic. That was a complete experience of having your car swiped in downtown. Oh, ah, ah, ah,",
+                "confidence": 0.90347517,
+                "words": [
+                  {
+                    "startTime": "320.900s",
+                    "endTime": "321s",
+                    "word": "And"
+                  },
+                  {
+                    "startTime": "321s",
+                    "endTime": "321.200s",
+                    "word": "then"
+                  },
+                  {
+                    "startTime": "321.200s",
+                    "endTime": "321.300s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "321.300s",
+                    "endTime": "321.800s",
+                    "word": "just"
+                  },
+                  {
+                    "startTime": "321.800s",
+                    "endTime": "322.100s",
+                    "word": "went"
+                  },
+                  {
+                    "startTime": "322.100s",
+                    "endTime": "322.600s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "322.700s",
+                    "endTime": "323s",
+                    "word": "called"
+                  },
+                  {
+                    "startTime": "323s",
+                    "endTime": "323s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "323s",
+                    "endTime": "323.600s",
+                    "word": "cops."
+                  },
+                  {
+                    "startTime": "323.600s",
+                    "endTime": "323.900s",
+                    "word": "And"
+                  },
+                  {
+                    "startTime": "323.900s",
+                    "endTime": "324.100s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "324.100s",
+                    "endTime": "324.300s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "324.300s",
+                    "endTime": "324.500s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "324.500s",
+                    "endTime": "324.600s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "324.600s",
+                    "endTime": "324.900s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "324.900s",
+                    "endTime": "325s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "325s",
+                    "endTime": "325.100s",
+                    "word": "know"
+                  },
+                  {
+                    "startTime": "325.100s",
+                    "endTime": "325.700s",
+                    "word": "reported"
+                  },
+                  {
+                    "startTime": "325.700s",
+                    "endTime": "326.100s",
+                    "word": "it."
+                  },
+                  {
+                    "startTime": "328.200s",
+                    "endTime": "328.400s",
+                    "word": "That"
+                  },
+                  {
+                    "startTime": "328.400s",
+                    "endTime": "328.900s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "328.900s",
+                    "endTime": "329.600s",
+                    "word": "dramatic."
+                  },
+                  {
+                    "startTime": "330.300s",
+                    "endTime": "330.500s",
+                    "word": "That"
+                  },
+                  {
+                    "startTime": "330.500s",
+                    "endTime": "330.800s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "330.800s",
+                    "endTime": "330.900s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "330.900s",
+                    "endTime": "331.500s",
+                    "word": "complete"
+                  },
+                  {
+                    "startTime": "331.500s",
+                    "endTime": "332.200s",
+                    "word": "experience"
+                  },
+                  {
+                    "startTime": "332.200s",
+                    "endTime": "332.400s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "332.400s",
+                    "endTime": "332.700s",
+                    "word": "having"
+                  },
+                  {
+                    "startTime": "332.700s",
+                    "endTime": "332.900s",
+                    "word": "your"
+                  },
+                  {
+                    "startTime": "332.900s",
+                    "endTime": "333.200s",
+                    "word": "car"
+                  },
+                  {
+                    "startTime": "333.200s",
+                    "endTime": "333.900s",
+                    "word": "swiped"
+                  },
+                  {
+                    "startTime": "335s",
+                    "endTime": "335.100s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "335.100s",
+                    "endTime": "335.700s",
+                    "word": "downtown."
+                  },
+                  {
+                    "startTime": "335.700s",
+                    "endTime": "335.800s",
+                    "word": "Oh,"
+                  },
+                  {
+                    "startTime": "335.800s",
+                    "endTime": "336.200s",
+                    "word": "ah,"
+                  },
+                  {
+                    "startTime": "336.900s",
+                    "endTime": "337.100s",
+                    "word": "ah,"
+                  },
+                  {
+                    "startTime": "337.100s",
+                    "endTime": "337.200s",
+                    "word": "ah,"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " the gangbangers are took it. We're so stupid. They put their graffiti in it the cops the cops busted him eventually got the car back left the graffiti just for the cultural.",
+                "confidence": 0.7599192,
+                "words": [
+                  {
+                    "startTime": "340.200s",
+                    "endTime": "340.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "340.400s",
+                    "endTime": "341.200s",
+                    "word": "gangbangers"
+                  },
+                  {
+                    "startTime": "341.200s",
+                    "endTime": "341.300s",
+                    "word": "are"
+                  },
+                  {
+                    "startTime": "341.300s",
+                    "endTime": "341.600s",
+                    "word": "took"
+                  },
+                  {
+                    "startTime": "341.600s",
+                    "endTime": "341.700s",
+                    "word": "it."
+                  },
+                  {
+                    "startTime": "341.700s",
+                    "endTime": "341.800s",
+                    "word": "We're"
+                  },
+                  {
+                    "startTime": "341.800s",
+                    "endTime": "342s",
+                    "word": "so"
+                  },
+                  {
+                    "startTime": "342s",
+                    "endTime": "343s",
+                    "word": "stupid."
+                  },
+                  {
+                    "startTime": "343.100s",
+                    "endTime": "343.200s",
+                    "word": "They"
+                  },
+                  {
+                    "startTime": "343.200s",
+                    "endTime": "343.500s",
+                    "word": "put"
+                  },
+                  {
+                    "startTime": "343.500s",
+                    "endTime": "343.900s",
+                    "word": "their"
+                  },
+                  {
+                    "startTime": "344.100s",
+                    "endTime": "344.800s",
+                    "word": "graffiti"
+                  },
+                  {
+                    "startTime": "344.800s",
+                    "endTime": "345s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "345s",
+                    "endTime": "345.400s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "348s",
+                    "endTime": "348.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "348.100s",
+                    "endTime": "348.400s",
+                    "word": "cops"
+                  },
+                  {
+                    "startTime": "349.400s",
+                    "endTime": "349.500s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "349.500s",
+                    "endTime": "349.900s",
+                    "word": "cops"
+                  },
+                  {
+                    "startTime": "349.900s",
+                    "endTime": "350.300s",
+                    "word": "busted"
+                  },
+                  {
+                    "startTime": "350.300s",
+                    "endTime": "350.600s",
+                    "word": "him"
+                  },
+                  {
+                    "startTime": "351.500s",
+                    "endTime": "352.100s",
+                    "word": "eventually"
+                  },
+                  {
+                    "startTime": "352.100s",
+                    "endTime": "352.300s",
+                    "word": "got"
+                  },
+                  {
+                    "startTime": "352.300s",
+                    "endTime": "352.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "352.400s",
+                    "endTime": "352.900s",
+                    "word": "car"
+                  },
+                  {
+                    "startTime": "352.900s",
+                    "endTime": "353.400s",
+                    "word": "back"
+                  },
+                  {
+                    "startTime": "356.100s",
+                    "endTime": "356.400s",
+                    "word": "left"
+                  },
+                  {
+                    "startTime": "356.400s",
+                    "endTime": "356.500s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "356.500s",
+                    "endTime": "357.100s",
+                    "word": "graffiti"
+                  },
+                  {
+                    "startTime": "357.100s",
+                    "endTime": "357.300s",
+                    "word": "just"
+                  },
+                  {
+                    "startTime": "357.300s",
+                    "endTime": "357.500s",
+                    "word": "for"
+                  },
+                  {
+                    "startTime": "357.500s",
+                    "endTime": "357.700s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "357.700s",
+                    "endTime": "358.300s",
+                    "word": "cultural."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          }
+        ]
+      }
+    ]
+  }
+}

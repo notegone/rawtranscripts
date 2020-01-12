@@ -1,0 +1,941 @@
+{
+  "name": "projects/923263939845/locations/us-east1/operations/7251467411132753033",
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoProgress",
+    "annotationProgress": [
+      {
+        "inputUri": "/shfvideos/ShinzenVideos/SHINZEN Defines ENLIGHTENMENT.mp4",
+        "progressPercent": 100,
+        "startTime": "2019-12-27T06:45:54.571679Z",
+        "updateTime": "2019-12-27T06:47:51.159750Z"
+      }
+    ]
+  },
+  "done": true,
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoResponse",
+    "annotationResults": [
+      {
+        "inputUri": "/shfvideos/ShinzenVideos/SHINZEN Defines ENLIGHTENMENT.mp4",
+        "segment": {
+          "startTimeOffset": "0s",
+          "endTimeOffset": "100.124444s"
+        },
+        "speechTranscriptions": [
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": "Question. Yes, long long long piece on the internet on my YouTube channels, but you would like the executive Summit with executive summary is that you have a kind of let's see that you",
+                "confidence": 0.90687436,
+                "words": [
+                  {
+                    "startTime": "6s",
+                    "endTime": "7.300s",
+                    "word": "Question."
+                  },
+                  {
+                    "startTime": "7.300s",
+                    "endTime": "7.600s",
+                    "word": "Yes,"
+                  },
+                  {
+                    "startTime": "7.600s",
+                    "endTime": "15.700s",
+                    "word": "long"
+                  },
+                  {
+                    "startTime": "15.700s",
+                    "endTime": "16s",
+                    "word": "long"
+                  },
+                  {
+                    "startTime": "16s",
+                    "endTime": "16.300s",
+                    "word": "long"
+                  },
+                  {
+                    "startTime": "16.300s",
+                    "endTime": "17.600s",
+                    "word": "piece"
+                  },
+                  {
+                    "startTime": "17.600s",
+                    "endTime": "17.700s",
+                    "word": "on"
+                  },
+                  {
+                    "startTime": "17.700s",
+                    "endTime": "17.800s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "17.800s",
+                    "endTime": "18.500s",
+                    "word": "internet"
+                  },
+                  {
+                    "startTime": "18.500s",
+                    "endTime": "19.300s",
+                    "word": "on"
+                  },
+                  {
+                    "startTime": "19.300s",
+                    "endTime": "19.600s",
+                    "word": "my"
+                  },
+                  {
+                    "startTime": "19.600s",
+                    "endTime": "20.100s",
+                    "word": "YouTube"
+                  },
+                  {
+                    "startTime": "20.100s",
+                    "endTime": "20.600s",
+                    "word": "channels,"
+                  },
+                  {
+                    "startTime": "20.600s",
+                    "endTime": "21.200s",
+                    "word": "but"
+                  },
+                  {
+                    "startTime": "21.200s",
+                    "endTime": "22.100s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "22.100s",
+                    "endTime": "22.300s",
+                    "word": "would"
+                  },
+                  {
+                    "startTime": "22.300s",
+                    "endTime": "22.400s",
+                    "word": "like"
+                  },
+                  {
+                    "startTime": "22.400s",
+                    "endTime": "22.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "22.600s",
+                    "endTime": "22.900s",
+                    "word": "executive"
+                  },
+                  {
+                    "startTime": "22.900s",
+                    "endTime": "23.600s",
+                    "word": "Summit"
+                  },
+                  {
+                    "startTime": "23.600s",
+                    "endTime": "24s",
+                    "word": "with"
+                  },
+                  {
+                    "startTime": "24s",
+                    "endTime": "26.400s",
+                    "word": "executive"
+                  },
+                  {
+                    "startTime": "26.400s",
+                    "endTime": "26.900s",
+                    "word": "summary"
+                  },
+                  {
+                    "startTime": "26.900s",
+                    "endTime": "27s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "27s",
+                    "endTime": "29.300s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "29.300s",
+                    "endTime": "31.200s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "31.200s",
+                    "endTime": "31.900s",
+                    "word": "have"
+                  },
+                  {
+                    "startTime": "31.900s",
+                    "endTime": "32s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "32s",
+                    "endTime": "32.600s",
+                    "word": "kind"
+                  },
+                  {
+                    "startTime": "32.600s",
+                    "endTime": "32.800s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "32.800s",
+                    "endTime": "34.900s",
+                    "word": "let's"
+                  },
+                  {
+                    "startTime": "34.900s",
+                    "endTime": "35s",
+                    "word": "see"
+                  },
+                  {
+                    "startTime": "35s",
+                    "endTime": "35.300s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "35.300s",
+                    "endTime": "35.800s",
+                    "word": "you"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": "Realize that there is nothing inside your call to self.",
+                "confidence": 0.7589469,
+                "words": [
+                  {
+                    "startTime": "36.100s",
+                    "endTime": "36.800s",
+                    "word": "Realize"
+                  },
+                  {
+                    "startTime": "38.300s",
+                    "endTime": "38.500s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "38.500s",
+                    "endTime": "38.700s",
+                    "word": "there"
+                  },
+                  {
+                    "startTime": "38.700s",
+                    "endTime": "39s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "39s",
+                    "endTime": "39.700s",
+                    "word": "nothing"
+                  },
+                  {
+                    "startTime": "39.700s",
+                    "endTime": "40.200s",
+                    "word": "inside"
+                  },
+                  {
+                    "startTime": "40.200s",
+                    "endTime": "40.300s",
+                    "word": "your"
+                  },
+                  {
+                    "startTime": "40.300s",
+                    "endTime": "40.500s",
+                    "word": "call"
+                  },
+                  {
+                    "startTime": "40.500s",
+                    "endTime": "40.600s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "40.600s",
+                    "endTime": "41.100s",
+                    "word": "self."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Sometimes that realization happens suddenly and you can read about that in books like three pillars of Zen. They've got all these testimonials in there about people for whom it happened really suddenly, but it's my experience that it usually sneaks up on people. Sometimes they don't realize quite realize how enlightened they become because it's they gradually acclimatize but it in the Buddhist definition of enlightenment is that you realize that there's never been a thing inside you",
+                "confidence": 0.8199413,
+                "words": [
+                  {
+                    "startTime": "42.200s",
+                    "endTime": "42.700s",
+                    "word": "Sometimes"
+                  },
+                  {
+                    "startTime": "42.700s",
+                    "endTime": "42.900s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "42.900s",
+                    "endTime": "43.600s",
+                    "word": "realization"
+                  },
+                  {
+                    "startTime": "43.600s",
+                    "endTime": "44.100s",
+                    "word": "happens"
+                  },
+                  {
+                    "startTime": "44.100s",
+                    "endTime": "44.600s",
+                    "word": "suddenly"
+                  },
+                  {
+                    "startTime": "44.600s",
+                    "endTime": "44.700s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "44.700s",
+                    "endTime": "44.800s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "44.800s",
+                    "endTime": "44.900s",
+                    "word": "can"
+                  },
+                  {
+                    "startTime": "44.900s",
+                    "endTime": "45.100s",
+                    "word": "read"
+                  },
+                  {
+                    "startTime": "45.100s",
+                    "endTime": "45.400s",
+                    "word": "about"
+                  },
+                  {
+                    "startTime": "45.400s",
+                    "endTime": "45.600s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "45.600s",
+                    "endTime": "45.800s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "45.800s",
+                    "endTime": "46.200s",
+                    "word": "books"
+                  },
+                  {
+                    "startTime": "46.200s",
+                    "endTime": "46.700s",
+                    "word": "like"
+                  },
+                  {
+                    "startTime": "47.600s",
+                    "endTime": "47.800s",
+                    "word": "three"
+                  },
+                  {
+                    "startTime": "47.800s",
+                    "endTime": "48.200s",
+                    "word": "pillars"
+                  },
+                  {
+                    "startTime": "48.200s",
+                    "endTime": "48.400s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "48.400s",
+                    "endTime": "48.700s",
+                    "word": "Zen."
+                  },
+                  {
+                    "startTime": "48.700s",
+                    "endTime": "48.800s",
+                    "word": "They've"
+                  },
+                  {
+                    "startTime": "48.800s",
+                    "endTime": "49s",
+                    "word": "got"
+                  },
+                  {
+                    "startTime": "49s",
+                    "endTime": "49.100s",
+                    "word": "all"
+                  },
+                  {
+                    "startTime": "49.100s",
+                    "endTime": "49.300s",
+                    "word": "these"
+                  },
+                  {
+                    "startTime": "49.300s",
+                    "endTime": "50.200s",
+                    "word": "testimonials"
+                  },
+                  {
+                    "startTime": "50.200s",
+                    "endTime": "50.300s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "50.300s",
+                    "endTime": "50.700s",
+                    "word": "there"
+                  },
+                  {
+                    "startTime": "51.200s",
+                    "endTime": "51.500s",
+                    "word": "about"
+                  },
+                  {
+                    "startTime": "51.500s",
+                    "endTime": "52s",
+                    "word": "people"
+                  },
+                  {
+                    "startTime": "52.100s",
+                    "endTime": "52.300s",
+                    "word": "for"
+                  },
+                  {
+                    "startTime": "52.300s",
+                    "endTime": "52.500s",
+                    "word": "whom"
+                  },
+                  {
+                    "startTime": "52.500s",
+                    "endTime": "52.600s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "52.600s",
+                    "endTime": "52.900s",
+                    "word": "happened"
+                  },
+                  {
+                    "startTime": "52.900s",
+                    "endTime": "53.200s",
+                    "word": "really"
+                  },
+                  {
+                    "startTime": "53.200s",
+                    "endTime": "53.900s",
+                    "word": "suddenly,"
+                  },
+                  {
+                    "startTime": "54.300s",
+                    "endTime": "54.400s",
+                    "word": "but"
+                  },
+                  {
+                    "startTime": "54.400s",
+                    "endTime": "54.600s",
+                    "word": "it's"
+                  },
+                  {
+                    "startTime": "54.600s",
+                    "endTime": "54.800s",
+                    "word": "my"
+                  },
+                  {
+                    "startTime": "54.800s",
+                    "endTime": "55.500s",
+                    "word": "experience"
+                  },
+                  {
+                    "startTime": "55.500s",
+                    "endTime": "55.700s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "55.700s",
+                    "endTime": "55.800s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "55.800s",
+                    "endTime": "56.600s",
+                    "word": "usually"
+                  },
+                  {
+                    "startTime": "56.700s",
+                    "endTime": "57.200s",
+                    "word": "sneaks"
+                  },
+                  {
+                    "startTime": "57.200s",
+                    "endTime": "57.400s",
+                    "word": "up"
+                  },
+                  {
+                    "startTime": "57.400s",
+                    "endTime": "57.600s",
+                    "word": "on"
+                  },
+                  {
+                    "startTime": "57.600s",
+                    "endTime": "57.900s",
+                    "word": "people."
+                  },
+                  {
+                    "startTime": "57.900s",
+                    "endTime": "58.400s",
+                    "word": "Sometimes"
+                  },
+                  {
+                    "startTime": "58.400s",
+                    "endTime": "58.500s",
+                    "word": "they"
+                  },
+                  {
+                    "startTime": "58.500s",
+                    "endTime": "58.700s",
+                    "word": "don't"
+                  },
+                  {
+                    "startTime": "58.700s",
+                    "endTime": "59.400s",
+                    "word": "realize"
+                  },
+                  {
+                    "startTime": "59.400s",
+                    "endTime": "59.700s",
+                    "word": "quite"
+                  },
+                  {
+                    "startTime": "59.700s",
+                    "endTime": "60.200s",
+                    "word": "realize"
+                  },
+                  {
+                    "startTime": "60.200s",
+                    "endTime": "60.300s",
+                    "word": "how"
+                  },
+                  {
+                    "startTime": "60.300s",
+                    "endTime": "60.800s",
+                    "word": "enlightened"
+                  },
+                  {
+                    "startTime": "60.800s",
+                    "endTime": "61s",
+                    "word": "they"
+                  },
+                  {
+                    "startTime": "61s",
+                    "endTime": "61.400s",
+                    "word": "become"
+                  },
+                  {
+                    "startTime": "61.400s",
+                    "endTime": "61.800s",
+                    "word": "because"
+                  },
+                  {
+                    "startTime": "61.800s",
+                    "endTime": "62s",
+                    "word": "it's"
+                  },
+                  {
+                    "startTime": "62.300s",
+                    "endTime": "62.400s",
+                    "word": "they"
+                  },
+                  {
+                    "startTime": "62.400s",
+                    "endTime": "63s",
+                    "word": "gradually"
+                  },
+                  {
+                    "startTime": "63s",
+                    "endTime": "63.900s",
+                    "word": "acclimatize"
+                  },
+                  {
+                    "startTime": "64.200s",
+                    "endTime": "64.300s",
+                    "word": "but"
+                  },
+                  {
+                    "startTime": "64.300s",
+                    "endTime": "64.600s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "64.800s",
+                    "endTime": "64.900s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "65.500s",
+                    "endTime": "65.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "65.600s",
+                    "endTime": "66s",
+                    "word": "Buddhist"
+                  },
+                  {
+                    "startTime": "66s",
+                    "endTime": "66.600s",
+                    "word": "definition"
+                  },
+                  {
+                    "startTime": "66.600s",
+                    "endTime": "66.700s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "66.700s",
+                    "endTime": "67.600s",
+                    "word": "enlightenment"
+                  },
+                  {
+                    "startTime": "67.800s",
+                    "endTime": "68.300s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "68.300s",
+                    "endTime": "68.700s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "68.700s",
+                    "endTime": "68.900s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "68.900s",
+                    "endTime": "69.400s",
+                    "word": "realize"
+                  },
+                  {
+                    "startTime": "69.400s",
+                    "endTime": "69.600s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "69.600s",
+                    "endTime": "69.800s",
+                    "word": "there's"
+                  },
+                  {
+                    "startTime": "69.800s",
+                    "endTime": "70s",
+                    "word": "never"
+                  },
+                  {
+                    "startTime": "70s",
+                    "endTime": "70.400s",
+                    "word": "been"
+                  },
+                  {
+                    "startTime": "70.400s",
+                    "endTime": "70.600s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "70.600s",
+                    "endTime": "71.200s",
+                    "word": "thing"
+                  },
+                  {
+                    "startTime": "71.200s",
+                    "endTime": "71.800s",
+                    "word": "inside"
+                  },
+                  {
+                    "startTime": "71.800s",
+                    "endTime": "71.900s",
+                    "word": "you"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " The self now there is certainly an activity inside you called a personality and a paradoxically the more clearly you realize that there's nothing inside you call the self the more freed up the wave inside you called personality becomes.",
+                "confidence": 0.7687003,
+                "words": [
+                  {
+                    "startTime": "72.200s",
+                    "endTime": "72.300s",
+                    "word": "The"
+                  },
+                  {
+                    "startTime": "72.300s",
+                    "endTime": "72.700s",
+                    "word": "self"
+                  },
+                  {
+                    "startTime": "73.100s",
+                    "endTime": "73.700s",
+                    "word": "now"
+                  },
+                  {
+                    "startTime": "74.600s",
+                    "endTime": "74.800s",
+                    "word": "there"
+                  },
+                  {
+                    "startTime": "74.800s",
+                    "endTime": "75s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "75s",
+                    "endTime": "75.400s",
+                    "word": "certainly"
+                  },
+                  {
+                    "startTime": "75.400s",
+                    "endTime": "75.600s",
+                    "word": "an"
+                  },
+                  {
+                    "startTime": "75.600s",
+                    "endTime": "76.200s",
+                    "word": "activity"
+                  },
+                  {
+                    "startTime": "76.200s",
+                    "endTime": "76.700s",
+                    "word": "inside"
+                  },
+                  {
+                    "startTime": "76.700s",
+                    "endTime": "76.800s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "76.800s",
+                    "endTime": "77.100s",
+                    "word": "called"
+                  },
+                  {
+                    "startTime": "77.100s",
+                    "endTime": "77.200s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "77.200s",
+                    "endTime": "78.100s",
+                    "word": "personality"
+                  },
+                  {
+                    "startTime": "78.700s",
+                    "endTime": "79.300s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "79.300s",
+                    "endTime": "79.800s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "79.800s",
+                    "endTime": "80.700s",
+                    "word": "paradoxically"
+                  },
+                  {
+                    "startTime": "80.700s",
+                    "endTime": "81s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "81s",
+                    "endTime": "81.700s",
+                    "word": "more"
+                  },
+                  {
+                    "startTime": "81.800s",
+                    "endTime": "82.300s",
+                    "word": "clearly"
+                  },
+                  {
+                    "startTime": "82.300s",
+                    "endTime": "82.500s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "82.500s",
+                    "endTime": "83.100s",
+                    "word": "realize"
+                  },
+                  {
+                    "startTime": "83.100s",
+                    "endTime": "83.200s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "83.200s",
+                    "endTime": "83.400s",
+                    "word": "there's"
+                  },
+                  {
+                    "startTime": "83.400s",
+                    "endTime": "83.900s",
+                    "word": "nothing"
+                  },
+                  {
+                    "startTime": "83.900s",
+                    "endTime": "84.300s",
+                    "word": "inside"
+                  },
+                  {
+                    "startTime": "84.300s",
+                    "endTime": "84.400s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "84.400s",
+                    "endTime": "84.600s",
+                    "word": "call"
+                  },
+                  {
+                    "startTime": "84.600s",
+                    "endTime": "84.700s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "84.700s",
+                    "endTime": "85.400s",
+                    "word": "self"
+                  },
+                  {
+                    "startTime": "85.600s",
+                    "endTime": "85.900s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "85.900s",
+                    "endTime": "86.300s",
+                    "word": "more"
+                  },
+                  {
+                    "startTime": "86.300s",
+                    "endTime": "86.700s",
+                    "word": "freed"
+                  },
+                  {
+                    "startTime": "86.700s",
+                    "endTime": "87s",
+                    "word": "up"
+                  },
+                  {
+                    "startTime": "87s",
+                    "endTime": "87.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "87.100s",
+                    "endTime": "87.800s",
+                    "word": "wave"
+                  },
+                  {
+                    "startTime": "87.800s",
+                    "endTime": "88.200s",
+                    "word": "inside"
+                  },
+                  {
+                    "startTime": "88.200s",
+                    "endTime": "88.400s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "88.400s",
+                    "endTime": "88.800s",
+                    "word": "called"
+                  },
+                  {
+                    "startTime": "88.800s",
+                    "endTime": "89.500s",
+                    "word": "personality"
+                  },
+                  {
+                    "startTime": "89.500s",
+                    "endTime": "90.200s",
+                    "word": "becomes."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " That would be the executive summary.",
+                "confidence": 0.8423128,
+                "words": [
+                  {
+                    "startTime": "92.100s",
+                    "endTime": "92.300s",
+                    "word": "That"
+                  },
+                  {
+                    "startTime": "92.300s",
+                    "endTime": "92.400s",
+                    "word": "would"
+                  },
+                  {
+                    "startTime": "92.400s",
+                    "endTime": "92.600s",
+                    "word": "be"
+                  },
+                  {
+                    "startTime": "92.600s",
+                    "endTime": "92.700s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "92.700s",
+                    "endTime": "93.300s",
+                    "word": "executive"
+                  },
+                  {
+                    "startTime": "93.300s",
+                    "endTime": "93.800s",
+                    "word": "summary."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": "projects/923263939845/locations/us-west1/operations/12017459272284471565",
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoProgress",
+    "annotationProgress": [
+      {
+        "inputUri": "/shfvideos/ShinzenVideos/Out-take - from Jan 2010 interview.mp4",
+        "progressPercent": 100,
+        "startTime": "2019-12-27T06:45:43.681471Z",
+        "updateTime": "2019-12-27T06:53:26.526368Z"
+      }
+    ]
+  },
+  "done": true,
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoResponse",
+    "annotationResults": [
+      {
+        "inputUri": "/shfvideos/ShinzenVideos/Out-take - from Jan 2010 interview.mp4",
+        "segment": {
+          "startTimeOffset": "0s",
+          "endTimeOffset": "14.001632s"
+        },
+        "speechTranscriptions": [
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": "We're back. I heard the rumor.",
+                "confidence": 0.89289314,
+                "words": [
+                  {
+                    "startTime": "5.400s",
+                    "endTime": "5.600s",
+                    "word": "We're"
+                  },
+                  {
+                    "startTime": "5.600s",
+                    "endTime": "6.300s",
+                    "word": "back."
+                  },
+                  {
+                    "startTime": "11.100s",
+                    "endTime": "11.200s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "11.200s",
+                    "endTime": "11.500s",
+                    "word": "heard"
+                  },
+                  {
+                    "startTime": "11.500s",
+                    "endTime": "11.700s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "11.700s",
+                    "endTime": "12.300s",
+                    "word": "rumor."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          }
+        ]
+      }
+    ]
+  }
+}

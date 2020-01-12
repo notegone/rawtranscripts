@@ -1,0 +1,1218 @@
+{
+  "name": "projects/923263939845/locations/us-east1/operations/1514189704689846261",
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoProgress",
+    "annotationProgress": [
+      {
+        "inputUri": "/shfvideos/expandcontract/What is Enlightenment ~ Shinzen Young.mp4",
+        "progressPercent": 100,
+        "startTime": "2019-12-27T05:12:11.566175Z",
+        "updateTime": "2019-12-27T05:14:28.091567Z"
+      }
+    ]
+  },
+  "done": true,
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoResponse",
+    "annotationResults": [
+      {
+        "inputUri": "/shfvideos/expandcontract/What is Enlightenment ~ Shinzen Young.mp4",
+        "segment": {
+          "startTimeOffset": "0s",
+          "endTimeOffset": "131.123083s"
+        },
+        "speechTranscriptions": [
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": "Can you tell me what enlightenment is so Moment by moment? You've probably noticed that you have thoughts, right?",
+                "confidence": 0.8976867,
+                "words": [
+                  {
+                    "startTime": "6.500s",
+                    "endTime": "6.700s",
+                    "word": "Can"
+                  },
+                  {
+                    "startTime": "6.700s",
+                    "endTime": "6.800s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "6.800s",
+                    "endTime": "7s",
+                    "word": "tell"
+                  },
+                  {
+                    "startTime": "7s",
+                    "endTime": "7.100s",
+                    "word": "me"
+                  },
+                  {
+                    "startTime": "7.100s",
+                    "endTime": "7.300s",
+                    "word": "what"
+                  },
+                  {
+                    "startTime": "7.300s",
+                    "endTime": "8s",
+                    "word": "enlightenment"
+                  },
+                  {
+                    "startTime": "8s",
+                    "endTime": "8.400s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "9.300s",
+                    "endTime": "10s",
+                    "word": "so"
+                  },
+                  {
+                    "startTime": "11s",
+                    "endTime": "11.400s",
+                    "word": "Moment"
+                  },
+                  {
+                    "startTime": "11.400s",
+                    "endTime": "11.600s",
+                    "word": "by"
+                  },
+                  {
+                    "startTime": "11.600s",
+                    "endTime": "12.500s",
+                    "word": "moment?"
+                  },
+                  {
+                    "startTime": "12.600s",
+                    "endTime": "12.900s",
+                    "word": "You've"
+                  },
+                  {
+                    "startTime": "12.900s",
+                    "endTime": "13.400s",
+                    "word": "probably"
+                  },
+                  {
+                    "startTime": "13.400s",
+                    "endTime": "14s",
+                    "word": "noticed"
+                  },
+                  {
+                    "startTime": "14s",
+                    "endTime": "14.300s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "14.300s",
+                    "endTime": "14.500s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "14.500s",
+                    "endTime": "14.700s",
+                    "word": "have"
+                  },
+                  {
+                    "startTime": "14.700s",
+                    "endTime": "15.200s",
+                    "word": "thoughts,"
+                  },
+                  {
+                    "startTime": "15.200s",
+                    "endTime": "15.700s",
+                    "word": "right?"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " So I corrected and Moment by moment. You've probably noticed that you have Body Sensations.",
+                "confidence": 0.65446013,
+                "words": [
+                  {
+                    "startTime": "16.800s",
+                    "endTime": "16.900s",
+                    "word": "So"
+                  },
+                  {
+                    "startTime": "16.900s",
+                    "endTime": "17s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "17s",
+                    "endTime": "17.700s",
+                    "word": "corrected"
+                  },
+                  {
+                    "startTime": "18.200s",
+                    "endTime": "18.400s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "18.400s",
+                    "endTime": "18.700s",
+                    "word": "Moment"
+                  },
+                  {
+                    "startTime": "18.700s",
+                    "endTime": "18.900s",
+                    "word": "by"
+                  },
+                  {
+                    "startTime": "18.900s",
+                    "endTime": "19.300s",
+                    "word": "moment."
+                  },
+                  {
+                    "startTime": "19.300s",
+                    "endTime": "19.500s",
+                    "word": "You've"
+                  },
+                  {
+                    "startTime": "19.500s",
+                    "endTime": "20s",
+                    "word": "probably"
+                  },
+                  {
+                    "startTime": "20s",
+                    "endTime": "20.500s",
+                    "word": "noticed"
+                  },
+                  {
+                    "startTime": "20.500s",
+                    "endTime": "20.700s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "20.700s",
+                    "endTime": "20.800s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "20.800s",
+                    "endTime": "21.500s",
+                    "word": "have"
+                  },
+                  {
+                    "startTime": "21.500s",
+                    "endTime": "21.800s",
+                    "word": "Body"
+                  },
+                  {
+                    "startTime": "21.800s",
+                    "endTime": "22.900s",
+                    "word": "Sensations."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " You've also probably noticed that as soon as a thought arises or a body sensation arises. There's a tendency to say this thought is me at this sensation is me.",
+                "confidence": 0.8346068,
+                "words": [
+                  {
+                    "startTime": "24.100s",
+                    "endTime": "24.300s",
+                    "word": "You've"
+                  },
+                  {
+                    "startTime": "24.300s",
+                    "endTime": "24.800s",
+                    "word": "also"
+                  },
+                  {
+                    "startTime": "24.800s",
+                    "endTime": "25.400s",
+                    "word": "probably"
+                  },
+                  {
+                    "startTime": "25.400s",
+                    "endTime": "25.900s",
+                    "word": "noticed"
+                  },
+                  {
+                    "startTime": "25.900s",
+                    "endTime": "26.100s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "26.100s",
+                    "endTime": "26.200s",
+                    "word": "as"
+                  },
+                  {
+                    "startTime": "26.200s",
+                    "endTime": "26.500s",
+                    "word": "soon"
+                  },
+                  {
+                    "startTime": "26.500s",
+                    "endTime": "26.600s",
+                    "word": "as"
+                  },
+                  {
+                    "startTime": "26.600s",
+                    "endTime": "26.800s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "26.800s",
+                    "endTime": "27.200s",
+                    "word": "thought"
+                  },
+                  {
+                    "startTime": "27.200s",
+                    "endTime": "28s",
+                    "word": "arises"
+                  },
+                  {
+                    "startTime": "28s",
+                    "endTime": "28.200s",
+                    "word": "or"
+                  },
+                  {
+                    "startTime": "28.200s",
+                    "endTime": "28.300s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "28.300s",
+                    "endTime": "28.700s",
+                    "word": "body"
+                  },
+                  {
+                    "startTime": "28.700s",
+                    "endTime": "29.300s",
+                    "word": "sensation"
+                  },
+                  {
+                    "startTime": "29.300s",
+                    "endTime": "30.100s",
+                    "word": "arises."
+                  },
+                  {
+                    "startTime": "30.600s",
+                    "endTime": "30.900s",
+                    "word": "There's"
+                  },
+                  {
+                    "startTime": "30.900s",
+                    "endTime": "30.900s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "30.900s",
+                    "endTime": "31.600s",
+                    "word": "tendency"
+                  },
+                  {
+                    "startTime": "31.600s",
+                    "endTime": "31.700s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "31.700s",
+                    "endTime": "32.400s",
+                    "word": "say"
+                  },
+                  {
+                    "startTime": "32.700s",
+                    "endTime": "33s",
+                    "word": "this"
+                  },
+                  {
+                    "startTime": "33s",
+                    "endTime": "33.300s",
+                    "word": "thought"
+                  },
+                  {
+                    "startTime": "33.300s",
+                    "endTime": "33.500s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "33.500s",
+                    "endTime": "34s",
+                    "word": "me"
+                  },
+                  {
+                    "startTime": "34.700s",
+                    "endTime": "34.900s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "34.900s",
+                    "endTime": "35.200s",
+                    "word": "this"
+                  },
+                  {
+                    "startTime": "35.200s",
+                    "endTime": "35.800s",
+                    "word": "sensation"
+                  },
+                  {
+                    "startTime": "35.800s",
+                    "endTime": "36s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "36s",
+                    "endTime": "36.400s",
+                    "word": "me."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Is that correct? Nothing mysterious so far the next part you have to sort of use your imagination imagine that you still had thoughts and you still had Body Sensations, but they no longer immediately trapped your identity.",
+                "confidence": 0.90674645,
+                "words": [
+                  {
+                    "startTime": "37.600s",
+                    "endTime": "37.700s",
+                    "word": "Is"
+                  },
+                  {
+                    "startTime": "37.700s",
+                    "endTime": "37.900s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "37.900s",
+                    "endTime": "38.500s",
+                    "word": "correct?"
+                  },
+                  {
+                    "startTime": "39.100s",
+                    "endTime": "39.500s",
+                    "word": "Nothing"
+                  },
+                  {
+                    "startTime": "39.500s",
+                    "endTime": "40.200s",
+                    "word": "mysterious"
+                  },
+                  {
+                    "startTime": "40.200s",
+                    "endTime": "40.400s",
+                    "word": "so"
+                  },
+                  {
+                    "startTime": "40.400s",
+                    "endTime": "40.900s",
+                    "word": "far"
+                  },
+                  {
+                    "startTime": "42.100s",
+                    "endTime": "42.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "42.300s",
+                    "endTime": "42.600s",
+                    "word": "next"
+                  },
+                  {
+                    "startTime": "42.600s",
+                    "endTime": "42.900s",
+                    "word": "part"
+                  },
+                  {
+                    "startTime": "42.900s",
+                    "endTime": "43s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "43s",
+                    "endTime": "43.100s",
+                    "word": "have"
+                  },
+                  {
+                    "startTime": "43.100s",
+                    "endTime": "43.400s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "43.500s",
+                    "endTime": "43.700s",
+                    "word": "sort"
+                  },
+                  {
+                    "startTime": "43.700s",
+                    "endTime": "43.800s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "43.800s",
+                    "endTime": "44s",
+                    "word": "use"
+                  },
+                  {
+                    "startTime": "44s",
+                    "endTime": "44.100s",
+                    "word": "your"
+                  },
+                  {
+                    "startTime": "44.100s",
+                    "endTime": "45.200s",
+                    "word": "imagination"
+                  },
+                  {
+                    "startTime": "46.100s",
+                    "endTime": "46.800s",
+                    "word": "imagine"
+                  },
+                  {
+                    "startTime": "46.800s",
+                    "endTime": "47.400s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "47.700s",
+                    "endTime": "47.900s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "47.900s",
+                    "endTime": "48.100s",
+                    "word": "still"
+                  },
+                  {
+                    "startTime": "48.100s",
+                    "endTime": "48.400s",
+                    "word": "had"
+                  },
+                  {
+                    "startTime": "48.400s",
+                    "endTime": "49.100s",
+                    "word": "thoughts"
+                  },
+                  {
+                    "startTime": "49.400s",
+                    "endTime": "49.500s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "49.500s",
+                    "endTime": "49.600s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "49.600s",
+                    "endTime": "49.900s",
+                    "word": "still"
+                  },
+                  {
+                    "startTime": "49.900s",
+                    "endTime": "50.100s",
+                    "word": "had"
+                  },
+                  {
+                    "startTime": "50.100s",
+                    "endTime": "50.400s",
+                    "word": "Body"
+                  },
+                  {
+                    "startTime": "50.400s",
+                    "endTime": "51.400s",
+                    "word": "Sensations,"
+                  },
+                  {
+                    "startTime": "52.200s",
+                    "endTime": "52.800s",
+                    "word": "but"
+                  },
+                  {
+                    "startTime": "52.900s",
+                    "endTime": "53.600s",
+                    "word": "they"
+                  },
+                  {
+                    "startTime": "54.600s",
+                    "endTime": "54.900s",
+                    "word": "no"
+                  },
+                  {
+                    "startTime": "54.900s",
+                    "endTime": "55.600s",
+                    "word": "longer"
+                  },
+                  {
+                    "startTime": "55.600s",
+                    "endTime": "56.400s",
+                    "word": "immediately"
+                  },
+                  {
+                    "startTime": "56.400s",
+                    "endTime": "57s",
+                    "word": "trapped"
+                  },
+                  {
+                    "startTime": "57s",
+                    "endTime": "57.100s",
+                    "word": "your"
+                  },
+                  {
+                    "startTime": "57.100s",
+                    "endTime": "57.900s",
+                    "word": "identity."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " So your identity is free free to be inside your mind and body like it was before but also free to move outside of your mind and body to inhabit briefly anyone's mind and body to merge with them or to embrace the entire universe.",
+                "confidence": 0.8715183,
+                "words": [
+                  {
+                    "startTime": "59.300s",
+                    "endTime": "59.500s",
+                    "word": "So"
+                  },
+                  {
+                    "startTime": "59.500s",
+                    "endTime": "59.700s",
+                    "word": "your"
+                  },
+                  {
+                    "startTime": "59.700s",
+                    "endTime": "60.300s",
+                    "word": "identity"
+                  },
+                  {
+                    "startTime": "60.300s",
+                    "endTime": "60.700s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "60.800s",
+                    "endTime": "61.600s",
+                    "word": "free"
+                  },
+                  {
+                    "startTime": "62.200s",
+                    "endTime": "62.600s",
+                    "word": "free"
+                  },
+                  {
+                    "startTime": "62.600s",
+                    "endTime": "62.800s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "62.800s",
+                    "endTime": "63.100s",
+                    "word": "be"
+                  },
+                  {
+                    "startTime": "63.100s",
+                    "endTime": "64s",
+                    "word": "inside"
+                  },
+                  {
+                    "startTime": "64.100s",
+                    "endTime": "64.200s",
+                    "word": "your"
+                  },
+                  {
+                    "startTime": "64.200s",
+                    "endTime": "64.500s",
+                    "word": "mind"
+                  },
+                  {
+                    "startTime": "64.500s",
+                    "endTime": "64.600s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "64.600s",
+                    "endTime": "65s",
+                    "word": "body"
+                  },
+                  {
+                    "startTime": "65s",
+                    "endTime": "65.400s",
+                    "word": "like"
+                  },
+                  {
+                    "startTime": "65.900s",
+                    "endTime": "66.100s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "66.100s",
+                    "endTime": "66.300s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "66.300s",
+                    "endTime": "67s",
+                    "word": "before"
+                  },
+                  {
+                    "startTime": "67.400s",
+                    "endTime": "67.600s",
+                    "word": "but"
+                  },
+                  {
+                    "startTime": "67.600s",
+                    "endTime": "68s",
+                    "word": "also"
+                  },
+                  {
+                    "startTime": "68s",
+                    "endTime": "68.300s",
+                    "word": "free"
+                  },
+                  {
+                    "startTime": "68.300s",
+                    "endTime": "68.500s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "68.500s",
+                    "endTime": "68.900s",
+                    "word": "move"
+                  },
+                  {
+                    "startTime": "68.900s",
+                    "endTime": "69.600s",
+                    "word": "outside"
+                  },
+                  {
+                    "startTime": "69.600s",
+                    "endTime": "69.700s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "69.700s",
+                    "endTime": "69.900s",
+                    "word": "your"
+                  },
+                  {
+                    "startTime": "69.900s",
+                    "endTime": "70.200s",
+                    "word": "mind"
+                  },
+                  {
+                    "startTime": "70.200s",
+                    "endTime": "70.300s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "70.300s",
+                    "endTime": "70.800s",
+                    "word": "body"
+                  },
+                  {
+                    "startTime": "71.100s",
+                    "endTime": "71.200s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "71.200s",
+                    "endTime": "72s",
+                    "word": "inhabit"
+                  },
+                  {
+                    "startTime": "72.100s",
+                    "endTime": "72.900s",
+                    "word": "briefly"
+                  },
+                  {
+                    "startTime": "72.900s",
+                    "endTime": "73.500s",
+                    "word": "anyone's"
+                  },
+                  {
+                    "startTime": "73.500s",
+                    "endTime": "73.800s",
+                    "word": "mind"
+                  },
+                  {
+                    "startTime": "73.800s",
+                    "endTime": "73.800s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "73.800s",
+                    "endTime": "74.400s",
+                    "word": "body"
+                  },
+                  {
+                    "startTime": "74.700s",
+                    "endTime": "74.800s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "74.800s",
+                    "endTime": "75.300s",
+                    "word": "merge"
+                  },
+                  {
+                    "startTime": "75.300s",
+                    "endTime": "75.600s",
+                    "word": "with"
+                  },
+                  {
+                    "startTime": "75.600s",
+                    "endTime": "76s",
+                    "word": "them"
+                  },
+                  {
+                    "startTime": "76.800s",
+                    "endTime": "77s",
+                    "word": "or"
+                  },
+                  {
+                    "startTime": "77s",
+                    "endTime": "77.700s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "78.200s",
+                    "endTime": "78.700s",
+                    "word": "embrace"
+                  },
+                  {
+                    "startTime": "78.700s",
+                    "endTime": "78.900s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "78.900s",
+                    "endTime": "79.300s",
+                    "word": "entire"
+                  },
+                  {
+                    "startTime": "79.300s",
+                    "endTime": "80.400s",
+                    "word": "universe."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Or to abide The Still Point of the Turning World Beyond time and space the nothingness that precedes the Big Bang. So to speak metaphorically speaking. So after Enlightenment people's identity becomes elastic and the mind and body is no longer.",
+                "confidence": 0.90806735,
+                "words": [
+                  {
+                    "startTime": "81.400s",
+                    "endTime": "81.800s",
+                    "word": "Or"
+                  },
+                  {
+                    "startTime": "81.800s",
+                    "endTime": "82.400s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "82.400s",
+                    "endTime": "83.400s",
+                    "word": "abide"
+                  },
+                  {
+                    "startTime": "84.200s",
+                    "endTime": "84.400s",
+                    "word": "The"
+                  },
+                  {
+                    "startTime": "84.400s",
+                    "endTime": "84.800s",
+                    "word": "Still"
+                  },
+                  {
+                    "startTime": "84.800s",
+                    "endTime": "85.300s",
+                    "word": "Point"
+                  },
+                  {
+                    "startTime": "85.300s",
+                    "endTime": "85.400s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "85.400s",
+                    "endTime": "85.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "85.600s",
+                    "endTime": "86s",
+                    "word": "Turning"
+                  },
+                  {
+                    "startTime": "86s",
+                    "endTime": "86.600s",
+                    "word": "World"
+                  },
+                  {
+                    "startTime": "86.600s",
+                    "endTime": "87s",
+                    "word": "Beyond"
+                  },
+                  {
+                    "startTime": "87s",
+                    "endTime": "87.400s",
+                    "word": "time"
+                  },
+                  {
+                    "startTime": "87.400s",
+                    "endTime": "87.500s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "87.500s",
+                    "endTime": "88.200s",
+                    "word": "space"
+                  },
+                  {
+                    "startTime": "88.900s",
+                    "endTime": "89s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "89s",
+                    "endTime": "89.900s",
+                    "word": "nothingness"
+                  },
+                  {
+                    "startTime": "89.900s",
+                    "endTime": "90.300s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "90.300s",
+                    "endTime": "91.100s",
+                    "word": "precedes"
+                  },
+                  {
+                    "startTime": "91.100s",
+                    "endTime": "91.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "91.200s",
+                    "endTime": "91.500s",
+                    "word": "Big"
+                  },
+                  {
+                    "startTime": "91.500s",
+                    "endTime": "92.100s",
+                    "word": "Bang."
+                  },
+                  {
+                    "startTime": "92.800s",
+                    "endTime": "93s",
+                    "word": "So"
+                  },
+                  {
+                    "startTime": "93s",
+                    "endTime": "93.100s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "93.100s",
+                    "endTime": "93.700s",
+                    "word": "speak"
+                  },
+                  {
+                    "startTime": "93.700s",
+                    "endTime": "94.700s",
+                    "word": "metaphorically"
+                  },
+                  {
+                    "startTime": "94.700s",
+                    "endTime": "95.300s",
+                    "word": "speaking."
+                  },
+                  {
+                    "startTime": "96.800s",
+                    "endTime": "97.300s",
+                    "word": "So"
+                  },
+                  {
+                    "startTime": "98.400s",
+                    "endTime": "98.800s",
+                    "word": "after"
+                  },
+                  {
+                    "startTime": "98.800s",
+                    "endTime": "99.900s",
+                    "word": "Enlightenment"
+                  },
+                  {
+                    "startTime": "100.800s",
+                    "endTime": "101.700s",
+                    "word": "people's"
+                  },
+                  {
+                    "startTime": "101.800s",
+                    "endTime": "102.400s",
+                    "word": "identity"
+                  },
+                  {
+                    "startTime": "102.400s",
+                    "endTime": "102.900s",
+                    "word": "becomes"
+                  },
+                  {
+                    "startTime": "102.900s",
+                    "endTime": "104s",
+                    "word": "elastic"
+                  },
+                  {
+                    "startTime": "105s",
+                    "endTime": "105.700s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "106.400s",
+                    "endTime": "106.500s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "106.500s",
+                    "endTime": "106.800s",
+                    "word": "mind"
+                  },
+                  {
+                    "startTime": "106.800s",
+                    "endTime": "106.900s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "106.900s",
+                    "endTime": "107.400s",
+                    "word": "body"
+                  },
+                  {
+                    "startTime": "107.400s",
+                    "endTime": "107.700s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "107.700s",
+                    "endTime": "107.900s",
+                    "word": "no"
+                  },
+                  {
+                    "startTime": "107.900s",
+                    "endTime": "108.700s",
+                    "word": "longer."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " A place you're locked in. It's a home you comfortably can abide in but you can leave anytime you want.",
+                "confidence": 0.809994,
+                "words": [
+                  {
+                    "startTime": "110.700s",
+                    "endTime": "110.800s",
+                    "word": "A"
+                  },
+                  {
+                    "startTime": "110.800s",
+                    "endTime": "111.200s",
+                    "word": "place"
+                  },
+                  {
+                    "startTime": "111.200s",
+                    "endTime": "111.500s",
+                    "word": "you're"
+                  },
+                  {
+                    "startTime": "111.500s",
+                    "endTime": "111.900s",
+                    "word": "locked"
+                  },
+                  {
+                    "startTime": "111.900s",
+                    "endTime": "112.300s",
+                    "word": "in."
+                  },
+                  {
+                    "startTime": "113.200s",
+                    "endTime": "113.800s",
+                    "word": "It's"
+                  },
+                  {
+                    "startTime": "113.900s",
+                    "endTime": "114s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "114s",
+                    "endTime": "114.500s",
+                    "word": "home"
+                  },
+                  {
+                    "startTime": "114.500s",
+                    "endTime": "114.800s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "114.900s",
+                    "endTime": "116s",
+                    "word": "comfortably"
+                  },
+                  {
+                    "startTime": "116s",
+                    "endTime": "116.500s",
+                    "word": "can"
+                  },
+                  {
+                    "startTime": "116.500s",
+                    "endTime": "117s",
+                    "word": "abide"
+                  },
+                  {
+                    "startTime": "117s",
+                    "endTime": "117.400s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "117.900s",
+                    "endTime": "118.200s",
+                    "word": "but"
+                  },
+                  {
+                    "startTime": "118.200s",
+                    "endTime": "118.300s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "118.300s",
+                    "endTime": "118.500s",
+                    "word": "can"
+                  },
+                  {
+                    "startTime": "118.500s",
+                    "endTime": "118.900s",
+                    "word": "leave"
+                  },
+                  {
+                    "startTime": "118.900s",
+                    "endTime": "119.500s",
+                    "word": "anytime"
+                  },
+                  {
+                    "startTime": "119.500s",
+                    "endTime": "119.600s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "119.600s",
+                    "endTime": "120.400s",
+                    "word": "want."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " And that's why we also call it Liberation being set free.",
+                "confidence": 0.8052546,
+                "words": [
+                  {
+                    "startTime": "121.700s",
+                    "endTime": "121.800s",
+                    "word": "And"
+                  },
+                  {
+                    "startTime": "121.800s",
+                    "endTime": "122.100s",
+                    "word": "that's"
+                  },
+                  {
+                    "startTime": "122.100s",
+                    "endTime": "122.300s",
+                    "word": "why"
+                  },
+                  {
+                    "startTime": "122.300s",
+                    "endTime": "122.400s",
+                    "word": "we"
+                  },
+                  {
+                    "startTime": "122.400s",
+                    "endTime": "122.900s",
+                    "word": "also"
+                  },
+                  {
+                    "startTime": "122.900s",
+                    "endTime": "123.200s",
+                    "word": "call"
+                  },
+                  {
+                    "startTime": "123.200s",
+                    "endTime": "123.400s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "123.400s",
+                    "endTime": "124.400s",
+                    "word": "Liberation"
+                  },
+                  {
+                    "startTime": "124.500s",
+                    "endTime": "124.800s",
+                    "word": "being"
+                  },
+                  {
+                    "startTime": "124.800s",
+                    "endTime": "125.100s",
+                    "word": "set"
+                  },
+                  {
+                    "startTime": "125.100s",
+                    "endTime": "125.600s",
+                    "word": "free."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          }
+        ]
+      }
+    ]
+  }
+}

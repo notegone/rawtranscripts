@@ -1,0 +1,584 @@
+{
+  "name": "projects/923263939845/locations/us-east1/operations/12925819136893514581",
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoProgress",
+    "annotationProgress": [
+      {
+        "inputUri": "/shfvideos/ShinzenVideos/Being Confused is Good ~ Shinzen Young.mp4",
+        "progressPercent": 100,
+        "startTime": "2019-12-27T06:13:02.501519Z",
+        "updateTime": "2019-12-27T06:13:45.780440Z"
+      }
+    ]
+  },
+  "done": true,
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoResponse",
+    "annotationResults": [
+      {
+        "inputUri": "/shfvideos/ShinzenVideos/Being Confused is Good ~ Shinzen Young.mp4",
+        "segment": {
+          "startTimeOffset": "0s",
+          "endTimeOffset": "73.305396s"
+        },
+        "speechTranscriptions": [
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": "Are you fixated in confusion? There's nothing wrong with being confused. In fact being confused is really good coagulating when you're confused. Not good. The goal is not to be confused is not to avoid confusion doubt disorientation. The goal is not to avoid Delta.",
+                "confidence": 0.8691882,
+                "words": [
+                  {
+                    "startTime": "6s",
+                    "endTime": "6.200s",
+                    "word": "Are"
+                  },
+                  {
+                    "startTime": "6.200s",
+                    "endTime": "6.800s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "6.900s",
+                    "endTime": "7.800s",
+                    "word": "fixated"
+                  },
+                  {
+                    "startTime": "7.800s",
+                    "endTime": "8s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "8s",
+                    "endTime": "8.900s",
+                    "word": "confusion?"
+                  },
+                  {
+                    "startTime": "9.700s",
+                    "endTime": "9.900s",
+                    "word": "There's"
+                  },
+                  {
+                    "startTime": "9.900s",
+                    "endTime": "10.400s",
+                    "word": "nothing"
+                  },
+                  {
+                    "startTime": "10.400s",
+                    "endTime": "10.700s",
+                    "word": "wrong"
+                  },
+                  {
+                    "startTime": "10.700s",
+                    "endTime": "10.800s",
+                    "word": "with"
+                  },
+                  {
+                    "startTime": "10.800s",
+                    "endTime": "11.100s",
+                    "word": "being"
+                  },
+                  {
+                    "startTime": "11.100s",
+                    "endTime": "11.700s",
+                    "word": "confused."
+                  },
+                  {
+                    "startTime": "11.700s",
+                    "endTime": "11.800s",
+                    "word": "In"
+                  },
+                  {
+                    "startTime": "11.800s",
+                    "endTime": "12.100s",
+                    "word": "fact"
+                  },
+                  {
+                    "startTime": "12.100s",
+                    "endTime": "12.300s",
+                    "word": "being"
+                  },
+                  {
+                    "startTime": "12.300s",
+                    "endTime": "12.900s",
+                    "word": "confused"
+                  },
+                  {
+                    "startTime": "12.900s",
+                    "endTime": "13.100s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "13.100s",
+                    "endTime": "13.400s",
+                    "word": "really"
+                  },
+                  {
+                    "startTime": "13.400s",
+                    "endTime": "13.900s",
+                    "word": "good"
+                  },
+                  {
+                    "startTime": "14.900s",
+                    "endTime": "16.200s",
+                    "word": "coagulating"
+                  },
+                  {
+                    "startTime": "16.200s",
+                    "endTime": "16.400s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "16.400s",
+                    "endTime": "16.500s",
+                    "word": "you're"
+                  },
+                  {
+                    "startTime": "16.500s",
+                    "endTime": "17.500s",
+                    "word": "confused."
+                  },
+                  {
+                    "startTime": "18.100s",
+                    "endTime": "18.400s",
+                    "word": "Not"
+                  },
+                  {
+                    "startTime": "18.400s",
+                    "endTime": "18.800s",
+                    "word": "good."
+                  },
+                  {
+                    "startTime": "20.500s",
+                    "endTime": "20.600s",
+                    "word": "The"
+                  },
+                  {
+                    "startTime": "20.600s",
+                    "endTime": "21s",
+                    "word": "goal"
+                  },
+                  {
+                    "startTime": "21s",
+                    "endTime": "21.100s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "21.100s",
+                    "endTime": "21.400s",
+                    "word": "not"
+                  },
+                  {
+                    "startTime": "21.400s",
+                    "endTime": "21.500s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "21.500s",
+                    "endTime": "21.600s",
+                    "word": "be"
+                  },
+                  {
+                    "startTime": "21.600s",
+                    "endTime": "22.100s",
+                    "word": "confused"
+                  },
+                  {
+                    "startTime": "22.100s",
+                    "endTime": "22.300s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "22.300s",
+                    "endTime": "22.600s",
+                    "word": "not"
+                  },
+                  {
+                    "startTime": "22.600s",
+                    "endTime": "22.800s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "22.800s",
+                    "endTime": "23.200s",
+                    "word": "avoid"
+                  },
+                  {
+                    "startTime": "23.200s",
+                    "endTime": "24s",
+                    "word": "confusion"
+                  },
+                  {
+                    "startTime": "24.700s",
+                    "endTime": "25.400s",
+                    "word": "doubt"
+                  },
+                  {
+                    "startTime": "25.900s",
+                    "endTime": "27.200s",
+                    "word": "disorientation."
+                  },
+                  {
+                    "startTime": "27.700s",
+                    "endTime": "27.800s",
+                    "word": "The"
+                  },
+                  {
+                    "startTime": "27.800s",
+                    "endTime": "28.200s",
+                    "word": "goal"
+                  },
+                  {
+                    "startTime": "28.200s",
+                    "endTime": "28.400s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "28.400s",
+                    "endTime": "28.700s",
+                    "word": "not"
+                  },
+                  {
+                    "startTime": "28.700s",
+                    "endTime": "28.900s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "28.900s",
+                    "endTime": "29.600s",
+                    "word": "avoid"
+                  },
+                  {
+                    "startTime": "29.600s",
+                    "endTime": "30.300s",
+                    "word": "Delta."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": "The goal is to avoid the habitual coagulation around now.",
+                "confidence": 0.82502466,
+                "words": [
+                  {
+                    "startTime": "31.300s",
+                    "endTime": "31.400s",
+                    "word": "The"
+                  },
+                  {
+                    "startTime": "31.400s",
+                    "endTime": "31.900s",
+                    "word": "goal"
+                  },
+                  {
+                    "startTime": "31.900s",
+                    "endTime": "32.200s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "32.200s",
+                    "endTime": "32.500s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "32.500s",
+                    "endTime": "33.500s",
+                    "word": "avoid"
+                  },
+                  {
+                    "startTime": "33.500s",
+                    "endTime": "33.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "33.600s",
+                    "endTime": "34.400s",
+                    "word": "habitual"
+                  },
+                  {
+                    "startTime": "34.400s",
+                    "endTime": "36s",
+                    "word": "coagulation"
+                  },
+                  {
+                    "startTime": "36.900s",
+                    "endTime": "37.900s",
+                    "word": "around"
+                  },
+                  {
+                    "startTime": "37.900s",
+                    "endTime": "38.200s",
+                    "word": "now."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " I'm coagulated don't know is called spontaneity when it comes out of your body and wisdom when it turns in your mind.",
+                "confidence": 0.8365796,
+                "words": [
+                  {
+                    "startTime": "40.300s",
+                    "endTime": "40.600s",
+                    "word": "I'm"
+                  },
+                  {
+                    "startTime": "40.600s",
+                    "endTime": "41.600s",
+                    "word": "coagulated"
+                  },
+                  {
+                    "startTime": "41.600s",
+                    "endTime": "41.900s",
+                    "word": "don't"
+                  },
+                  {
+                    "startTime": "41.900s",
+                    "endTime": "42.300s",
+                    "word": "know"
+                  },
+                  {
+                    "startTime": "42.900s",
+                    "endTime": "43.300s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "43.300s",
+                    "endTime": "44.300s",
+                    "word": "called"
+                  },
+                  {
+                    "startTime": "45.100s",
+                    "endTime": "46.300s",
+                    "word": "spontaneity"
+                  },
+                  {
+                    "startTime": "46.300s",
+                    "endTime": "46.500s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "46.500s",
+                    "endTime": "46.900s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "47.600s",
+                    "endTime": "48s",
+                    "word": "comes"
+                  },
+                  {
+                    "startTime": "48s",
+                    "endTime": "48.100s",
+                    "word": "out"
+                  },
+                  {
+                    "startTime": "48.100s",
+                    "endTime": "48.200s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "48.200s",
+                    "endTime": "48.400s",
+                    "word": "your"
+                  },
+                  {
+                    "startTime": "48.400s",
+                    "endTime": "48.900s",
+                    "word": "body"
+                  },
+                  {
+                    "startTime": "50s",
+                    "endTime": "50.500s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "50.500s",
+                    "endTime": "51.300s",
+                    "word": "wisdom"
+                  },
+                  {
+                    "startTime": "52.200s",
+                    "endTime": "52.500s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "52.500s",
+                    "endTime": "53.100s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "53.300s",
+                    "endTime": "53.900s",
+                    "word": "turns"
+                  },
+                  {
+                    "startTime": "53.900s",
+                    "endTime": "54.100s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "54.100s",
+                    "endTime": "54.300s",
+                    "word": "your"
+                  },
+                  {
+                    "startTime": "54.300s",
+                    "endTime": "54.900s",
+                    "word": "mind."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " I repeat unco angulated don't know is dynamic spontaneity when it comes out of your body and wisdom when it turns in your mind.",
+                "confidence": 0.7533184,
+                "words": [
+                  {
+                    "startTime": "56.300s",
+                    "endTime": "56.400s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "56.400s",
+                    "endTime": "57.200s",
+                    "word": "repeat"
+                  },
+                  {
+                    "startTime": "57.900s",
+                    "endTime": "58.600s",
+                    "word": "unco"
+                  },
+                  {
+                    "startTime": "58.600s",
+                    "endTime": "59.500s",
+                    "word": "angulated"
+                  },
+                  {
+                    "startTime": "59.500s",
+                    "endTime": "59.900s",
+                    "word": "don't"
+                  },
+                  {
+                    "startTime": "59.900s",
+                    "endTime": "60.300s",
+                    "word": "know"
+                  },
+                  {
+                    "startTime": "61.100s",
+                    "endTime": "61.400s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "61.400s",
+                    "endTime": "62.100s",
+                    "word": "dynamic"
+                  },
+                  {
+                    "startTime": "62.100s",
+                    "endTime": "63s",
+                    "word": "spontaneity"
+                  },
+                  {
+                    "startTime": "63s",
+                    "endTime": "63.100s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "63.100s",
+                    "endTime": "63.200s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "63.200s",
+                    "endTime": "63.500s",
+                    "word": "comes"
+                  },
+                  {
+                    "startTime": "63.500s",
+                    "endTime": "63.600s",
+                    "word": "out"
+                  },
+                  {
+                    "startTime": "63.600s",
+                    "endTime": "63.800s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "63.800s",
+                    "endTime": "63.900s",
+                    "word": "your"
+                  },
+                  {
+                    "startTime": "63.900s",
+                    "endTime": "64.500s",
+                    "word": "body"
+                  },
+                  {
+                    "startTime": "64.700s",
+                    "endTime": "64.900s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "64.900s",
+                    "endTime": "65.500s",
+                    "word": "wisdom"
+                  },
+                  {
+                    "startTime": "65.500s",
+                    "endTime": "65.600s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "65.600s",
+                    "endTime": "65.800s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "65.800s",
+                    "endTime": "66.400s",
+                    "word": "turns"
+                  },
+                  {
+                    "startTime": "66.400s",
+                    "endTime": "66.600s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "66.600s",
+                    "endTime": "66.700s",
+                    "word": "your"
+                  },
+                  {
+                    "startTime": "66.700s",
+                    "endTime": "67.300s",
+                    "word": "mind."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          }
+        ]
+      }
+    ]
+  }
+}

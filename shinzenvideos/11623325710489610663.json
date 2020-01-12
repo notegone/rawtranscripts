@@ -1,0 +1,282 @@
+{
+  "name": "projects/923263939845/locations/us-west1/operations/11623325710489610663",
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoProgress",
+    "annotationProgress": [
+      {
+        "inputUri": "/shfvideos/ShinzenVideos/Shinzen's Version of Lazy.mp4",
+        "progressPercent": 100,
+        "startTime": "2019-12-27T07:16:10.103551Z",
+        "updateTime": "2019-12-27T07:20:51.566218Z"
+      }
+    ]
+  },
+  "done": true,
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoResponse",
+    "annotationResults": [
+      {
+        "inputUri": "/shfvideos/ShinzenVideos/Shinzen's Version of Lazy.mp4",
+        "segment": {
+          "startTimeOffset": "0s",
+          "endTimeOffset": "30.696780s"
+        },
+        "speechTranscriptions": [
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": "So basically with regards to responsibility and work. I'm lazy.",
+                "confidence": 0.7245919,
+                "words": [
+                  {
+                    "startTime": "3s",
+                    "endTime": "3.500s",
+                    "word": "So"
+                  },
+                  {
+                    "startTime": "3.500s",
+                    "endTime": "4.500s",
+                    "word": "basically"
+                  },
+                  {
+                    "startTime": "5.200s",
+                    "endTime": "5.400s",
+                    "word": "with"
+                  },
+                  {
+                    "startTime": "5.400s",
+                    "endTime": "6s",
+                    "word": "regards"
+                  },
+                  {
+                    "startTime": "6s",
+                    "endTime": "6.400s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "6.400s",
+                    "endTime": "7.600s",
+                    "word": "responsibility"
+                  },
+                  {
+                    "startTime": "7.600s",
+                    "endTime": "7.800s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "7.800s",
+                    "endTime": "8.400s",
+                    "word": "work."
+                  },
+                  {
+                    "startTime": "8.700s",
+                    "endTime": "8.900s",
+                    "word": "I'm"
+                  },
+                  {
+                    "startTime": "8.900s",
+                    "endTime": "9.700s",
+                    "word": "lazy."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " The only saving grace that I have is that a lot of things that are fun and play for me are considered by others to be work. I would be one of those homeless people.",
+                "confidence": 0.854542,
+                "words": [
+                  {
+                    "startTime": "10.600s",
+                    "endTime": "10.800s",
+                    "word": "The"
+                  },
+                  {
+                    "startTime": "10.800s",
+                    "endTime": "11.100s",
+                    "word": "only"
+                  },
+                  {
+                    "startTime": "11.100s",
+                    "endTime": "11.500s",
+                    "word": "saving"
+                  },
+                  {
+                    "startTime": "11.500s",
+                    "endTime": "12s",
+                    "word": "grace"
+                  },
+                  {
+                    "startTime": "12s",
+                    "endTime": "12.200s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "12.200s",
+                    "endTime": "12.300s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "12.300s",
+                    "endTime": "12.700s",
+                    "word": "have"
+                  },
+                  {
+                    "startTime": "12.700s",
+                    "endTime": "13s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "13s",
+                    "endTime": "13.400s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "13.600s",
+                    "endTime": "13.600s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "13.600s",
+                    "endTime": "13.900s",
+                    "word": "lot"
+                  },
+                  {
+                    "startTime": "13.900s",
+                    "endTime": "14s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "14s",
+                    "endTime": "14.400s",
+                    "word": "things"
+                  },
+                  {
+                    "startTime": "14.400s",
+                    "endTime": "14.800s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "14.800s",
+                    "endTime": "15.200s",
+                    "word": "are"
+                  },
+                  {
+                    "startTime": "16.100s",
+                    "endTime": "16.700s",
+                    "word": "fun"
+                  },
+                  {
+                    "startTime": "17.200s",
+                    "endTime": "17.400s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "17.400s",
+                    "endTime": "18.100s",
+                    "word": "play"
+                  },
+                  {
+                    "startTime": "18.600s",
+                    "endTime": "18.800s",
+                    "word": "for"
+                  },
+                  {
+                    "startTime": "18.800s",
+                    "endTime": "19.300s",
+                    "word": "me"
+                  },
+                  {
+                    "startTime": "19.600s",
+                    "endTime": "19.700s",
+                    "word": "are"
+                  },
+                  {
+                    "startTime": "19.700s",
+                    "endTime": "20.300s",
+                    "word": "considered"
+                  },
+                  {
+                    "startTime": "20.300s",
+                    "endTime": "20.500s",
+                    "word": "by"
+                  },
+                  {
+                    "startTime": "20.500s",
+                    "endTime": "20.900s",
+                    "word": "others"
+                  },
+                  {
+                    "startTime": "20.900s",
+                    "endTime": "21s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "21s",
+                    "endTime": "21.200s",
+                    "word": "be"
+                  },
+                  {
+                    "startTime": "21.200s",
+                    "endTime": "21.800s",
+                    "word": "work."
+                  },
+                  {
+                    "startTime": "23.900s",
+                    "endTime": "24.100s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "24.100s",
+                    "endTime": "24.300s",
+                    "word": "would"
+                  },
+                  {
+                    "startTime": "24.300s",
+                    "endTime": "24.800s",
+                    "word": "be"
+                  },
+                  {
+                    "startTime": "24.900s",
+                    "endTime": "25.100s",
+                    "word": "one"
+                  },
+                  {
+                    "startTime": "25.100s",
+                    "endTime": "25.200s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "25.200s",
+                    "endTime": "25.800s",
+                    "word": "those"
+                  },
+                  {
+                    "startTime": "26s",
+                    "endTime": "26.500s",
+                    "word": "homeless"
+                  },
+                  {
+                    "startTime": "26.500s",
+                    "endTime": "26.900s",
+                    "word": "people."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "name": "projects/923263939845/locations/us-east1/operations/6218392033151513649",
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoProgress",
+    "annotationProgress": [
+      {
+        "inputUri": "/shfvideos/ShinzenVideos/Shinzen's 30 Second Samadhi.mp4",
+        "progressPercent": 100,
+        "startTime": "2019-12-27T07:16:08.334495Z",
+        "updateTime": "2019-12-27T07:16:55.477600Z"
+      }
+    ]
+  },
+  "done": true,
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoResponse",
+    "annotationResults": [
+      {
+        "inputUri": "/shfvideos/ShinzenVideos/Shinzen's 30 Second Samadhi.mp4",
+        "segment": {
+          "startTimeOffset": "0s",
+          "endTimeOffset": "69.218684s"
+        },
+        "speechTranscriptions": [
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": "Watch her.",
+                "confidence": 0.75889486,
+                "words": [
+                  {
+                    "startTime": "8.200s",
+                    "endTime": "8.500s",
+                    "word": "Watch"
+                  },
+                  {
+                    "startTime": "8.500s",
+                    "endTime": "9s",
+                    "word": "her."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " sometimes I this coming",
+                "confidence": 0.79405874,
+                "words": [
+                  {
+                    "startTime": "14.300s",
+                    "endTime": "15s",
+                    "word": "sometimes"
+                  },
+                  {
+                    "startTime": "15s",
+                    "endTime": "15.300s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "15.800s",
+                    "endTime": "16.300s",
+                    "word": "this"
+                  },
+                  {
+                    "startTime": "16.900s",
+                    "endTime": "17.400s",
+                    "word": "coming"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Great Lakes don't want to be too scratchy.",
+                "confidence": 0.6609242,
+                "words": [
+                  {
+                    "startTime": "50.800s",
+                    "endTime": "51.100s",
+                    "word": "Great"
+                  },
+                  {
+                    "startTime": "51.200s",
+                    "endTime": "51.700s",
+                    "word": "Lakes"
+                  },
+                  {
+                    "startTime": "54.400s",
+                    "endTime": "54.500s",
+                    "word": "don't"
+                  },
+                  {
+                    "startTime": "54.500s",
+                    "endTime": "54.600s",
+                    "word": "want"
+                  },
+                  {
+                    "startTime": "54.600s",
+                    "endTime": "54.700s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "54.700s",
+                    "endTime": "54.900s",
+                    "word": "be"
+                  },
+                  {
+                    "startTime": "54.900s",
+                    "endTime": "55.200s",
+                    "word": "too"
+                  },
+                  {
+                    "startTime": "55.200s",
+                    "endTime": "56.100s",
+                    "word": "scratchy."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          }
+        ]
+      }
+    ]
+  }
+}

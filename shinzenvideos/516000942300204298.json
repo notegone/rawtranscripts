@@ -1,0 +1,3302 @@
+{
+  "name": "projects/923263939845/locations/us-east1/operations/516000942300204298",
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoProgress",
+    "annotationProgress": [
+      {
+        "inputUri": "/shfvideos/ShinzenVideos/Shinzen Weeps at Beauty of Japanese Children's Poem.mp4",
+        "progressPercent": 100,
+        "startTime": "2019-12-27T07:15:58.800031Z",
+        "updateTime": "2019-12-27T07:19:07.415499Z"
+      }
+    ]
+  },
+  "done": true,
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoResponse",
+    "annotationResults": [
+      {
+        "inputUri": "/shfvideos/ShinzenVideos/Shinzen Weeps at Beauty of Japanese Children's Poem.mp4",
+        "segment": {
+          "startTimeOffset": "0s",
+          "endTimeOffset": "382.455873s"
+        },
+        "speechTranscriptions": [
+          {
+            "alternatives": [
+              {
+                "transcript": "Because just as you had to learn the ABCs every Japanese child has to learn the iroha. The iroha is the traditional ordering of the Japanese script hiragana. Are you aware that Japanese language is written in a combination of kanji which a Chinese",
+                "confidence": 0.8852427,
+                "words": [
+                  {
+                    "startTime": "0s",
+                    "endTime": "3.400s",
+                    "word": "Because"
+                  },
+                  {
+                    "startTime": "3.400s",
+                    "endTime": "4.300s",
+                    "word": "just"
+                  },
+                  {
+                    "startTime": "4.300s",
+                    "endTime": "4.500s",
+                    "word": "as"
+                  },
+                  {
+                    "startTime": "4.500s",
+                    "endTime": "4.600s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "4.600s",
+                    "endTime": "4.900s",
+                    "word": "had"
+                  },
+                  {
+                    "startTime": "4.900s",
+                    "endTime": "5s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "5s",
+                    "endTime": "5.200s",
+                    "word": "learn"
+                  },
+                  {
+                    "startTime": "5.200s",
+                    "endTime": "5.500s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "5.500s",
+                    "endTime": "6.400s",
+                    "word": "ABCs"
+                  },
+                  {
+                    "startTime": "6.400s",
+                    "endTime": "7.800s",
+                    "word": "every"
+                  },
+                  {
+                    "startTime": "7.800s",
+                    "endTime": "8.500s",
+                    "word": "Japanese"
+                  },
+                  {
+                    "startTime": "8.500s",
+                    "endTime": "9.200s",
+                    "word": "child"
+                  },
+                  {
+                    "startTime": "9.200s",
+                    "endTime": "9.500s",
+                    "word": "has"
+                  },
+                  {
+                    "startTime": "9.500s",
+                    "endTime": "9.700s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "9.700s",
+                    "endTime": "9.900s",
+                    "word": "learn"
+                  },
+                  {
+                    "startTime": "9.900s",
+                    "endTime": "10.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "10.600s",
+                    "endTime": "11.500s",
+                    "word": "iroha."
+                  },
+                  {
+                    "startTime": "11.500s",
+                    "endTime": "12.700s",
+                    "word": "The"
+                  },
+                  {
+                    "startTime": "12.700s",
+                    "endTime": "13.300s",
+                    "word": "iroha"
+                  },
+                  {
+                    "startTime": "13.300s",
+                    "endTime": "13.800s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "13.800s",
+                    "endTime": "14.700s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "14.700s",
+                    "endTime": "15.700s",
+                    "word": "traditional"
+                  },
+                  {
+                    "startTime": "15.700s",
+                    "endTime": "18.700s",
+                    "word": "ordering"
+                  },
+                  {
+                    "startTime": "18.700s",
+                    "endTime": "19s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "19s",
+                    "endTime": "19.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "19.400s",
+                    "endTime": "20.900s",
+                    "word": "Japanese"
+                  },
+                  {
+                    "startTime": "20.900s",
+                    "endTime": "21.400s",
+                    "word": "script"
+                  },
+                  {
+                    "startTime": "21.400s",
+                    "endTime": "22.500s",
+                    "word": "hiragana."
+                  },
+                  {
+                    "startTime": "22.500s",
+                    "endTime": "23.500s",
+                    "word": "Are"
+                  },
+                  {
+                    "startTime": "23.500s",
+                    "endTime": "23.700s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "23.700s",
+                    "endTime": "24.300s",
+                    "word": "aware"
+                  },
+                  {
+                    "startTime": "24.300s",
+                    "endTime": "24.500s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "24.500s",
+                    "endTime": "25.700s",
+                    "word": "Japanese"
+                  },
+                  {
+                    "startTime": "25.700s",
+                    "endTime": "26s",
+                    "word": "language"
+                  },
+                  {
+                    "startTime": "26s",
+                    "endTime": "26.300s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "26.300s",
+                    "endTime": "27s",
+                    "word": "written"
+                  },
+                  {
+                    "startTime": "27s",
+                    "endTime": "27.400s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "27.400s",
+                    "endTime": "27.500s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "27.500s",
+                    "endTime": "28s",
+                    "word": "combination"
+                  },
+                  {
+                    "startTime": "28s",
+                    "endTime": "28.300s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "28.300s",
+                    "endTime": "28.900s",
+                    "word": "kanji"
+                  },
+                  {
+                    "startTime": "28.900s",
+                    "endTime": "29s",
+                    "word": "which"
+                  },
+                  {
+                    "startTime": "29s",
+                    "endTime": "29.200s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "29.200s",
+                    "endTime": "29.700s",
+                    "word": "Chinese"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " actors and, which are Japanese of syllables syllabary at there's two kinds of Kanna, but the one that's normally used is called here at Dhaka and the way that school children learn hiragana is they learn a poem a poem that contains each syllable of the Japanese language once and only once",
+                "confidence": 0.7239086,
+                "words": [
+                  {
+                    "startTime": "30s",
+                    "endTime": "30.400s",
+                    "word": "actors"
+                  },
+                  {
+                    "startTime": "30.500s",
+                    "endTime": "31.300s",
+                    "word": "and,"
+                  },
+                  {
+                    "startTime": "31.800s",
+                    "endTime": "32.100s",
+                    "word": "which"
+                  },
+                  {
+                    "startTime": "32.100s",
+                    "endTime": "32.500s",
+                    "word": "are"
+                  },
+                  {
+                    "startTime": "32.500s",
+                    "endTime": "33.300s",
+                    "word": "Japanese"
+                  },
+                  {
+                    "startTime": "33.400s",
+                    "endTime": "33.800s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "34.400s",
+                    "endTime": "35.100s",
+                    "word": "syllables"
+                  },
+                  {
+                    "startTime": "35.100s",
+                    "endTime": "35.900s",
+                    "word": "syllabary"
+                  },
+                  {
+                    "startTime": "36.500s",
+                    "endTime": "36.900s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "36.900s",
+                    "endTime": "37.200s",
+                    "word": "there's"
+                  },
+                  {
+                    "startTime": "37.200s",
+                    "endTime": "37.300s",
+                    "word": "two"
+                  },
+                  {
+                    "startTime": "37.300s",
+                    "endTime": "37.500s",
+                    "word": "kinds"
+                  },
+                  {
+                    "startTime": "37.500s",
+                    "endTime": "37.700s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "37.700s",
+                    "endTime": "38.400s",
+                    "word": "Kanna,"
+                  },
+                  {
+                    "startTime": "39s",
+                    "endTime": "39.200s",
+                    "word": "but"
+                  },
+                  {
+                    "startTime": "39.200s",
+                    "endTime": "39.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "39.300s",
+                    "endTime": "39.400s",
+                    "word": "one"
+                  },
+                  {
+                    "startTime": "39.400s",
+                    "endTime": "39.700s",
+                    "word": "that's"
+                  },
+                  {
+                    "startTime": "39.700s",
+                    "endTime": "40.200s",
+                    "word": "normally"
+                  },
+                  {
+                    "startTime": "40.200s",
+                    "endTime": "40.500s",
+                    "word": "used"
+                  },
+                  {
+                    "startTime": "40.500s",
+                    "endTime": "40.600s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "40.600s",
+                    "endTime": "41s",
+                    "word": "called"
+                  },
+                  {
+                    "startTime": "41s",
+                    "endTime": "41.200s",
+                    "word": "here"
+                  },
+                  {
+                    "startTime": "41.200s",
+                    "endTime": "41.300s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "41.300s",
+                    "endTime": "41.700s",
+                    "word": "Dhaka"
+                  },
+                  {
+                    "startTime": "42.600s",
+                    "endTime": "43.400s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "44.300s",
+                    "endTime": "44.500s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "44.500s",
+                    "endTime": "44.800s",
+                    "word": "way"
+                  },
+                  {
+                    "startTime": "44.800s",
+                    "endTime": "45.100s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "45.100s",
+                    "endTime": "45.500s",
+                    "word": "school"
+                  },
+                  {
+                    "startTime": "45.500s",
+                    "endTime": "46.200s",
+                    "word": "children"
+                  },
+                  {
+                    "startTime": "46.200s",
+                    "endTime": "46.700s",
+                    "word": "learn"
+                  },
+                  {
+                    "startTime": "46.700s",
+                    "endTime": "47.700s",
+                    "word": "hiragana"
+                  },
+                  {
+                    "startTime": "48.100s",
+                    "endTime": "48.600s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "48.600s",
+                    "endTime": "48.800s",
+                    "word": "they"
+                  },
+                  {
+                    "startTime": "48.800s",
+                    "endTime": "49s",
+                    "word": "learn"
+                  },
+                  {
+                    "startTime": "49s",
+                    "endTime": "49.100s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "49.100s",
+                    "endTime": "49.800s",
+                    "word": "poem"
+                  },
+                  {
+                    "startTime": "51.100s",
+                    "endTime": "51.200s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "51.200s",
+                    "endTime": "51.700s",
+                    "word": "poem"
+                  },
+                  {
+                    "startTime": "51.700s",
+                    "endTime": "52s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "52s",
+                    "endTime": "52.800s",
+                    "word": "contains"
+                  },
+                  {
+                    "startTime": "53.600s",
+                    "endTime": "54.400s",
+                    "word": "each"
+                  },
+                  {
+                    "startTime": "54.400s",
+                    "endTime": "55.200s",
+                    "word": "syllable"
+                  },
+                  {
+                    "startTime": "55.200s",
+                    "endTime": "55.400s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "55.400s",
+                    "endTime": "55.500s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "55.500s",
+                    "endTime": "56.200s",
+                    "word": "Japanese"
+                  },
+                  {
+                    "startTime": "56.200s",
+                    "endTime": "56.800s",
+                    "word": "language"
+                  },
+                  {
+                    "startTime": "56.800s",
+                    "endTime": "57.400s",
+                    "word": "once"
+                  },
+                  {
+                    "startTime": "57.400s",
+                    "endTime": "57.800s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "57.800s",
+                    "endTime": "58.100s",
+                    "word": "only"
+                  },
+                  {
+                    "startTime": "58.100s",
+                    "endTime": "58.600s",
+                    "word": "once"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " And that poem is traditionally ascribed to Kobo. Daishi also known as kukai and kukai was the person who introduced shingle on into Japan from China and he developed his linguistic sophistication.",
+                "confidence": 0.8801547,
+                "words": [
+                  {
+                    "startTime": "59.800s",
+                    "endTime": "59.900s",
+                    "word": "And"
+                  },
+                  {
+                    "startTime": "59.900s",
+                    "endTime": "60.200s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "60.200s",
+                    "endTime": "60.900s",
+                    "word": "poem"
+                  },
+                  {
+                    "startTime": "62.600s",
+                    "endTime": "63.100s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "63.300s",
+                    "endTime": "64s",
+                    "word": "traditionally"
+                  },
+                  {
+                    "startTime": "64s",
+                    "endTime": "64.700s",
+                    "word": "ascribed"
+                  },
+                  {
+                    "startTime": "64.700s",
+                    "endTime": "65.200s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "67.300s",
+                    "endTime": "67.900s",
+                    "word": "Kobo."
+                  },
+                  {
+                    "startTime": "67.900s",
+                    "endTime": "68.700s",
+                    "word": "Daishi"
+                  },
+                  {
+                    "startTime": "69s",
+                    "endTime": "69.400s",
+                    "word": "also"
+                  },
+                  {
+                    "startTime": "69.400s",
+                    "endTime": "69.600s",
+                    "word": "known"
+                  },
+                  {
+                    "startTime": "69.600s",
+                    "endTime": "69.800s",
+                    "word": "as"
+                  },
+                  {
+                    "startTime": "69.800s",
+                    "endTime": "70.600s",
+                    "word": "kukai"
+                  },
+                  {
+                    "startTime": "71.200s",
+                    "endTime": "71.400s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "71.400s",
+                    "endTime": "71.900s",
+                    "word": "kukai"
+                  },
+                  {
+                    "startTime": "71.900s",
+                    "endTime": "72.200s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "72.200s",
+                    "endTime": "72.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "72.300s",
+                    "endTime": "72.900s",
+                    "word": "person"
+                  },
+                  {
+                    "startTime": "72.900s",
+                    "endTime": "73.100s",
+                    "word": "who"
+                  },
+                  {
+                    "startTime": "73.100s",
+                    "endTime": "74s",
+                    "word": "introduced"
+                  },
+                  {
+                    "startTime": "74s",
+                    "endTime": "74.400s",
+                    "word": "shingle"
+                  },
+                  {
+                    "startTime": "74.400s",
+                    "endTime": "74.800s",
+                    "word": "on"
+                  },
+                  {
+                    "startTime": "75.100s",
+                    "endTime": "75.500s",
+                    "word": "into"
+                  },
+                  {
+                    "startTime": "75.500s",
+                    "endTime": "76.100s",
+                    "word": "Japan"
+                  },
+                  {
+                    "startTime": "76.100s",
+                    "endTime": "76.300s",
+                    "word": "from"
+                  },
+                  {
+                    "startTime": "76.300s",
+                    "endTime": "76.900s",
+                    "word": "China"
+                  },
+                  {
+                    "startTime": "77.800s",
+                    "endTime": "78.600s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "79.300s",
+                    "endTime": "80.100s",
+                    "word": "he"
+                  },
+                  {
+                    "startTime": "80.800s",
+                    "endTime": "81.400s",
+                    "word": "developed"
+                  },
+                  {
+                    "startTime": "81.400s",
+                    "endTime": "81.600s",
+                    "word": "his"
+                  },
+                  {
+                    "startTime": "81.600s",
+                    "endTime": "82.400s",
+                    "word": "linguistic"
+                  },
+                  {
+                    "startTime": "82.400s",
+                    "endTime": "83.600s",
+                    "word": "sophistication."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Because he studied a little Sanskrit and the Sanskrit Sanskrit Panini and such. He was the people in India invented grammar really the world's first group of scientific grammarian was pommy me and because she gone uses mantras a lot. And so, you know, they wanted to know Sanskrit so they actually learned phonological principles.",
+                "confidence": 0.8279811,
+                "words": [
+                  {
+                    "startTime": "85s",
+                    "endTime": "85.700s",
+                    "word": "Because"
+                  },
+                  {
+                    "startTime": "86.700s",
+                    "endTime": "86.900s",
+                    "word": "he"
+                  },
+                  {
+                    "startTime": "86.900s",
+                    "endTime": "87.200s",
+                    "word": "studied"
+                  },
+                  {
+                    "startTime": "87.200s",
+                    "endTime": "87.300s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "87.300s",
+                    "endTime": "87.600s",
+                    "word": "little"
+                  },
+                  {
+                    "startTime": "87.600s",
+                    "endTime": "88.400s",
+                    "word": "Sanskrit"
+                  },
+                  {
+                    "startTime": "89s",
+                    "endTime": "89.200s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "89.200s",
+                    "endTime": "89.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "89.300s",
+                    "endTime": "90.100s",
+                    "word": "Sanskrit"
+                  },
+                  {
+                    "startTime": "90.600s",
+                    "endTime": "91.500s",
+                    "word": "Sanskrit"
+                  },
+                  {
+                    "startTime": "92.100s",
+                    "endTime": "92.700s",
+                    "word": "Panini"
+                  },
+                  {
+                    "startTime": "92.700s",
+                    "endTime": "92.900s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "92.900s",
+                    "endTime": "93.600s",
+                    "word": "such."
+                  },
+                  {
+                    "startTime": "94.200s",
+                    "endTime": "94.300s",
+                    "word": "He"
+                  },
+                  {
+                    "startTime": "94.300s",
+                    "endTime": "94.700s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "95.500s",
+                    "endTime": "95.700s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "95.700s",
+                    "endTime": "96s",
+                    "word": "people"
+                  },
+                  {
+                    "startTime": "96s",
+                    "endTime": "96.100s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "96.100s",
+                    "endTime": "96.700s",
+                    "word": "India"
+                  },
+                  {
+                    "startTime": "96.800s",
+                    "endTime": "97.500s",
+                    "word": "invented"
+                  },
+                  {
+                    "startTime": "97.500s",
+                    "endTime": "98.100s",
+                    "word": "grammar"
+                  },
+                  {
+                    "startTime": "98.400s",
+                    "endTime": "99s",
+                    "word": "really"
+                  },
+                  {
+                    "startTime": "99.600s",
+                    "endTime": "99.800s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "99.800s",
+                    "endTime": "100.300s",
+                    "word": "world's"
+                  },
+                  {
+                    "startTime": "100.300s",
+                    "endTime": "100.900s",
+                    "word": "first"
+                  },
+                  {
+                    "startTime": "100.900s",
+                    "endTime": "101.200s",
+                    "word": "group"
+                  },
+                  {
+                    "startTime": "101.200s",
+                    "endTime": "101.500s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "101.500s",
+                    "endTime": "102.100s",
+                    "word": "scientific"
+                  },
+                  {
+                    "startTime": "102.100s",
+                    "endTime": "103s",
+                    "word": "grammarian"
+                  },
+                  {
+                    "startTime": "103.100s",
+                    "endTime": "103.400s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "103.400s",
+                    "endTime": "103.800s",
+                    "word": "pommy"
+                  },
+                  {
+                    "startTime": "103.800s",
+                    "endTime": "104.100s",
+                    "word": "me"
+                  },
+                  {
+                    "startTime": "104.500s",
+                    "endTime": "104.900s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "104.900s",
+                    "endTime": "105.400s",
+                    "word": "because"
+                  },
+                  {
+                    "startTime": "105.400s",
+                    "endTime": "105.600s",
+                    "word": "she"
+                  },
+                  {
+                    "startTime": "105.600s",
+                    "endTime": "106.100s",
+                    "word": "gone"
+                  },
+                  {
+                    "startTime": "106.100s",
+                    "endTime": "106.600s",
+                    "word": "uses"
+                  },
+                  {
+                    "startTime": "106.600s",
+                    "endTime": "107.100s",
+                    "word": "mantras"
+                  },
+                  {
+                    "startTime": "107.100s",
+                    "endTime": "107.200s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "107.200s",
+                    "endTime": "107.700s",
+                    "word": "lot."
+                  },
+                  {
+                    "startTime": "108.600s",
+                    "endTime": "108.900s",
+                    "word": "And"
+                  },
+                  {
+                    "startTime": "108.900s",
+                    "endTime": "109.100s",
+                    "word": "so,"
+                  },
+                  {
+                    "startTime": "109.100s",
+                    "endTime": "109.200s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "109.200s",
+                    "endTime": "109.300s",
+                    "word": "know,"
+                  },
+                  {
+                    "startTime": "109.300s",
+                    "endTime": "109.500s",
+                    "word": "they"
+                  },
+                  {
+                    "startTime": "109.500s",
+                    "endTime": "109.800s",
+                    "word": "wanted"
+                  },
+                  {
+                    "startTime": "109.800s",
+                    "endTime": "109.900s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "109.900s",
+                    "endTime": "110.100s",
+                    "word": "know"
+                  },
+                  {
+                    "startTime": "110.100s",
+                    "endTime": "110.800s",
+                    "word": "Sanskrit"
+                  },
+                  {
+                    "startTime": "110.800s",
+                    "endTime": "110.900s",
+                    "word": "so"
+                  },
+                  {
+                    "startTime": "110.900s",
+                    "endTime": "111.200s",
+                    "word": "they"
+                  },
+                  {
+                    "startTime": "111.200s",
+                    "endTime": "111.700s",
+                    "word": "actually"
+                  },
+                  {
+                    "startTime": "111.700s",
+                    "endTime": "112.600s",
+                    "word": "learned"
+                  },
+                  {
+                    "startTime": "112.600s",
+                    "endTime": "113.500s",
+                    "word": "phonological"
+                  },
+                  {
+                    "startTime": "113.500s",
+                    "endTime": "114.400s",
+                    "word": "principles."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " They meaning the monks the shingle on lungs and they learned it based on indic Notions of linguistics. So there was a indirect impact all the way from India all the way to Japan when the Japanese written language was first sort of developing in the hand period it was",
+                "confidence": 0.79919523,
+                "words": [
+                  {
+                    "startTime": "115s",
+                    "endTime": "115.100s",
+                    "word": "They"
+                  },
+                  {
+                    "startTime": "115.100s",
+                    "endTime": "115.500s",
+                    "word": "meaning"
+                  },
+                  {
+                    "startTime": "115.500s",
+                    "endTime": "115.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "115.600s",
+                    "endTime": "116.100s",
+                    "word": "monks"
+                  },
+                  {
+                    "startTime": "116.100s",
+                    "endTime": "116.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "116.200s",
+                    "endTime": "116.600s",
+                    "word": "shingle"
+                  },
+                  {
+                    "startTime": "116.600s",
+                    "endTime": "116.700s",
+                    "word": "on"
+                  },
+                  {
+                    "startTime": "116.700s",
+                    "endTime": "117.200s",
+                    "word": "lungs"
+                  },
+                  {
+                    "startTime": "117.700s",
+                    "endTime": "117.900s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "117.900s",
+                    "endTime": "118s",
+                    "word": "they"
+                  },
+                  {
+                    "startTime": "118s",
+                    "endTime": "118.400s",
+                    "word": "learned"
+                  },
+                  {
+                    "startTime": "118.400s",
+                    "endTime": "118.700s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "118.800s",
+                    "endTime": "119.200s",
+                    "word": "based"
+                  },
+                  {
+                    "startTime": "119.200s",
+                    "endTime": "119.600s",
+                    "word": "on"
+                  },
+                  {
+                    "startTime": "120.600s",
+                    "endTime": "121s",
+                    "word": "indic"
+                  },
+                  {
+                    "startTime": "121s",
+                    "endTime": "121.800s",
+                    "word": "Notions"
+                  },
+                  {
+                    "startTime": "121.900s",
+                    "endTime": "122.400s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "122.900s",
+                    "endTime": "123.800s",
+                    "word": "linguistics."
+                  },
+                  {
+                    "startTime": "124.500s",
+                    "endTime": "125.300s",
+                    "word": "So"
+                  },
+                  {
+                    "startTime": "128s",
+                    "endTime": "128.300s",
+                    "word": "there"
+                  },
+                  {
+                    "startTime": "128.300s",
+                    "endTime": "128.700s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "128.700s",
+                    "endTime": "129.100s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "130s",
+                    "endTime": "131.500s",
+                    "word": "indirect"
+                  },
+                  {
+                    "startTime": "131.800s",
+                    "endTime": "132.800s",
+                    "word": "impact"
+                  },
+                  {
+                    "startTime": "133.400s",
+                    "endTime": "133.900s",
+                    "word": "all"
+                  },
+                  {
+                    "startTime": "133.900s",
+                    "endTime": "134s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "134s",
+                    "endTime": "134.200s",
+                    "word": "way"
+                  },
+                  {
+                    "startTime": "134.200s",
+                    "endTime": "134.500s",
+                    "word": "from"
+                  },
+                  {
+                    "startTime": "134.500s",
+                    "endTime": "135.200s",
+                    "word": "India"
+                  },
+                  {
+                    "startTime": "136.100s",
+                    "endTime": "136.600s",
+                    "word": "all"
+                  },
+                  {
+                    "startTime": "136.600s",
+                    "endTime": "136.700s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "136.700s",
+                    "endTime": "136.900s",
+                    "word": "way"
+                  },
+                  {
+                    "startTime": "136.900s",
+                    "endTime": "137s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "137s",
+                    "endTime": "137.800s",
+                    "word": "Japan"
+                  },
+                  {
+                    "startTime": "138.500s",
+                    "endTime": "138.800s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "138.800s",
+                    "endTime": "138.900s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "138.900s",
+                    "endTime": "139.600s",
+                    "word": "Japanese"
+                  },
+                  {
+                    "startTime": "139.600s",
+                    "endTime": "139.900s",
+                    "word": "written"
+                  },
+                  {
+                    "startTime": "139.900s",
+                    "endTime": "140.400s",
+                    "word": "language"
+                  },
+                  {
+                    "startTime": "140.400s",
+                    "endTime": "140.800s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "140.800s",
+                    "endTime": "141.100s",
+                    "word": "first"
+                  },
+                  {
+                    "startTime": "141.100s",
+                    "endTime": "141.300s",
+                    "word": "sort"
+                  },
+                  {
+                    "startTime": "141.300s",
+                    "endTime": "141.500s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "141.500s",
+                    "endTime": "142.100s",
+                    "word": "developing"
+                  },
+                  {
+                    "startTime": "142.100s",
+                    "endTime": "142.200s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "142.200s",
+                    "endTime": "142.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "142.300s",
+                    "endTime": "142.700s",
+                    "word": "hand"
+                  },
+                  {
+                    "startTime": "142.700s",
+                    "endTime": "143.700s",
+                    "word": "period"
+                  },
+                  {
+                    "startTime": "143.900s",
+                    "endTime": "144s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "144s",
+                    "endTime": "144.600s",
+                    "word": "was"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Amongst the did it because they had linguistic sophistication and they created the off the equivalent of their alphabet. And so we're we're as you learn the ABCs, but Japanese child learns this poem",
+                "confidence": 0.88356465,
+                "words": [
+                  {
+                    "startTime": "144.800s",
+                    "endTime": "145.300s",
+                    "word": "Amongst"
+                  },
+                  {
+                    "startTime": "145.300s",
+                    "endTime": "145.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "145.400s",
+                    "endTime": "145.700s",
+                    "word": "did"
+                  },
+                  {
+                    "startTime": "145.700s",
+                    "endTime": "145.800s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "145.800s",
+                    "endTime": "146.200s",
+                    "word": "because"
+                  },
+                  {
+                    "startTime": "146.200s",
+                    "endTime": "146.300s",
+                    "word": "they"
+                  },
+                  {
+                    "startTime": "146.300s",
+                    "endTime": "146.900s",
+                    "word": "had"
+                  },
+                  {
+                    "startTime": "146.900s",
+                    "endTime": "147.600s",
+                    "word": "linguistic"
+                  },
+                  {
+                    "startTime": "147.600s",
+                    "endTime": "148.700s",
+                    "word": "sophistication"
+                  },
+                  {
+                    "startTime": "149.300s",
+                    "endTime": "149.400s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "149.400s",
+                    "endTime": "149.500s",
+                    "word": "they"
+                  },
+                  {
+                    "startTime": "149.500s",
+                    "endTime": "150s",
+                    "word": "created"
+                  },
+                  {
+                    "startTime": "150s",
+                    "endTime": "150.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "150.100s",
+                    "endTime": "150.500s",
+                    "word": "off"
+                  },
+                  {
+                    "startTime": "150.500s",
+                    "endTime": "151s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "151.700s",
+                    "endTime": "152.300s",
+                    "word": "equivalent"
+                  },
+                  {
+                    "startTime": "152.300s",
+                    "endTime": "152.400s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "152.400s",
+                    "endTime": "152.600s",
+                    "word": "their"
+                  },
+                  {
+                    "startTime": "152.600s",
+                    "endTime": "153.500s",
+                    "word": "alphabet."
+                  },
+                  {
+                    "startTime": "154.100s",
+                    "endTime": "154.400s",
+                    "word": "And"
+                  },
+                  {
+                    "startTime": "154.400s",
+                    "endTime": "155s",
+                    "word": "so"
+                  },
+                  {
+                    "startTime": "155s",
+                    "endTime": "155.500s",
+                    "word": "we're"
+                  },
+                  {
+                    "startTime": "155.900s",
+                    "endTime": "156.200s",
+                    "word": "we're"
+                  },
+                  {
+                    "startTime": "156.200s",
+                    "endTime": "156.400s",
+                    "word": "as"
+                  },
+                  {
+                    "startTime": "156.400s",
+                    "endTime": "156.500s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "156.500s",
+                    "endTime": "156.800s",
+                    "word": "learn"
+                  },
+                  {
+                    "startTime": "156.800s",
+                    "endTime": "157s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "157s",
+                    "endTime": "158s",
+                    "word": "ABCs,"
+                  },
+                  {
+                    "startTime": "158.900s",
+                    "endTime": "159.100s",
+                    "word": "but"
+                  },
+                  {
+                    "startTime": "159.100s",
+                    "endTime": "159.700s",
+                    "word": "Japanese"
+                  },
+                  {
+                    "startTime": "159.700s",
+                    "endTime": "160.400s",
+                    "word": "child"
+                  },
+                  {
+                    "startTime": "160.400s",
+                    "endTime": "160.900s",
+                    "word": "learns"
+                  },
+                  {
+                    "startTime": "160.900s",
+                    "endTime": "161.200s",
+                    "word": "this"
+                  },
+                  {
+                    "startTime": "161.200s",
+                    "endTime": "161.800s",
+                    "word": "poem"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " You know, you don't want your head all cheating rule while Gallo Tart Is oh, Samantha.",
+                "confidence": 0.8212,
+                "words": [
+                  {
+                    "startTime": "163.700s",
+                    "endTime": "163.900s",
+                    "word": "You"
+                  },
+                  {
+                    "startTime": "163.900s",
+                    "endTime": "164.600s",
+                    "word": "know,"
+                  },
+                  {
+                    "startTime": "164.600s",
+                    "endTime": "164.800s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "164.800s",
+                    "endTime": "165.100s",
+                    "word": "don't"
+                  },
+                  {
+                    "startTime": "165.100s",
+                    "endTime": "165.600s",
+                    "word": "want"
+                  },
+                  {
+                    "startTime": "165.600s",
+                    "endTime": "165.800s",
+                    "word": "your"
+                  },
+                  {
+                    "startTime": "165.800s",
+                    "endTime": "166.100s",
+                    "word": "head"
+                  },
+                  {
+                    "startTime": "166.100s",
+                    "endTime": "166.600s",
+                    "word": "all"
+                  },
+                  {
+                    "startTime": "166.900s",
+                    "endTime": "167.500s",
+                    "word": "cheating"
+                  },
+                  {
+                    "startTime": "167.500s",
+                    "endTime": "168.200s",
+                    "word": "rule"
+                  },
+                  {
+                    "startTime": "169.100s",
+                    "endTime": "169.400s",
+                    "word": "while"
+                  },
+                  {
+                    "startTime": "169.400s",
+                    "endTime": "170.200s",
+                    "word": "Gallo"
+                  },
+                  {
+                    "startTime": "170.400s",
+                    "endTime": "170.700s",
+                    "word": "Tart"
+                  },
+                  {
+                    "startTime": "170.700s",
+                    "endTime": "171s",
+                    "word": "Is"
+                  },
+                  {
+                    "startTime": "171s",
+                    "endTime": "171.400s",
+                    "word": "oh,"
+                  },
+                  {
+                    "startTime": "171.800s",
+                    "endTime": "172.400s",
+                    "word": "Samantha."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " We know oh cuiabá Jo Koy.",
+                "confidence": 0.86934906,
+                "words": [
+                  {
+                    "startTime": "173.900s",
+                    "endTime": "174.200s",
+                    "word": "We"
+                  },
+                  {
+                    "startTime": "174.200s",
+                    "endTime": "174.700s",
+                    "word": "know"
+                  },
+                  {
+                    "startTime": "174.900s",
+                    "endTime": "175.100s",
+                    "word": "oh"
+                  },
+                  {
+                    "startTime": "175.100s",
+                    "endTime": "176s",
+                    "word": "cuiabá"
+                  },
+                  {
+                    "startTime": "176.100s",
+                    "endTime": "176.500s",
+                    "word": "Jo"
+                  },
+                  {
+                    "startTime": "176.500s",
+                    "endTime": "177.100s",
+                    "word": "Koy."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " I thought you maybe G A system that contains each syllable of the Japanese language exactly once",
+                "confidence": 0.78151727,
+                "words": [
+                  {
+                    "startTime": "178.600s",
+                    "endTime": "178.700s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "178.700s",
+                    "endTime": "179.200s",
+                    "word": "thought"
+                  },
+                  {
+                    "startTime": "179.200s",
+                    "endTime": "179.300s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "179.300s",
+                    "endTime": "179.800s",
+                    "word": "maybe"
+                  },
+                  {
+                    "startTime": "179.800s",
+                    "endTime": "180.300s",
+                    "word": "G"
+                  },
+                  {
+                    "startTime": "180.900s",
+                    "endTime": "181.400s",
+                    "word": "A"
+                  },
+                  {
+                    "startTime": "181.400s",
+                    "endTime": "182s",
+                    "word": "system"
+                  },
+                  {
+                    "startTime": "182.800s",
+                    "endTime": "183s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "183s",
+                    "endTime": "183.900s",
+                    "word": "contains"
+                  },
+                  {
+                    "startTime": "184.100s",
+                    "endTime": "184.400s",
+                    "word": "each"
+                  },
+                  {
+                    "startTime": "184.400s",
+                    "endTime": "184.900s",
+                    "word": "syllable"
+                  },
+                  {
+                    "startTime": "184.900s",
+                    "endTime": "185s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "185s",
+                    "endTime": "185.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "185.100s",
+                    "endTime": "185.700s",
+                    "word": "Japanese"
+                  },
+                  {
+                    "startTime": "185.700s",
+                    "endTime": "186.200s",
+                    "word": "language"
+                  },
+                  {
+                    "startTime": "186.200s",
+                    "endTime": "187s",
+                    "word": "exactly"
+                  },
+                  {
+                    "startTime": "187s",
+                    "endTime": "187.600s",
+                    "word": "once"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " all and then you memorize that poem and you learn the Kama that way and that's the direct influence of shingle on the Japanese language, which is absolutely indelible. Every Japanese person knows it all. So what does the poem mean?",
+                "confidence": 0.78020716,
+                "words": [
+                  {
+                    "startTime": "189s",
+                    "endTime": "189.500s",
+                    "word": "all"
+                  },
+                  {
+                    "startTime": "189.500s",
+                    "endTime": "189.600s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "189.600s",
+                    "endTime": "189.800s",
+                    "word": "then"
+                  },
+                  {
+                    "startTime": "189.800s",
+                    "endTime": "190.300s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "190.300s",
+                    "endTime": "190.900s",
+                    "word": "memorize"
+                  },
+                  {
+                    "startTime": "190.900s",
+                    "endTime": "191.200s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "191.200s",
+                    "endTime": "191.800s",
+                    "word": "poem"
+                  },
+                  {
+                    "startTime": "192.200s",
+                    "endTime": "192.400s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "192.400s",
+                    "endTime": "192.500s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "192.500s",
+                    "endTime": "192.900s",
+                    "word": "learn"
+                  },
+                  {
+                    "startTime": "192.900s",
+                    "endTime": "193s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "193s",
+                    "endTime": "193.600s",
+                    "word": "Kama"
+                  },
+                  {
+                    "startTime": "193.600s",
+                    "endTime": "193.900s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "193.900s",
+                    "endTime": "194.400s",
+                    "word": "way"
+                  },
+                  {
+                    "startTime": "194.700s",
+                    "endTime": "194.800s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "194.800s",
+                    "endTime": "195.100s",
+                    "word": "that's"
+                  },
+                  {
+                    "startTime": "195.100s",
+                    "endTime": "195.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "195.300s",
+                    "endTime": "195.800s",
+                    "word": "direct"
+                  },
+                  {
+                    "startTime": "195.800s",
+                    "endTime": "196.400s",
+                    "word": "influence"
+                  },
+                  {
+                    "startTime": "196.400s",
+                    "endTime": "196.600s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "196.600s",
+                    "endTime": "197.200s",
+                    "word": "shingle"
+                  },
+                  {
+                    "startTime": "197.200s",
+                    "endTime": "197.300s",
+                    "word": "on"
+                  },
+                  {
+                    "startTime": "197.300s",
+                    "endTime": "197.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "197.400s",
+                    "endTime": "198s",
+                    "word": "Japanese"
+                  },
+                  {
+                    "startTime": "198s",
+                    "endTime": "198.800s",
+                    "word": "language,"
+                  },
+                  {
+                    "startTime": "198.900s",
+                    "endTime": "199.100s",
+                    "word": "which"
+                  },
+                  {
+                    "startTime": "199.100s",
+                    "endTime": "199.300s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "199.300s",
+                    "endTime": "200.100s",
+                    "word": "absolutely"
+                  },
+                  {
+                    "startTime": "200.100s",
+                    "endTime": "201s",
+                    "word": "indelible."
+                  },
+                  {
+                    "startTime": "201.700s",
+                    "endTime": "202.100s",
+                    "word": "Every"
+                  },
+                  {
+                    "startTime": "202.100s",
+                    "endTime": "202.700s",
+                    "word": "Japanese"
+                  },
+                  {
+                    "startTime": "202.700s",
+                    "endTime": "203.100s",
+                    "word": "person"
+                  },
+                  {
+                    "startTime": "203.100s",
+                    "endTime": "203.400s",
+                    "word": "knows"
+                  },
+                  {
+                    "startTime": "203.400s",
+                    "endTime": "203.700s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "204.800s",
+                    "endTime": "205.100s",
+                    "word": "all."
+                  },
+                  {
+                    "startTime": "206.500s",
+                    "endTime": "207.200s",
+                    "word": "So"
+                  },
+                  {
+                    "startTime": "208.700s",
+                    "endTime": "208.900s",
+                    "word": "what"
+                  },
+                  {
+                    "startTime": "208.900s",
+                    "endTime": "209.100s",
+                    "word": "does"
+                  },
+                  {
+                    "startTime": "209.100s",
+                    "endTime": "209.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "209.200s",
+                    "endTime": "209.600s",
+                    "word": "poem"
+                  },
+                  {
+                    "startTime": "209.600s",
+                    "endTime": "210.200s",
+                    "word": "mean?"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " very interesting",
+                "confidence": 0.68465,
+                "words": [
+                  {
+                    "startTime": "211.700s",
+                    "endTime": "211.900s",
+                    "word": "very"
+                  },
+                  {
+                    "startTime": "211.900s",
+                    "endTime": "212.700s",
+                    "word": "interesting"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " You know means color.",
+                "confidence": 0.8047972,
+                "words": [
+                  {
+                    "startTime": "215.800s",
+                    "endTime": "216s",
+                    "word": "You"
+                  },
+                  {
+                    "startTime": "216s",
+                    "endTime": "216.200s",
+                    "word": "know"
+                  },
+                  {
+                    "startTime": "216.200s",
+                    "endTime": "216.600s",
+                    "word": "means"
+                  },
+                  {
+                    "startTime": "216.600s",
+                    "endTime": "217.200s",
+                    "word": "color."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " You know, why Neo at all, although the colors are bright.",
+                "confidence": 0.8164359,
+                "words": [
+                  {
+                    "startTime": "218.700s",
+                    "endTime": "218.800s",
+                    "word": "You"
+                  },
+                  {
+                    "startTime": "218.800s",
+                    "endTime": "219s",
+                    "word": "know,"
+                  },
+                  {
+                    "startTime": "219s",
+                    "endTime": "219.200s",
+                    "word": "why"
+                  },
+                  {
+                    "startTime": "219.200s",
+                    "endTime": "219.600s",
+                    "word": "Neo"
+                  },
+                  {
+                    "startTime": "219.600s",
+                    "endTime": "219.900s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "219.900s",
+                    "endTime": "220.200s",
+                    "word": "all,"
+                  },
+                  {
+                    "startTime": "220.800s",
+                    "endTime": "221.100s",
+                    "word": "although"
+                  },
+                  {
+                    "startTime": "221.100s",
+                    "endTime": "221.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "221.300s",
+                    "endTime": "221.900s",
+                    "word": "colors"
+                  },
+                  {
+                    "startTime": "221.900s",
+                    "endTime": "222.100s",
+                    "word": "are"
+                  },
+                  {
+                    "startTime": "222.100s",
+                    "endTime": "222.800s",
+                    "word": "bright."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " cheating noodle",
+                "confidence": 0.73124295,
+                "words": [
+                  {
+                    "startTime": "224.200s",
+                    "endTime": "224.700s",
+                    "word": "cheating"
+                  },
+                  {
+                    "startTime": "224.700s",
+                    "endTime": "225.600s",
+                    "word": "noodle"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " the flower will eventually fall to the ground.",
+                "confidence": 0.8788983,
+                "words": [
+                  {
+                    "startTime": "227s",
+                    "endTime": "227.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "227.200s",
+                    "endTime": "228s",
+                    "word": "flower"
+                  },
+                  {
+                    "startTime": "228s",
+                    "endTime": "228.400s",
+                    "word": "will"
+                  },
+                  {
+                    "startTime": "228.400s",
+                    "endTime": "229.500s",
+                    "word": "eventually"
+                  },
+                  {
+                    "startTime": "229.600s",
+                    "endTime": "229.900s",
+                    "word": "fall"
+                  },
+                  {
+                    "startTime": "229.900s",
+                    "endTime": "230s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "230s",
+                    "endTime": "230.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "230.200s",
+                    "endTime": "230.800s",
+                    "word": "ground."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " while Gallo in this world of ours Target cell",
+                "confidence": 0.8059985,
+                "words": [
+                  {
+                    "startTime": "232.900s",
+                    "endTime": "233.200s",
+                    "word": "while"
+                  },
+                  {
+                    "startTime": "233.200s",
+                    "endTime": "233.900s",
+                    "word": "Gallo"
+                  },
+                  {
+                    "startTime": "234.200s",
+                    "endTime": "234.300s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "234.300s",
+                    "endTime": "234.600s",
+                    "word": "this"
+                  },
+                  {
+                    "startTime": "234.600s",
+                    "endTime": "235s",
+                    "word": "world"
+                  },
+                  {
+                    "startTime": "235s",
+                    "endTime": "235.200s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "235.200s",
+                    "endTime": "235.800s",
+                    "word": "ours"
+                  },
+                  {
+                    "startTime": "236.800s",
+                    "endTime": "237.300s",
+                    "word": "Target"
+                  },
+                  {
+                    "startTime": "237.300s",
+                    "endTime": "237.800s",
+                    "word": "cell"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Who soon inara?",
+                "confidence": 0.7310601,
+                "words": [
+                  {
+                    "startTime": "238.900s",
+                    "endTime": "239.600s",
+                    "word": "Who"
+                  },
+                  {
+                    "startTime": "240.600s",
+                    "endTime": "240.900s",
+                    "word": "soon"
+                  },
+                  {
+                    "startTime": "240.900s",
+                    "endTime": "241.600s",
+                    "word": "inara?"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Can expect to live forever.",
+                "confidence": 0.9090632,
+                "words": [
+                  {
+                    "startTime": "243.300s",
+                    "endTime": "243.500s",
+                    "word": "Can"
+                  },
+                  {
+                    "startTime": "243.500s",
+                    "endTime": "244.600s",
+                    "word": "expect"
+                  },
+                  {
+                    "startTime": "245.100s",
+                    "endTime": "245.300s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "245.300s",
+                    "endTime": "245.600s",
+                    "word": "live"
+                  },
+                  {
+                    "startTime": "245.600s",
+                    "endTime": "246.200s",
+                    "word": "forever."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Hui no, okayama",
+                "confidence": 0.67389905,
+                "words": [
+                  {
+                    "startTime": "248.600s",
+                    "endTime": "248.900s",
+                    "word": "Hui"
+                  },
+                  {
+                    "startTime": "248.900s",
+                    "endTime": "249.300s",
+                    "word": "no,"
+                  },
+                  {
+                    "startTime": "249.300s",
+                    "endTime": "250.200s",
+                    "word": "okayama"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Who is the name of this is really incredibly beautiful. We is a name of a place.",
+                "confidence": 0.86925286,
+                "words": [
+                  {
+                    "startTime": "254.700s",
+                    "endTime": "254.900s",
+                    "word": "Who"
+                  },
+                  {
+                    "startTime": "254.900s",
+                    "endTime": "255.300s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "255.300s",
+                    "endTime": "255.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "255.400s",
+                    "endTime": "255.600s",
+                    "word": "name"
+                  },
+                  {
+                    "startTime": "255.600s",
+                    "endTime": "256s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "256.600s",
+                    "endTime": "256.800s",
+                    "word": "this"
+                  },
+                  {
+                    "startTime": "256.800s",
+                    "endTime": "257s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "257s",
+                    "endTime": "257.300s",
+                    "word": "really"
+                  },
+                  {
+                    "startTime": "257.300s",
+                    "endTime": "257.800s",
+                    "word": "incredibly"
+                  },
+                  {
+                    "startTime": "257.800s",
+                    "endTime": "258.500s",
+                    "word": "beautiful."
+                  },
+                  {
+                    "startTime": "258.800s",
+                    "endTime": "259s",
+                    "word": "We"
+                  },
+                  {
+                    "startTime": "259s",
+                    "endTime": "259.200s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "259.200s",
+                    "endTime": "259.200s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "259.200s",
+                    "endTime": "259.500s",
+                    "word": "name"
+                  },
+                  {
+                    "startTime": "259.500s",
+                    "endTime": "259.600s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "259.600s",
+                    "endTime": "259.700s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "259.700s",
+                    "endTime": "260.400s",
+                    "word": "place."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " But it's a pun so we know okayama. Maybe you know what Jama means in Japanese. What does it mean?",
+                "confidence": 0.7780624,
+                "words": [
+                  {
+                    "startTime": "261.500s",
+                    "endTime": "261.700s",
+                    "word": "But"
+                  },
+                  {
+                    "startTime": "261.700s",
+                    "endTime": "261.800s",
+                    "word": "it's"
+                  },
+                  {
+                    "startTime": "261.800s",
+                    "endTime": "261.900s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "261.900s",
+                    "endTime": "262.500s",
+                    "word": "pun"
+                  },
+                  {
+                    "startTime": "262.700s",
+                    "endTime": "262.900s",
+                    "word": "so"
+                  },
+                  {
+                    "startTime": "264.300s",
+                    "endTime": "264.600s",
+                    "word": "we"
+                  },
+                  {
+                    "startTime": "264.600s",
+                    "endTime": "264.900s",
+                    "word": "know"
+                  },
+                  {
+                    "startTime": "264.900s",
+                    "endTime": "265.500s",
+                    "word": "okayama."
+                  },
+                  {
+                    "startTime": "265.500s",
+                    "endTime": "265.800s",
+                    "word": "Maybe"
+                  },
+                  {
+                    "startTime": "265.800s",
+                    "endTime": "265.900s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "265.900s",
+                    "endTime": "266.100s",
+                    "word": "know"
+                  },
+                  {
+                    "startTime": "266.100s",
+                    "endTime": "266.300s",
+                    "word": "what"
+                  },
+                  {
+                    "startTime": "266.300s",
+                    "endTime": "266.600s",
+                    "word": "Jama"
+                  },
+                  {
+                    "startTime": "266.600s",
+                    "endTime": "267.200s",
+                    "word": "means"
+                  },
+                  {
+                    "startTime": "267.400s",
+                    "endTime": "267.500s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "267.500s",
+                    "endTime": "268.200s",
+                    "word": "Japanese."
+                  },
+                  {
+                    "startTime": "268.200s",
+                    "endTime": "268.300s",
+                    "word": "What"
+                  },
+                  {
+                    "startTime": "268.300s",
+                    "endTime": "268.500s",
+                    "word": "does"
+                  },
+                  {
+                    "startTime": "268.500s",
+                    "endTime": "268.600s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "268.600s",
+                    "endTime": "269s",
+                    "word": "mean?"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Mountain at okayama means furthest mountains",
+                "confidence": 0.7715452,
+                "words": [
+                  {
+                    "startTime": "270.800s",
+                    "endTime": "271.400s",
+                    "word": "Mountain"
+                  },
+                  {
+                    "startTime": "271.900s",
+                    "endTime": "272.100s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "272.100s",
+                    "endTime": "272.800s",
+                    "word": "okayama"
+                  },
+                  {
+                    "startTime": "272.800s",
+                    "endTime": "273.300s",
+                    "word": "means"
+                  },
+                  {
+                    "startTime": "273.300s",
+                    "endTime": "273.800s",
+                    "word": "furthest"
+                  },
+                  {
+                    "startTime": "273.800s",
+                    "endTime": "274.600s",
+                    "word": "mountains"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " So we know.",
+                "confidence": 0.90242577,
+                "words": [
+                  {
+                    "startTime": "275.800s",
+                    "endTime": "276.200s",
+                    "word": "So"
+                  },
+                  {
+                    "startTime": "276.200s",
+                    "endTime": "276.400s",
+                    "word": "we"
+                  },
+                  {
+                    "startTime": "276.400s",
+                    "endTime": "277s",
+                    "word": "know."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " We are mob killed collected today. I crossed over the farthest mountain of hooey, but it's a pun because we also means Sanskrit a Dharma as a technical term in Buddhism Sanskrit. The Dharma is compounded things.",
+                "confidence": 0.71586233,
+                "words": [
+                  {
+                    "startTime": "278.500s",
+                    "endTime": "278.800s",
+                    "word": "We"
+                  },
+                  {
+                    "startTime": "278.800s",
+                    "endTime": "278.900s",
+                    "word": "are"
+                  },
+                  {
+                    "startTime": "278.900s",
+                    "endTime": "279.400s",
+                    "word": "mob"
+                  },
+                  {
+                    "startTime": "279.400s",
+                    "endTime": "279.900s",
+                    "word": "killed"
+                  },
+                  {
+                    "startTime": "279.900s",
+                    "endTime": "280.800s",
+                    "word": "collected"
+                  },
+                  {
+                    "startTime": "281.800s",
+                    "endTime": "282.700s",
+                    "word": "today."
+                  },
+                  {
+                    "startTime": "283.400s",
+                    "endTime": "283.700s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "283.700s",
+                    "endTime": "284.200s",
+                    "word": "crossed"
+                  },
+                  {
+                    "startTime": "284.200s",
+                    "endTime": "285.200s",
+                    "word": "over"
+                  },
+                  {
+                    "startTime": "285.200s",
+                    "endTime": "285.500s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "285.500s",
+                    "endTime": "286.200s",
+                    "word": "farthest"
+                  },
+                  {
+                    "startTime": "286.200s",
+                    "endTime": "287s",
+                    "word": "mountain"
+                  },
+                  {
+                    "startTime": "287.600s",
+                    "endTime": "288.200s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "288.700s",
+                    "endTime": "289.200s",
+                    "word": "hooey,"
+                  },
+                  {
+                    "startTime": "290.500s",
+                    "endTime": "290.600s",
+                    "word": "but"
+                  },
+                  {
+                    "startTime": "290.600s",
+                    "endTime": "290.800s",
+                    "word": "it's"
+                  },
+                  {
+                    "startTime": "290.800s",
+                    "endTime": "290.900s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "290.900s",
+                    "endTime": "291.500s",
+                    "word": "pun"
+                  },
+                  {
+                    "startTime": "291.900s",
+                    "endTime": "292.400s",
+                    "word": "because"
+                  },
+                  {
+                    "startTime": "292.400s",
+                    "endTime": "292.800s",
+                    "word": "we"
+                  },
+                  {
+                    "startTime": "292.800s",
+                    "endTime": "293.300s",
+                    "word": "also"
+                  },
+                  {
+                    "startTime": "293.300s",
+                    "endTime": "294s",
+                    "word": "means"
+                  },
+                  {
+                    "startTime": "295.800s",
+                    "endTime": "296.500s",
+                    "word": "Sanskrit"
+                  },
+                  {
+                    "startTime": "296.500s",
+                    "endTime": "296.600s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "296.600s",
+                    "endTime": "297.300s",
+                    "word": "Dharma"
+                  },
+                  {
+                    "startTime": "297.400s",
+                    "endTime": "297.600s",
+                    "word": "as"
+                  },
+                  {
+                    "startTime": "297.600s",
+                    "endTime": "297.700s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "297.700s",
+                    "endTime": "298.300s",
+                    "word": "technical"
+                  },
+                  {
+                    "startTime": "298.300s",
+                    "endTime": "298.600s",
+                    "word": "term"
+                  },
+                  {
+                    "startTime": "298.600s",
+                    "endTime": "298.700s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "298.700s",
+                    "endTime": "299.300s",
+                    "word": "Buddhism"
+                  },
+                  {
+                    "startTime": "299.600s",
+                    "endTime": "300.100s",
+                    "word": "Sanskrit."
+                  },
+                  {
+                    "startTime": "300.100s",
+                    "endTime": "300.200s",
+                    "word": "The"
+                  },
+                  {
+                    "startTime": "300.200s",
+                    "endTime": "300.700s",
+                    "word": "Dharma"
+                  },
+                  {
+                    "startTime": "300.700s",
+                    "endTime": "301.100s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "301.400s",
+                    "endTime": "302.400s",
+                    "word": "compounded"
+                  },
+                  {
+                    "startTime": "302.400s",
+                    "endTime": "303.100s",
+                    "word": "things."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Okay, you probably heard this. Okay things that arise due to causality.",
+                "confidence": 0.8960358,
+                "words": [
+                  {
+                    "startTime": "304s",
+                    "endTime": "304.500s",
+                    "word": "Okay,"
+                  },
+                  {
+                    "startTime": "304.600s",
+                    "endTime": "304.800s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "304.800s",
+                    "endTime": "305.200s",
+                    "word": "probably"
+                  },
+                  {
+                    "startTime": "305.200s",
+                    "endTime": "305.500s",
+                    "word": "heard"
+                  },
+                  {
+                    "startTime": "305.500s",
+                    "endTime": "305.900s",
+                    "word": "this."
+                  },
+                  {
+                    "startTime": "305.900s",
+                    "endTime": "306.400s",
+                    "word": "Okay"
+                  },
+                  {
+                    "startTime": "306.900s",
+                    "endTime": "307.300s",
+                    "word": "things"
+                  },
+                  {
+                    "startTime": "307.300s",
+                    "endTime": "307.500s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "307.500s",
+                    "endTime": "308.100s",
+                    "word": "arise"
+                  },
+                  {
+                    "startTime": "308.100s",
+                    "endTime": "308.200s",
+                    "word": "due"
+                  },
+                  {
+                    "startTime": "308.200s",
+                    "endTime": "308.300s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "308.300s",
+                    "endTime": "309.300s",
+                    "word": "causality."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Anything other than Nirvana it's a compound thing so we know cuiabá today. We know we are my kilcoy there today crossing the farthest mountain of the village of hooey.",
+                "confidence": 0.79361135,
+                "words": [
+                  {
+                    "startTime": "310.500s",
+                    "endTime": "311s",
+                    "word": "Anything"
+                  },
+                  {
+                    "startTime": "311s",
+                    "endTime": "311.300s",
+                    "word": "other"
+                  },
+                  {
+                    "startTime": "311.300s",
+                    "endTime": "311.500s",
+                    "word": "than"
+                  },
+                  {
+                    "startTime": "311.500s",
+                    "endTime": "312.300s",
+                    "word": "Nirvana"
+                  },
+                  {
+                    "startTime": "313.200s",
+                    "endTime": "313.400s",
+                    "word": "it's"
+                  },
+                  {
+                    "startTime": "313.400s",
+                    "endTime": "313.400s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "313.400s",
+                    "endTime": "314.200s",
+                    "word": "compound"
+                  },
+                  {
+                    "startTime": "314.200s",
+                    "endTime": "314.600s",
+                    "word": "thing"
+                  },
+                  {
+                    "startTime": "314.800s",
+                    "endTime": "315.100s",
+                    "word": "so"
+                  },
+                  {
+                    "startTime": "315.100s",
+                    "endTime": "315.400s",
+                    "word": "we"
+                  },
+                  {
+                    "startTime": "315.400s",
+                    "endTime": "315.700s",
+                    "word": "know"
+                  },
+                  {
+                    "startTime": "315.700s",
+                    "endTime": "316.500s",
+                    "word": "cuiabá"
+                  },
+                  {
+                    "startTime": "317.200s",
+                    "endTime": "317.800s",
+                    "word": "today."
+                  },
+                  {
+                    "startTime": "318.100s",
+                    "endTime": "318.400s",
+                    "word": "We"
+                  },
+                  {
+                    "startTime": "318.400s",
+                    "endTime": "318.600s",
+                    "word": "know"
+                  },
+                  {
+                    "startTime": "318.600s",
+                    "endTime": "318.800s",
+                    "word": "we"
+                  },
+                  {
+                    "startTime": "318.800s",
+                    "endTime": "318.900s",
+                    "word": "are"
+                  },
+                  {
+                    "startTime": "318.900s",
+                    "endTime": "319.100s",
+                    "word": "my"
+                  },
+                  {
+                    "startTime": "319.100s",
+                    "endTime": "319.800s",
+                    "word": "kilcoy"
+                  },
+                  {
+                    "startTime": "319.800s",
+                    "endTime": "320.200s",
+                    "word": "there"
+                  },
+                  {
+                    "startTime": "320.200s",
+                    "endTime": "321s",
+                    "word": "today"
+                  },
+                  {
+                    "startTime": "321.500s",
+                    "endTime": "322.300s",
+                    "word": "crossing"
+                  },
+                  {
+                    "startTime": "322.400s",
+                    "endTime": "322.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "322.600s",
+                    "endTime": "323.200s",
+                    "word": "farthest"
+                  },
+                  {
+                    "startTime": "323.200s",
+                    "endTime": "323.800s",
+                    "word": "mountain"
+                  },
+                  {
+                    "startTime": "323.800s",
+                    "endTime": "324.400s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "325s",
+                    "endTime": "325.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "325.100s",
+                    "endTime": "325.600s",
+                    "word": "village"
+                  },
+                  {
+                    "startTime": "325.600s",
+                    "endTime": "325.900s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "326.100s",
+                    "endTime": "326.600s",
+                    "word": "hooey."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Our sake you made me G.",
+                "confidence": 0.6218099,
+                "words": [
+                  {
+                    "startTime": "327.900s",
+                    "endTime": "328s",
+                    "word": "Our"
+                  },
+                  {
+                    "startTime": "328s",
+                    "endTime": "328.500s",
+                    "word": "sake"
+                  },
+                  {
+                    "startTime": "328.500s",
+                    "endTime": "328.600s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "328.600s",
+                    "endTime": "328.800s",
+                    "word": "made"
+                  },
+                  {
+                    "startTime": "328.800s",
+                    "endTime": "329s",
+                    "word": "me"
+                  },
+                  {
+                    "startTime": "329s",
+                    "endTime": "329.500s",
+                    "word": "G."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " No longer will I be subject to?",
+                "confidence": 0.8619496,
+                "words": [
+                  {
+                    "startTime": "330.800s",
+                    "endTime": "331s",
+                    "word": "No"
+                  },
+                  {
+                    "startTime": "331s",
+                    "endTime": "331.900s",
+                    "word": "longer"
+                  },
+                  {
+                    "startTime": "332.600s",
+                    "endTime": "333.200s",
+                    "word": "will"
+                  },
+                  {
+                    "startTime": "333.800s",
+                    "endTime": "334s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "334s",
+                    "endTime": "334.200s",
+                    "word": "be"
+                  },
+                  {
+                    "startTime": "334.200s",
+                    "endTime": "335.200s",
+                    "word": "subject"
+                  },
+                  {
+                    "startTime": "335.200s",
+                    "endTime": "335.900s",
+                    "word": "to?"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " superficial greens able sensor",
+                "confidence": 0.78566915,
+                "words": [
+                  {
+                    "startTime": "337.900s",
+                    "endTime": "338.800s",
+                    "word": "superficial"
+                  },
+                  {
+                    "startTime": "338.800s",
+                    "endTime": "339.800s",
+                    "word": "greens"
+                  },
+                  {
+                    "startTime": "340.800s",
+                    "endTime": "341.400s",
+                    "word": "able"
+                  },
+                  {
+                    "startTime": "341.400s",
+                    "endTime": "342.100s",
+                    "word": "sensor"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Nor will I be intoxicated anymore?",
+                "confidence": 0.8117455,
+                "words": [
+                  {
+                    "startTime": "343.200s",
+                    "endTime": "343.700s",
+                    "word": "Nor"
+                  },
+                  {
+                    "startTime": "343.700s",
+                    "endTime": "344s",
+                    "word": "will"
+                  },
+                  {
+                    "startTime": "344s",
+                    "endTime": "344.100s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "344.100s",
+                    "endTime": "344.300s",
+                    "word": "be"
+                  },
+                  {
+                    "startTime": "344.300s",
+                    "endTime": "345.400s",
+                    "word": "intoxicated"
+                  },
+                  {
+                    "startTime": "345.400s",
+                    "endTime": "346.200s",
+                    "word": "anymore?"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " It's a hopeful about impermanence and Enlightenment. That's how every Japanese child learns alphabet little different culture. Ha ha ha.",
+                "confidence": 0.88144976,
+                "words": [
+                  {
+                    "startTime": "347.300s",
+                    "endTime": "347.500s",
+                    "word": "It's"
+                  },
+                  {
+                    "startTime": "347.500s",
+                    "endTime": "347.600s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "347.600s",
+                    "endTime": "348.200s",
+                    "word": "hopeful"
+                  },
+                  {
+                    "startTime": "348.200s",
+                    "endTime": "348.800s",
+                    "word": "about"
+                  },
+                  {
+                    "startTime": "349.100s",
+                    "endTime": "349.800s",
+                    "word": "impermanence"
+                  },
+                  {
+                    "startTime": "349.800s",
+                    "endTime": "349.900s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "349.900s",
+                    "endTime": "350.900s",
+                    "word": "Enlightenment."
+                  },
+                  {
+                    "startTime": "351.300s",
+                    "endTime": "351.800s",
+                    "word": "That's"
+                  },
+                  {
+                    "startTime": "351.800s",
+                    "endTime": "352.100s",
+                    "word": "how"
+                  },
+                  {
+                    "startTime": "352.100s",
+                    "endTime": "352.400s",
+                    "word": "every"
+                  },
+                  {
+                    "startTime": "352.400s",
+                    "endTime": "353.100s",
+                    "word": "Japanese"
+                  },
+                  {
+                    "startTime": "353.100s",
+                    "endTime": "353.500s",
+                    "word": "child"
+                  },
+                  {
+                    "startTime": "353.500s",
+                    "endTime": "353.900s",
+                    "word": "learns"
+                  },
+                  {
+                    "startTime": "353.900s",
+                    "endTime": "354.700s",
+                    "word": "alphabet"
+                  },
+                  {
+                    "startTime": "357.400s",
+                    "endTime": "357.600s",
+                    "word": "little"
+                  },
+                  {
+                    "startTime": "357.600s",
+                    "endTime": "358s",
+                    "word": "different"
+                  },
+                  {
+                    "startTime": "358s",
+                    "endTime": "358.600s",
+                    "word": "culture."
+                  },
+                  {
+                    "startTime": "359.300s",
+                    "endTime": "359.400s",
+                    "word": "Ha"
+                  },
+                  {
+                    "startTime": "359.400s",
+                    "endTime": "359.600s",
+                    "word": "ha"
+                  },
+                  {
+                    "startTime": "359.600s",
+                    "endTime": "359.900s",
+                    "word": "ha."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " You're going to want you don't you don't want your head or cheating or Kyoto targets old so we know okayama.",
+                "confidence": 0.7647685,
+                "words": [
+                  {
+                    "startTime": "361.400s",
+                    "endTime": "361.500s",
+                    "word": "You're"
+                  },
+                  {
+                    "startTime": "361.500s",
+                    "endTime": "361.700s",
+                    "word": "going"
+                  },
+                  {
+                    "startTime": "361.700s",
+                    "endTime": "361.700s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "361.700s",
+                    "endTime": "362.300s",
+                    "word": "want"
+                  },
+                  {
+                    "startTime": "362.300s",
+                    "endTime": "362.400s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "362.400s",
+                    "endTime": "363s",
+                    "word": "don't"
+                  },
+                  {
+                    "startTime": "363.200s",
+                    "endTime": "363.300s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "363.300s",
+                    "endTime": "363.500s",
+                    "word": "don't"
+                  },
+                  {
+                    "startTime": "363.500s",
+                    "endTime": "363.800s",
+                    "word": "want"
+                  },
+                  {
+                    "startTime": "363.800s",
+                    "endTime": "364.100s",
+                    "word": "your"
+                  },
+                  {
+                    "startTime": "364.100s",
+                    "endTime": "364.400s",
+                    "word": "head"
+                  },
+                  {
+                    "startTime": "364.400s",
+                    "endTime": "364.600s",
+                    "word": "or"
+                  },
+                  {
+                    "startTime": "364.600s",
+                    "endTime": "365.400s",
+                    "word": "cheating"
+                  },
+                  {
+                    "startTime": "365.800s",
+                    "endTime": "365.900s",
+                    "word": "or"
+                  },
+                  {
+                    "startTime": "366.600s",
+                    "endTime": "367.400s",
+                    "word": "Kyoto"
+                  },
+                  {
+                    "startTime": "367.400s",
+                    "endTime": "368s",
+                    "word": "targets"
+                  },
+                  {
+                    "startTime": "368s",
+                    "endTime": "368.100s",
+                    "word": "old"
+                  },
+                  {
+                    "startTime": "368.100s",
+                    "endTime": "370.100s",
+                    "word": "so"
+                  },
+                  {
+                    "startTime": "370.100s",
+                    "endTime": "370.400s",
+                    "word": "we"
+                  },
+                  {
+                    "startTime": "370.400s",
+                    "endTime": "370.700s",
+                    "word": "know"
+                  },
+                  {
+                    "startTime": "370.700s",
+                    "endTime": "371.700s",
+                    "word": "okayama."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,5131 @@
+{
+  "name": "projects/923263939845/locations/us-east1/operations/16515447034047053420",
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoProgress",
+    "annotationProgress": [
+      {
+        "inputUri": "/shfvideos/expandcontract/Discrimination and Unification - Part 1 of 4 ~ Shinzen Young.mp4",
+        "progressPercent": 100,
+        "startTime": "2019-12-27T04:29:32.420959Z",
+        "updateTime": "2019-12-27T04:32:35.708994Z"
+      }
+    ]
+  },
+  "done": true,
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoResponse",
+    "annotationResults": [
+      {
+        "inputUri": "/shfvideos/expandcontract/Discrimination and Unification - Part 1 of 4 ~ Shinzen Young.mp4",
+        "segment": {
+          "startTimeOffset": "0s",
+          "endTimeOffset": "492.402358s"
+        },
+        "speechTranscriptions": [
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": "There's a Zen koan that says drink down the west river in one gulp. That would be may be equivalent to say eat all the food in the greeneries of the United States all at once or something like that.",
+                "confidence": 0.87162167,
+                "words": [
+                  {
+                    "startTime": "18.500s",
+                    "endTime": "18.900s",
+                    "word": "There's"
+                  },
+                  {
+                    "startTime": "18.900s",
+                    "endTime": "19.100s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "19.100s",
+                    "endTime": "19.700s",
+                    "word": "Zen"
+                  },
+                  {
+                    "startTime": "19.700s",
+                    "endTime": "20.600s",
+                    "word": "koan"
+                  },
+                  {
+                    "startTime": "22.500s",
+                    "endTime": "22.700s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "22.700s",
+                    "endTime": "23.300s",
+                    "word": "says"
+                  },
+                  {
+                    "startTime": "23.300s",
+                    "endTime": "23.700s",
+                    "word": "drink"
+                  },
+                  {
+                    "startTime": "23.700s",
+                    "endTime": "24.200s",
+                    "word": "down"
+                  },
+                  {
+                    "startTime": "24.200s",
+                    "endTime": "24.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "24.400s",
+                    "endTime": "24.800s",
+                    "word": "west"
+                  },
+                  {
+                    "startTime": "24.800s",
+                    "endTime": "25.200s",
+                    "word": "river"
+                  },
+                  {
+                    "startTime": "25.200s",
+                    "endTime": "25.500s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "25.500s",
+                    "endTime": "25.900s",
+                    "word": "one"
+                  },
+                  {
+                    "startTime": "25.900s",
+                    "endTime": "26.500s",
+                    "word": "gulp."
+                  },
+                  {
+                    "startTime": "27.100s",
+                    "endTime": "27.300s",
+                    "word": "That"
+                  },
+                  {
+                    "startTime": "27.300s",
+                    "endTime": "27.500s",
+                    "word": "would"
+                  },
+                  {
+                    "startTime": "27.500s",
+                    "endTime": "27.900s",
+                    "word": "be"
+                  },
+                  {
+                    "startTime": "28s",
+                    "endTime": "28.100s",
+                    "word": "may"
+                  },
+                  {
+                    "startTime": "28.100s",
+                    "endTime": "28.300s",
+                    "word": "be"
+                  },
+                  {
+                    "startTime": "28.300s",
+                    "endTime": "29s",
+                    "word": "equivalent"
+                  },
+                  {
+                    "startTime": "29s",
+                    "endTime": "29.100s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "29.100s",
+                    "endTime": "29.600s",
+                    "word": "say"
+                  },
+                  {
+                    "startTime": "29.800s",
+                    "endTime": "30.700s",
+                    "word": "eat"
+                  },
+                  {
+                    "startTime": "31.100s",
+                    "endTime": "31.400s",
+                    "word": "all"
+                  },
+                  {
+                    "startTime": "31.400s",
+                    "endTime": "31.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "31.600s",
+                    "endTime": "32.200s",
+                    "word": "food"
+                  },
+                  {
+                    "startTime": "32.400s",
+                    "endTime": "32.700s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "32.700s",
+                    "endTime": "33.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "33.200s",
+                    "endTime": "33.900s",
+                    "word": "greeneries"
+                  },
+                  {
+                    "startTime": "33.900s",
+                    "endTime": "34s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "34s",
+                    "endTime": "34.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "34.100s",
+                    "endTime": "34.500s",
+                    "word": "United"
+                  },
+                  {
+                    "startTime": "34.500s",
+                    "endTime": "35s",
+                    "word": "States"
+                  },
+                  {
+                    "startTime": "35s",
+                    "endTime": "35.200s",
+                    "word": "all"
+                  },
+                  {
+                    "startTime": "35.200s",
+                    "endTime": "35.400s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "35.400s",
+                    "endTime": "35.700s",
+                    "word": "once"
+                  },
+                  {
+                    "startTime": "35.700s",
+                    "endTime": "35.800s",
+                    "word": "or"
+                  },
+                  {
+                    "startTime": "35.800s",
+                    "endTime": "36.200s",
+                    "word": "something"
+                  },
+                  {
+                    "startTime": "36.200s",
+                    "endTime": "36.400s",
+                    "word": "like"
+                  },
+                  {
+                    "startTime": "36.400s",
+                    "endTime": "36.900s",
+                    "word": "that."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": "What does it mean to digest what does it mean to incorporate with them? If you look at the process of eating food and you look at the process of experience, it might seem that there's not much relationship between them. But think about what happens in order to in order to extract what is nutritive from food. You have to break it down.",
+                "confidence": 0.8935965,
+                "words": [
+                  {
+                    "startTime": "37.400s",
+                    "endTime": "38.300s",
+                    "word": "What"
+                  },
+                  {
+                    "startTime": "38.300s",
+                    "endTime": "38.400s",
+                    "word": "does"
+                  },
+                  {
+                    "startTime": "38.400s",
+                    "endTime": "38.600s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "38.600s",
+                    "endTime": "38.900s",
+                    "word": "mean"
+                  },
+                  {
+                    "startTime": "38.900s",
+                    "endTime": "39s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "39s",
+                    "endTime": "41.200s",
+                    "word": "digest"
+                  },
+                  {
+                    "startTime": "41.200s",
+                    "endTime": "41.900s",
+                    "word": "what"
+                  },
+                  {
+                    "startTime": "41.900s",
+                    "endTime": "42.100s",
+                    "word": "does"
+                  },
+                  {
+                    "startTime": "42.100s",
+                    "endTime": "42.200s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "42.200s",
+                    "endTime": "42.500s",
+                    "word": "mean"
+                  },
+                  {
+                    "startTime": "42.500s",
+                    "endTime": "42.600s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "42.600s",
+                    "endTime": "44.400s",
+                    "word": "incorporate"
+                  },
+                  {
+                    "startTime": "44.400s",
+                    "endTime": "45.200s",
+                    "word": "with"
+                  },
+                  {
+                    "startTime": "45.200s",
+                    "endTime": "45.500s",
+                    "word": "them?"
+                  },
+                  {
+                    "startTime": "45.500s",
+                    "endTime": "46.200s",
+                    "word": "If"
+                  },
+                  {
+                    "startTime": "46.200s",
+                    "endTime": "46.300s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "46.300s",
+                    "endTime": "46.400s",
+                    "word": "look"
+                  },
+                  {
+                    "startTime": "46.400s",
+                    "endTime": "46.600s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "46.600s",
+                    "endTime": "46.700s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "46.700s",
+                    "endTime": "47s",
+                    "word": "process"
+                  },
+                  {
+                    "startTime": "47s",
+                    "endTime": "47.200s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "47.200s",
+                    "endTime": "47.500s",
+                    "word": "eating"
+                  },
+                  {
+                    "startTime": "47.500s",
+                    "endTime": "48s",
+                    "word": "food"
+                  },
+                  {
+                    "startTime": "48s",
+                    "endTime": "48.500s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "48.500s",
+                    "endTime": "48.700s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "48.700s",
+                    "endTime": "48.900s",
+                    "word": "look"
+                  },
+                  {
+                    "startTime": "48.900s",
+                    "endTime": "49s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "49s",
+                    "endTime": "49.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "49.200s",
+                    "endTime": "49.600s",
+                    "word": "process"
+                  },
+                  {
+                    "startTime": "49.600s",
+                    "endTime": "49.900s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "49.900s",
+                    "endTime": "50.800s",
+                    "word": "experience,"
+                  },
+                  {
+                    "startTime": "50.800s",
+                    "endTime": "51.800s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "51.800s",
+                    "endTime": "52s",
+                    "word": "might"
+                  },
+                  {
+                    "startTime": "52s",
+                    "endTime": "52.400s",
+                    "word": "seem"
+                  },
+                  {
+                    "startTime": "52.400s",
+                    "endTime": "52.400s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "52.400s",
+                    "endTime": "53s",
+                    "word": "there's"
+                  },
+                  {
+                    "startTime": "53s",
+                    "endTime": "53.200s",
+                    "word": "not"
+                  },
+                  {
+                    "startTime": "53.200s",
+                    "endTime": "53.400s",
+                    "word": "much"
+                  },
+                  {
+                    "startTime": "53.400s",
+                    "endTime": "54.800s",
+                    "word": "relationship"
+                  },
+                  {
+                    "startTime": "54.800s",
+                    "endTime": "54.900s",
+                    "word": "between"
+                  },
+                  {
+                    "startTime": "54.900s",
+                    "endTime": "55.400s",
+                    "word": "them."
+                  },
+                  {
+                    "startTime": "55.400s",
+                    "endTime": "55.700s",
+                    "word": "But"
+                  },
+                  {
+                    "startTime": "55.700s",
+                    "endTime": "56.800s",
+                    "word": "think"
+                  },
+                  {
+                    "startTime": "56.800s",
+                    "endTime": "56.900s",
+                    "word": "about"
+                  },
+                  {
+                    "startTime": "56.900s",
+                    "endTime": "57.200s",
+                    "word": "what"
+                  },
+                  {
+                    "startTime": "57.200s",
+                    "endTime": "57.700s",
+                    "word": "happens"
+                  },
+                  {
+                    "startTime": "57.700s",
+                    "endTime": "57.800s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "57.800s",
+                    "endTime": "58s",
+                    "word": "order"
+                  },
+                  {
+                    "startTime": "58s",
+                    "endTime": "58.100s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "58.100s",
+                    "endTime": "59.100s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "59.100s",
+                    "endTime": "59.200s",
+                    "word": "order"
+                  },
+                  {
+                    "startTime": "59.200s",
+                    "endTime": "59.400s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "59.400s",
+                    "endTime": "60.300s",
+                    "word": "extract"
+                  },
+                  {
+                    "startTime": "60.300s",
+                    "endTime": "61.800s",
+                    "word": "what"
+                  },
+                  {
+                    "startTime": "61.800s",
+                    "endTime": "62.200s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "62.200s",
+                    "endTime": "63.200s",
+                    "word": "nutritive"
+                  },
+                  {
+                    "startTime": "63.200s",
+                    "endTime": "64.100s",
+                    "word": "from"
+                  },
+                  {
+                    "startTime": "64.100s",
+                    "endTime": "64.700s",
+                    "word": "food."
+                  },
+                  {
+                    "startTime": "64.700s",
+                    "endTime": "65.800s",
+                    "word": "You"
+                  },
+                  {
+                    "startTime": "65.800s",
+                    "endTime": "66.500s",
+                    "word": "have"
+                  },
+                  {
+                    "startTime": "66.500s",
+                    "endTime": "66.600s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "66.600s",
+                    "endTime": "67s",
+                    "word": "break"
+                  },
+                  {
+                    "startTime": "67s",
+                    "endTime": "67.200s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "67.200s",
+                    "endTime": "67.300s",
+                    "word": "down."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": "Into its molecules, that's and you do that in various steps from courser to finer to find our if you look at what happens. I mean that the teeth do their thing and then the tongue does its thing in the saliva and then the all the different juices and all the different processing stations just break the material down finer and finer and finer until it's fine enough so that what has nutrient value could be",
+                "confidence": 0.78515416,
+                "words": [
+                  {
+                    "startTime": "68s",
+                    "endTime": "68.400s",
+                    "word": "Into"
+                  },
+                  {
+                    "startTime": "68.400s",
+                    "endTime": "68.600s",
+                    "word": "its"
+                  },
+                  {
+                    "startTime": "68.600s",
+                    "endTime": "69.600s",
+                    "word": "molecules,"
+                  },
+                  {
+                    "startTime": "70.200s",
+                    "endTime": "70.600s",
+                    "word": "that's"
+                  },
+                  {
+                    "startTime": "71.300s",
+                    "endTime": "71.500s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "71.500s",
+                    "endTime": "71.600s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "71.600s",
+                    "endTime": "71.700s",
+                    "word": "do"
+                  },
+                  {
+                    "startTime": "71.700s",
+                    "endTime": "72s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "72s",
+                    "endTime": "72.300s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "73s",
+                    "endTime": "73.600s",
+                    "word": "various"
+                  },
+                  {
+                    "startTime": "73.600s",
+                    "endTime": "74s",
+                    "word": "steps"
+                  },
+                  {
+                    "startTime": "74s",
+                    "endTime": "74.300s",
+                    "word": "from"
+                  },
+                  {
+                    "startTime": "74.300s",
+                    "endTime": "74.900s",
+                    "word": "courser"
+                  },
+                  {
+                    "startTime": "74.900s",
+                    "endTime": "75s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "75s",
+                    "endTime": "75.500s",
+                    "word": "finer"
+                  },
+                  {
+                    "startTime": "75.500s",
+                    "endTime": "75.600s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "75.600s",
+                    "endTime": "76s",
+                    "word": "find"
+                  },
+                  {
+                    "startTime": "76s",
+                    "endTime": "76.200s",
+                    "word": "our"
+                  },
+                  {
+                    "startTime": "76.300s",
+                    "endTime": "76.500s",
+                    "word": "if"
+                  },
+                  {
+                    "startTime": "76.500s",
+                    "endTime": "76.500s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "76.500s",
+                    "endTime": "76.900s",
+                    "word": "look"
+                  },
+                  {
+                    "startTime": "77.700s",
+                    "endTime": "77.900s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "77.900s",
+                    "endTime": "78s",
+                    "word": "what"
+                  },
+                  {
+                    "startTime": "78s",
+                    "endTime": "78.500s",
+                    "word": "happens."
+                  },
+                  {
+                    "startTime": "78.500s",
+                    "endTime": "78.500s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "78.500s",
+                    "endTime": "78.700s",
+                    "word": "mean"
+                  },
+                  {
+                    "startTime": "78.700s",
+                    "endTime": "78.900s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "79.200s",
+                    "endTime": "79.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "79.300s",
+                    "endTime": "79.800s",
+                    "word": "teeth"
+                  },
+                  {
+                    "startTime": "79.800s",
+                    "endTime": "79.900s",
+                    "word": "do"
+                  },
+                  {
+                    "startTime": "79.900s",
+                    "endTime": "80.200s",
+                    "word": "their"
+                  },
+                  {
+                    "startTime": "80.200s",
+                    "endTime": "80.600s",
+                    "word": "thing"
+                  },
+                  {
+                    "startTime": "80.600s",
+                    "endTime": "80.700s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "80.700s",
+                    "endTime": "80.900s",
+                    "word": "then"
+                  },
+                  {
+                    "startTime": "80.900s",
+                    "endTime": "81.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "81.100s",
+                    "endTime": "81.400s",
+                    "word": "tongue"
+                  },
+                  {
+                    "startTime": "81.400s",
+                    "endTime": "81.700s",
+                    "word": "does"
+                  },
+                  {
+                    "startTime": "81.700s",
+                    "endTime": "81.900s",
+                    "word": "its"
+                  },
+                  {
+                    "startTime": "81.900s",
+                    "endTime": "82.200s",
+                    "word": "thing"
+                  },
+                  {
+                    "startTime": "82.200s",
+                    "endTime": "82.300s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "82.300s",
+                    "endTime": "82.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "82.400s",
+                    "endTime": "83.300s",
+                    "word": "saliva"
+                  },
+                  {
+                    "startTime": "83.500s",
+                    "endTime": "83.600s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "83.600s",
+                    "endTime": "83.800s",
+                    "word": "then"
+                  },
+                  {
+                    "startTime": "83.800s",
+                    "endTime": "84s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "84s",
+                    "endTime": "84.200s",
+                    "word": "all"
+                  },
+                  {
+                    "startTime": "84.200s",
+                    "endTime": "84.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "84.300s",
+                    "endTime": "84.700s",
+                    "word": "different"
+                  },
+                  {
+                    "startTime": "84.700s",
+                    "endTime": "85.200s",
+                    "word": "juices"
+                  },
+                  {
+                    "startTime": "85.200s",
+                    "endTime": "85.300s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "85.300s",
+                    "endTime": "85.500s",
+                    "word": "all"
+                  },
+                  {
+                    "startTime": "85.500s",
+                    "endTime": "85.500s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "85.500s",
+                    "endTime": "85.900s",
+                    "word": "different"
+                  },
+                  {
+                    "startTime": "85.900s",
+                    "endTime": "86.500s",
+                    "word": "processing"
+                  },
+                  {
+                    "startTime": "86.500s",
+                    "endTime": "87.300s",
+                    "word": "stations"
+                  },
+                  {
+                    "startTime": "87.800s",
+                    "endTime": "88.100s",
+                    "word": "just"
+                  },
+                  {
+                    "startTime": "88.100s",
+                    "endTime": "88.800s",
+                    "word": "break"
+                  },
+                  {
+                    "startTime": "88.800s",
+                    "endTime": "88.900s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "88.900s",
+                    "endTime": "89.400s",
+                    "word": "material"
+                  },
+                  {
+                    "startTime": "89.400s",
+                    "endTime": "89.800s",
+                    "word": "down"
+                  },
+                  {
+                    "startTime": "89.800s",
+                    "endTime": "90.300s",
+                    "word": "finer"
+                  },
+                  {
+                    "startTime": "90.300s",
+                    "endTime": "90.500s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "90.500s",
+                    "endTime": "90.900s",
+                    "word": "finer"
+                  },
+                  {
+                    "startTime": "90.900s",
+                    "endTime": "91s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "91s",
+                    "endTime": "91.600s",
+                    "word": "finer"
+                  },
+                  {
+                    "startTime": "92s",
+                    "endTime": "92.800s",
+                    "word": "until"
+                  },
+                  {
+                    "startTime": "93.200s",
+                    "endTime": "93.600s",
+                    "word": "it's"
+                  },
+                  {
+                    "startTime": "93.600s",
+                    "endTime": "93.900s",
+                    "word": "fine"
+                  },
+                  {
+                    "startTime": "93.900s",
+                    "endTime": "94.500s",
+                    "word": "enough"
+                  },
+                  {
+                    "startTime": "94.500s",
+                    "endTime": "94.800s",
+                    "word": "so"
+                  },
+                  {
+                    "startTime": "94.800s",
+                    "endTime": "95.100s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "95.100s",
+                    "endTime": "95.300s",
+                    "word": "what"
+                  },
+                  {
+                    "startTime": "95.300s",
+                    "endTime": "95.600s",
+                    "word": "has"
+                  },
+                  {
+                    "startTime": "95.700s",
+                    "endTime": "96.400s",
+                    "word": "nutrient"
+                  },
+                  {
+                    "startTime": "96.400s",
+                    "endTime": "96.800s",
+                    "word": "value"
+                  },
+                  {
+                    "startTime": "96.800s",
+                    "endTime": "97s",
+                    "word": "could"
+                  },
+                  {
+                    "startTime": "97s",
+                    "endTime": "97.300s",
+                    "word": "be"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " extracted and accrue to your energy content and since matter is energy. You can look upon it as you derive energy from the food either in the form of storing matter or in the form of energy that you use and then the parts that",
+                "confidence": 0.750567,
+                "words": [
+                  {
+                    "startTime": "97.400s",
+                    "endTime": "98.600s",
+                    "word": "extracted"
+                  },
+                  {
+                    "startTime": "98.700s",
+                    "endTime": "98.800s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "98.800s",
+                    "endTime": "99.300s",
+                    "word": "accrue"
+                  },
+                  {
+                    "startTime": "99.300s",
+                    "endTime": "99.500s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "99.500s",
+                    "endTime": "99.900s",
+                    "word": "your"
+                  },
+                  {
+                    "startTime": "99.900s",
+                    "endTime": "100.400s",
+                    "word": "energy"
+                  },
+                  {
+                    "startTime": "100.400s",
+                    "endTime": "101.300s",
+                    "word": "content"
+                  },
+                  {
+                    "startTime": "102.500s",
+                    "endTime": "102.700s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "102.700s",
+                    "endTime": "103s",
+                    "word": "since"
+                  },
+                  {
+                    "startTime": "103s",
+                    "endTime": "103.700s",
+                    "word": "matter"
+                  },
+                  {
+                    "startTime": "103.700s",
+                    "endTime": "104.100s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "104.100s",
+                    "endTime": "104.800s",
+                    "word": "energy."
+                  },
+                  {
+                    "startTime": "105.800s",
+                    "endTime": "105.900s",
+                    "word": "You"
+                  },
+                  {
+                    "startTime": "105.900s",
+                    "endTime": "106.100s",
+                    "word": "can"
+                  },
+                  {
+                    "startTime": "106.100s",
+                    "endTime": "106.300s",
+                    "word": "look"
+                  },
+                  {
+                    "startTime": "106.300s",
+                    "endTime": "106.700s",
+                    "word": "upon"
+                  },
+                  {
+                    "startTime": "106.700s",
+                    "endTime": "106.800s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "106.800s",
+                    "endTime": "107.200s",
+                    "word": "as"
+                  },
+                  {
+                    "startTime": "107.300s",
+                    "endTime": "107.600s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "107.700s",
+                    "endTime": "108.200s",
+                    "word": "derive"
+                  },
+                  {
+                    "startTime": "108.200s",
+                    "endTime": "108.700s",
+                    "word": "energy"
+                  },
+                  {
+                    "startTime": "108.700s",
+                    "endTime": "109s",
+                    "word": "from"
+                  },
+                  {
+                    "startTime": "109s",
+                    "endTime": "109.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "109.100s",
+                    "endTime": "109.700s",
+                    "word": "food"
+                  },
+                  {
+                    "startTime": "110s",
+                    "endTime": "110.300s",
+                    "word": "either"
+                  },
+                  {
+                    "startTime": "110.300s",
+                    "endTime": "110.400s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "110.400s",
+                    "endTime": "110.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "110.600s",
+                    "endTime": "111s",
+                    "word": "form"
+                  },
+                  {
+                    "startTime": "111s",
+                    "endTime": "111.100s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "111.100s",
+                    "endTime": "111.700s",
+                    "word": "storing"
+                  },
+                  {
+                    "startTime": "111.800s",
+                    "endTime": "112.300s",
+                    "word": "matter"
+                  },
+                  {
+                    "startTime": "112.300s",
+                    "endTime": "112.500s",
+                    "word": "or"
+                  },
+                  {
+                    "startTime": "112.500s",
+                    "endTime": "112.600s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "112.600s",
+                    "endTime": "112.700s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "112.700s",
+                    "endTime": "113.100s",
+                    "word": "form"
+                  },
+                  {
+                    "startTime": "113.100s",
+                    "endTime": "113.400s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "113.800s",
+                    "endTime": "114.200s",
+                    "word": "energy"
+                  },
+                  {
+                    "startTime": "114.200s",
+                    "endTime": "114.400s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "114.400s",
+                    "endTime": "114.500s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "114.500s",
+                    "endTime": "115.200s",
+                    "word": "use"
+                  },
+                  {
+                    "startTime": "116.500s",
+                    "endTime": "116.700s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "116.700s",
+                    "endTime": "116.900s",
+                    "word": "then"
+                  },
+                  {
+                    "startTime": "116.900s",
+                    "endTime": "117.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "117.100s",
+                    "endTime": "117.500s",
+                    "word": "parts"
+                  },
+                  {
+                    "startTime": "117.500s",
+                    "endTime": "118.200s",
+                    "word": "that"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " I have no place in your being.",
+                "confidence": 0.72660416,
+                "words": [
+                  {
+                    "startTime": "119.800s",
+                    "endTime": "119.800s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "120.600s",
+                    "endTime": "120.900s",
+                    "word": "have"
+                  },
+                  {
+                    "startTime": "120.900s",
+                    "endTime": "121.600s",
+                    "word": "no"
+                  },
+                  {
+                    "startTime": "121.600s",
+                    "endTime": "122.400s",
+                    "word": "place"
+                  },
+                  {
+                    "startTime": "122.400s",
+                    "endTime": "122.600s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "122.600s",
+                    "endTime": "122.700s",
+                    "word": "your"
+                  },
+                  {
+                    "startTime": "122.700s",
+                    "endTime": "123.300s",
+                    "word": "being."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " By the same process are excreted experience works the same way if you want to digest the world drink down the West River have a complete experience of the moment in other words or of the world because after all a complete experience of the world is just a sequence of thousands and thousands of complete experiences of the moment. So if you want to have a complete experience of the world drink down the West River,",
+                "confidence": 0.91283864,
+                "words": [
+                  {
+                    "startTime": "124.800s",
+                    "endTime": "125s",
+                    "word": "By"
+                  },
+                  {
+                    "startTime": "125s",
+                    "endTime": "125.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "125.100s",
+                    "endTime": "125.400s",
+                    "word": "same"
+                  },
+                  {
+                    "startTime": "125.400s",
+                    "endTime": "126s",
+                    "word": "process"
+                  },
+                  {
+                    "startTime": "126s",
+                    "endTime": "126.400s",
+                    "word": "are"
+                  },
+                  {
+                    "startTime": "126.400s",
+                    "endTime": "127.500s",
+                    "word": "excreted"
+                  },
+                  {
+                    "startTime": "128s",
+                    "endTime": "128.800s",
+                    "word": "experience"
+                  },
+                  {
+                    "startTime": "128.800s",
+                    "endTime": "129.100s",
+                    "word": "works"
+                  },
+                  {
+                    "startTime": "129.100s",
+                    "endTime": "129.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "129.200s",
+                    "endTime": "129.500s",
+                    "word": "same"
+                  },
+                  {
+                    "startTime": "129.500s",
+                    "endTime": "130s",
+                    "word": "way"
+                  },
+                  {
+                    "startTime": "130.600s",
+                    "endTime": "130.800s",
+                    "word": "if"
+                  },
+                  {
+                    "startTime": "130.800s",
+                    "endTime": "130.900s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "130.900s",
+                    "endTime": "131.200s",
+                    "word": "want"
+                  },
+                  {
+                    "startTime": "131.200s",
+                    "endTime": "131.600s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "131.700s",
+                    "endTime": "132.500s",
+                    "word": "digest"
+                  },
+                  {
+                    "startTime": "132.500s",
+                    "endTime": "132.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "132.600s",
+                    "endTime": "133s",
+                    "word": "world"
+                  },
+                  {
+                    "startTime": "133s",
+                    "endTime": "133.300s",
+                    "word": "drink"
+                  },
+                  {
+                    "startTime": "133.300s",
+                    "endTime": "133.700s",
+                    "word": "down"
+                  },
+                  {
+                    "startTime": "133.700s",
+                    "endTime": "133.800s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "133.800s",
+                    "endTime": "134.200s",
+                    "word": "West"
+                  },
+                  {
+                    "startTime": "134.200s",
+                    "endTime": "134.700s",
+                    "word": "River"
+                  },
+                  {
+                    "startTime": "134.800s",
+                    "endTime": "135s",
+                    "word": "have"
+                  },
+                  {
+                    "startTime": "135s",
+                    "endTime": "135.100s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "135.100s",
+                    "endTime": "135.600s",
+                    "word": "complete"
+                  },
+                  {
+                    "startTime": "135.600s",
+                    "endTime": "136.500s",
+                    "word": "experience"
+                  },
+                  {
+                    "startTime": "136.700s",
+                    "endTime": "137.300s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "138.900s",
+                    "endTime": "139.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "139.100s",
+                    "endTime": "139.800s",
+                    "word": "moment"
+                  },
+                  {
+                    "startTime": "139.900s",
+                    "endTime": "140s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "140s",
+                    "endTime": "140.200s",
+                    "word": "other"
+                  },
+                  {
+                    "startTime": "140.200s",
+                    "endTime": "140.800s",
+                    "word": "words"
+                  },
+                  {
+                    "startTime": "140.800s",
+                    "endTime": "141.100s",
+                    "word": "or"
+                  },
+                  {
+                    "startTime": "141.100s",
+                    "endTime": "141.200s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "141.200s",
+                    "endTime": "141.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "141.300s",
+                    "endTime": "141.800s",
+                    "word": "world"
+                  },
+                  {
+                    "startTime": "141.800s",
+                    "endTime": "142.200s",
+                    "word": "because"
+                  },
+                  {
+                    "startTime": "142.200s",
+                    "endTime": "142.500s",
+                    "word": "after"
+                  },
+                  {
+                    "startTime": "142.500s",
+                    "endTime": "142.700s",
+                    "word": "all"
+                  },
+                  {
+                    "startTime": "142.700s",
+                    "endTime": "142.700s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "142.700s",
+                    "endTime": "143.100s",
+                    "word": "complete"
+                  },
+                  {
+                    "startTime": "143.100s",
+                    "endTime": "143.600s",
+                    "word": "experience"
+                  },
+                  {
+                    "startTime": "143.600s",
+                    "endTime": "143.700s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "143.700s",
+                    "endTime": "143.800s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "143.800s",
+                    "endTime": "144.400s",
+                    "word": "world"
+                  },
+                  {
+                    "startTime": "144.400s",
+                    "endTime": "144.700s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "144.700s",
+                    "endTime": "145s",
+                    "word": "just"
+                  },
+                  {
+                    "startTime": "145s",
+                    "endTime": "145.100s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "145.100s",
+                    "endTime": "145.600s",
+                    "word": "sequence"
+                  },
+                  {
+                    "startTime": "145.600s",
+                    "endTime": "146s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "146.100s",
+                    "endTime": "146.800s",
+                    "word": "thousands"
+                  },
+                  {
+                    "startTime": "146.800s",
+                    "endTime": "146.900s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "146.900s",
+                    "endTime": "147.600s",
+                    "word": "thousands"
+                  },
+                  {
+                    "startTime": "147.600s",
+                    "endTime": "147.700s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "147.700s",
+                    "endTime": "148.100s",
+                    "word": "complete"
+                  },
+                  {
+                    "startTime": "148.100s",
+                    "endTime": "148.900s",
+                    "word": "experiences"
+                  },
+                  {
+                    "startTime": "148.900s",
+                    "endTime": "149.100s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "149.100s",
+                    "endTime": "149.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "149.200s",
+                    "endTime": "150s",
+                    "word": "moment."
+                  },
+                  {
+                    "startTime": "150.700s",
+                    "endTime": "151s",
+                    "word": "So"
+                  },
+                  {
+                    "startTime": "151s",
+                    "endTime": "151.200s",
+                    "word": "if"
+                  },
+                  {
+                    "startTime": "151.200s",
+                    "endTime": "151.300s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "151.300s",
+                    "endTime": "151.500s",
+                    "word": "want"
+                  },
+                  {
+                    "startTime": "151.500s",
+                    "endTime": "151.500s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "151.500s",
+                    "endTime": "151.700s",
+                    "word": "have"
+                  },
+                  {
+                    "startTime": "151.700s",
+                    "endTime": "151.700s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "151.700s",
+                    "endTime": "152.200s",
+                    "word": "complete"
+                  },
+                  {
+                    "startTime": "152.200s",
+                    "endTime": "152.700s",
+                    "word": "experience"
+                  },
+                  {
+                    "startTime": "152.700s",
+                    "endTime": "152.800s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "152.800s",
+                    "endTime": "152.900s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "152.900s",
+                    "endTime": "153.200s",
+                    "word": "world"
+                  },
+                  {
+                    "startTime": "153.200s",
+                    "endTime": "153.500s",
+                    "word": "drink"
+                  },
+                  {
+                    "startTime": "153.500s",
+                    "endTime": "153.700s",
+                    "word": "down"
+                  },
+                  {
+                    "startTime": "153.700s",
+                    "endTime": "153.700s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "153.700s",
+                    "endTime": "154.100s",
+                    "word": "West"
+                  },
+                  {
+                    "startTime": "154.100s",
+                    "endTime": "154.400s",
+                    "word": "River,"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Everything that can be eaten like the god Shiva then you have to learn how to have a complete experience in the moment. And that's a digestive process when you are so engaged in any sensory experience that you have a complete experience. There's no time to fixate that experience into a thing the particles become waves.",
+                "confidence": 0.738997,
+                "words": [
+                  {
+                    "startTime": "154.800s",
+                    "endTime": "155.200s",
+                    "word": "Everything"
+                  },
+                  {
+                    "startTime": "155.200s",
+                    "endTime": "155.400s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "155.400s",
+                    "endTime": "155.700s",
+                    "word": "can"
+                  },
+                  {
+                    "startTime": "155.700s",
+                    "endTime": "155.900s",
+                    "word": "be"
+                  },
+                  {
+                    "startTime": "155.900s",
+                    "endTime": "156.300s",
+                    "word": "eaten"
+                  },
+                  {
+                    "startTime": "156.900s",
+                    "endTime": "157.100s",
+                    "word": "like"
+                  },
+                  {
+                    "startTime": "157.100s",
+                    "endTime": "157.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "157.200s",
+                    "endTime": "157.500s",
+                    "word": "god"
+                  },
+                  {
+                    "startTime": "157.500s",
+                    "endTime": "158s",
+                    "word": "Shiva"
+                  },
+                  {
+                    "startTime": "158.400s",
+                    "endTime": "158.900s",
+                    "word": "then"
+                  },
+                  {
+                    "startTime": "159.400s",
+                    "endTime": "159.500s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "159.500s",
+                    "endTime": "159.700s",
+                    "word": "have"
+                  },
+                  {
+                    "startTime": "159.700s",
+                    "endTime": "160s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "160.300s",
+                    "endTime": "160.600s",
+                    "word": "learn"
+                  },
+                  {
+                    "startTime": "160.600s",
+                    "endTime": "160.700s",
+                    "word": "how"
+                  },
+                  {
+                    "startTime": "160.700s",
+                    "endTime": "160.800s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "160.800s",
+                    "endTime": "161s",
+                    "word": "have"
+                  },
+                  {
+                    "startTime": "161s",
+                    "endTime": "161.100s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "161.100s",
+                    "endTime": "161.900s",
+                    "word": "complete"
+                  },
+                  {
+                    "startTime": "161.900s",
+                    "endTime": "162.500s",
+                    "word": "experience"
+                  },
+                  {
+                    "startTime": "162.500s",
+                    "endTime": "162.600s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "162.600s",
+                    "endTime": "162.700s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "162.700s",
+                    "endTime": "163.300s",
+                    "word": "moment."
+                  },
+                  {
+                    "startTime": "163.300s",
+                    "endTime": "163.500s",
+                    "word": "And"
+                  },
+                  {
+                    "startTime": "163.500s",
+                    "endTime": "163.800s",
+                    "word": "that's"
+                  },
+                  {
+                    "startTime": "163.800s",
+                    "endTime": "163.800s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "163.800s",
+                    "endTime": "164.500s",
+                    "word": "digestive"
+                  },
+                  {
+                    "startTime": "164.500s",
+                    "endTime": "165.300s",
+                    "word": "process"
+                  },
+                  {
+                    "startTime": "165.700s",
+                    "endTime": "165.900s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "165.900s",
+                    "endTime": "166.200s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "166.200s",
+                    "endTime": "166.400s",
+                    "word": "are"
+                  },
+                  {
+                    "startTime": "166.400s",
+                    "endTime": "166.700s",
+                    "word": "so"
+                  },
+                  {
+                    "startTime": "166.700s",
+                    "endTime": "167.800s",
+                    "word": "engaged"
+                  },
+                  {
+                    "startTime": "167.800s",
+                    "endTime": "168.100s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "168.100s",
+                    "endTime": "168.400s",
+                    "word": "any"
+                  },
+                  {
+                    "startTime": "168.400s",
+                    "endTime": "168.800s",
+                    "word": "sensory"
+                  },
+                  {
+                    "startTime": "168.800s",
+                    "endTime": "169.800s",
+                    "word": "experience"
+                  },
+                  {
+                    "startTime": "171.200s",
+                    "endTime": "171.400s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "171.400s",
+                    "endTime": "171.500s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "171.500s",
+                    "endTime": "171.600s",
+                    "word": "have"
+                  },
+                  {
+                    "startTime": "171.600s",
+                    "endTime": "171.700s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "171.700s",
+                    "endTime": "172.200s",
+                    "word": "complete"
+                  },
+                  {
+                    "startTime": "172.200s",
+                    "endTime": "173.100s",
+                    "word": "experience."
+                  },
+                  {
+                    "startTime": "173.200s",
+                    "endTime": "173.400s",
+                    "word": "There's"
+                  },
+                  {
+                    "startTime": "173.400s",
+                    "endTime": "173.600s",
+                    "word": "no"
+                  },
+                  {
+                    "startTime": "173.600s",
+                    "endTime": "173.800s",
+                    "word": "time"
+                  },
+                  {
+                    "startTime": "173.800s",
+                    "endTime": "174s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "174s",
+                    "endTime": "174.500s",
+                    "word": "fixate"
+                  },
+                  {
+                    "startTime": "174.500s",
+                    "endTime": "174.700s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "174.700s",
+                    "endTime": "175.300s",
+                    "word": "experience"
+                  },
+                  {
+                    "startTime": "175.300s",
+                    "endTime": "175.700s",
+                    "word": "into"
+                  },
+                  {
+                    "startTime": "175.700s",
+                    "endTime": "175.900s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "175.900s",
+                    "endTime": "176.500s",
+                    "word": "thing"
+                  },
+                  {
+                    "startTime": "176.800s",
+                    "endTime": "176.900s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "176.900s",
+                    "endTime": "177.600s",
+                    "word": "particles"
+                  },
+                  {
+                    "startTime": "177.600s",
+                    "endTime": "178s",
+                    "word": "become"
+                  },
+                  {
+                    "startTime": "178s",
+                    "endTime": "178.800s",
+                    "word": "waves."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " And so the experience is digested in two weeks into vibration undulation expansion contraction flow the activity of impermanence. And so it can be completely internalized completely made your own Moment by moment. If you digest the present eventually you will drink down the entire world and you will know that you have",
+                "confidence": 0.78193873,
+                "words": [
+                  {
+                    "startTime": "180.100s",
+                    "endTime": "180.800s",
+                    "word": "And"
+                  },
+                  {
+                    "startTime": "182.400s",
+                    "endTime": "182.900s",
+                    "word": "so"
+                  },
+                  {
+                    "startTime": "183s",
+                    "endTime": "183.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "183.100s",
+                    "endTime": "183.600s",
+                    "word": "experience"
+                  },
+                  {
+                    "startTime": "183.600s",
+                    "endTime": "183.800s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "183.800s",
+                    "endTime": "184.900s",
+                    "word": "digested"
+                  },
+                  {
+                    "startTime": "185s",
+                    "endTime": "185.100s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "185.100s",
+                    "endTime": "185.200s",
+                    "word": "two"
+                  },
+                  {
+                    "startTime": "185.200s",
+                    "endTime": "185.500s",
+                    "word": "weeks"
+                  },
+                  {
+                    "startTime": "185.800s",
+                    "endTime": "186.500s",
+                    "word": "into"
+                  },
+                  {
+                    "startTime": "186.600s",
+                    "endTime": "187.300s",
+                    "word": "vibration"
+                  },
+                  {
+                    "startTime": "187.300s",
+                    "endTime": "188.100s",
+                    "word": "undulation"
+                  },
+                  {
+                    "startTime": "188.100s",
+                    "endTime": "188.700s",
+                    "word": "expansion"
+                  },
+                  {
+                    "startTime": "188.700s",
+                    "endTime": "189.500s",
+                    "word": "contraction"
+                  },
+                  {
+                    "startTime": "189.600s",
+                    "endTime": "190.600s",
+                    "word": "flow"
+                  },
+                  {
+                    "startTime": "191s",
+                    "endTime": "191.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "191.200s",
+                    "endTime": "191.900s",
+                    "word": "activity"
+                  },
+                  {
+                    "startTime": "191.900s",
+                    "endTime": "192.100s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "192.100s",
+                    "endTime": "193s",
+                    "word": "impermanence."
+                  },
+                  {
+                    "startTime": "193.400s",
+                    "endTime": "193.600s",
+                    "word": "And"
+                  },
+                  {
+                    "startTime": "193.600s",
+                    "endTime": "193.800s",
+                    "word": "so"
+                  },
+                  {
+                    "startTime": "193.800s",
+                    "endTime": "194s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "194s",
+                    "endTime": "194.100s",
+                    "word": "can"
+                  },
+                  {
+                    "startTime": "194.100s",
+                    "endTime": "194.300s",
+                    "word": "be"
+                  },
+                  {
+                    "startTime": "194.300s",
+                    "endTime": "195.100s",
+                    "word": "completely"
+                  },
+                  {
+                    "startTime": "195.100s",
+                    "endTime": "195.800s",
+                    "word": "internalized"
+                  },
+                  {
+                    "startTime": "195.800s",
+                    "endTime": "196.400s",
+                    "word": "completely"
+                  },
+                  {
+                    "startTime": "196.400s",
+                    "endTime": "196.900s",
+                    "word": "made"
+                  },
+                  {
+                    "startTime": "196.900s",
+                    "endTime": "197.300s",
+                    "word": "your"
+                  },
+                  {
+                    "startTime": "197.300s",
+                    "endTime": "197.700s",
+                    "word": "own"
+                  },
+                  {
+                    "startTime": "198.600s",
+                    "endTime": "199.100s",
+                    "word": "Moment"
+                  },
+                  {
+                    "startTime": "199.100s",
+                    "endTime": "199.300s",
+                    "word": "by"
+                  },
+                  {
+                    "startTime": "199.300s",
+                    "endTime": "199.800s",
+                    "word": "moment."
+                  },
+                  {
+                    "startTime": "199.800s",
+                    "endTime": "199.900s",
+                    "word": "If"
+                  },
+                  {
+                    "startTime": "199.900s",
+                    "endTime": "200.100s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "200.100s",
+                    "endTime": "200.600s",
+                    "word": "digest"
+                  },
+                  {
+                    "startTime": "200.600s",
+                    "endTime": "200.700s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "200.700s",
+                    "endTime": "201.400s",
+                    "word": "present"
+                  },
+                  {
+                    "startTime": "201.400s",
+                    "endTime": "202.200s",
+                    "word": "eventually"
+                  },
+                  {
+                    "startTime": "202.200s",
+                    "endTime": "202.400s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "202.400s",
+                    "endTime": "202.900s",
+                    "word": "will"
+                  },
+                  {
+                    "startTime": "203.400s",
+                    "endTime": "203.700s",
+                    "word": "drink"
+                  },
+                  {
+                    "startTime": "203.700s",
+                    "endTime": "204s",
+                    "word": "down"
+                  },
+                  {
+                    "startTime": "204s",
+                    "endTime": "204.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "204.100s",
+                    "endTime": "204.600s",
+                    "word": "entire"
+                  },
+                  {
+                    "startTime": "204.600s",
+                    "endTime": "205.300s",
+                    "word": "world"
+                  },
+                  {
+                    "startTime": "206s",
+                    "endTime": "206.200s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "206.200s",
+                    "endTime": "206.300s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "206.300s",
+                    "endTime": "206.500s",
+                    "word": "will"
+                  },
+                  {
+                    "startTime": "206.500s",
+                    "endTime": "206.700s",
+                    "word": "know"
+                  },
+                  {
+                    "startTime": "206.700s",
+                    "endTime": "207.400s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "209.100s",
+                    "endTime": "209.200s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "209.200s",
+                    "endTime": "209.500s",
+                    "word": "have"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " As you're very content. This is the way Sasaki Ryo. She talks you'll have everything as your content. Now, of course, you may not be able to have the kind of dramatic experiences that I'm describing right off the bat but to whatever extent you bring concentration Clarity and Equanimity to moment-by-moment sensory experience to that extent you are digesting it and in the most extreme Point form, you literally digest it.",
+                "confidence": 0.7865385,
+                "words": [
+                  {
+                    "startTime": "209.700s",
+                    "endTime": "209.800s",
+                    "word": "As"
+                  },
+                  {
+                    "startTime": "209.800s",
+                    "endTime": "210s",
+                    "word": "you're"
+                  },
+                  {
+                    "startTime": "210s",
+                    "endTime": "210.200s",
+                    "word": "very"
+                  },
+                  {
+                    "startTime": "210.900s",
+                    "endTime": "211.900s",
+                    "word": "content."
+                  },
+                  {
+                    "startTime": "211.900s",
+                    "endTime": "212.100s",
+                    "word": "This"
+                  },
+                  {
+                    "startTime": "212.100s",
+                    "endTime": "212.200s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "212.200s",
+                    "endTime": "212.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "212.300s",
+                    "endTime": "212.400s",
+                    "word": "way"
+                  },
+                  {
+                    "startTime": "212.400s",
+                    "endTime": "213s",
+                    "word": "Sasaki"
+                  },
+                  {
+                    "startTime": "213s",
+                    "endTime": "213.200s",
+                    "word": "Ryo."
+                  },
+                  {
+                    "startTime": "213.200s",
+                    "endTime": "213.400s",
+                    "word": "She"
+                  },
+                  {
+                    "startTime": "213.400s",
+                    "endTime": "213.900s",
+                    "word": "talks"
+                  },
+                  {
+                    "startTime": "214.200s",
+                    "endTime": "214.400s",
+                    "word": "you'll"
+                  },
+                  {
+                    "startTime": "214.400s",
+                    "endTime": "214.900s",
+                    "word": "have"
+                  },
+                  {
+                    "startTime": "215s",
+                    "endTime": "215.500s",
+                    "word": "everything"
+                  },
+                  {
+                    "startTime": "215.500s",
+                    "endTime": "215.700s",
+                    "word": "as"
+                  },
+                  {
+                    "startTime": "215.700s",
+                    "endTime": "215.900s",
+                    "word": "your"
+                  },
+                  {
+                    "startTime": "215.900s",
+                    "endTime": "216.900s",
+                    "word": "content."
+                  },
+                  {
+                    "startTime": "217s",
+                    "endTime": "217.200s",
+                    "word": "Now,"
+                  },
+                  {
+                    "startTime": "217.200s",
+                    "endTime": "217.300s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "217.300s",
+                    "endTime": "217.600s",
+                    "word": "course,"
+                  },
+                  {
+                    "startTime": "217.600s",
+                    "endTime": "217.700s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "217.700s",
+                    "endTime": "217.800s",
+                    "word": "may"
+                  },
+                  {
+                    "startTime": "217.800s",
+                    "endTime": "218.100s",
+                    "word": "not"
+                  },
+                  {
+                    "startTime": "218.100s",
+                    "endTime": "218.200s",
+                    "word": "be"
+                  },
+                  {
+                    "startTime": "218.200s",
+                    "endTime": "218.400s",
+                    "word": "able"
+                  },
+                  {
+                    "startTime": "218.400s",
+                    "endTime": "218.600s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "218.600s",
+                    "endTime": "218.900s",
+                    "word": "have"
+                  },
+                  {
+                    "startTime": "218.900s",
+                    "endTime": "219s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "219s",
+                    "endTime": "219.300s",
+                    "word": "kind"
+                  },
+                  {
+                    "startTime": "219.300s",
+                    "endTime": "219.400s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "219.400s",
+                    "endTime": "220.300s",
+                    "word": "dramatic"
+                  },
+                  {
+                    "startTime": "220.300s",
+                    "endTime": "221.400s",
+                    "word": "experiences"
+                  },
+                  {
+                    "startTime": "221.400s",
+                    "endTime": "221.700s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "221.700s",
+                    "endTime": "221.900s",
+                    "word": "I'm"
+                  },
+                  {
+                    "startTime": "221.900s",
+                    "endTime": "222.500s",
+                    "word": "describing"
+                  },
+                  {
+                    "startTime": "222.500s",
+                    "endTime": "222.700s",
+                    "word": "right"
+                  },
+                  {
+                    "startTime": "222.700s",
+                    "endTime": "222.900s",
+                    "word": "off"
+                  },
+                  {
+                    "startTime": "222.900s",
+                    "endTime": "223.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "223.100s",
+                    "endTime": "223.700s",
+                    "word": "bat"
+                  },
+                  {
+                    "startTime": "223.900s",
+                    "endTime": "224.400s",
+                    "word": "but"
+                  },
+                  {
+                    "startTime": "224.700s",
+                    "endTime": "224.800s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "224.800s",
+                    "endTime": "225.200s",
+                    "word": "whatever"
+                  },
+                  {
+                    "startTime": "225.200s",
+                    "endTime": "225.700s",
+                    "word": "extent"
+                  },
+                  {
+                    "startTime": "225.700s",
+                    "endTime": "225.800s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "225.800s",
+                    "endTime": "226.100s",
+                    "word": "bring"
+                  },
+                  {
+                    "startTime": "226.100s",
+                    "endTime": "227s",
+                    "word": "concentration"
+                  },
+                  {
+                    "startTime": "227s",
+                    "endTime": "227.500s",
+                    "word": "Clarity"
+                  },
+                  {
+                    "startTime": "227.500s",
+                    "endTime": "227.700s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "227.700s",
+                    "endTime": "228.500s",
+                    "word": "Equanimity"
+                  },
+                  {
+                    "startTime": "228.500s",
+                    "endTime": "228.900s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "229s",
+                    "endTime": "229.900s",
+                    "word": "moment-by-moment"
+                  },
+                  {
+                    "startTime": "229.900s",
+                    "endTime": "230.400s",
+                    "word": "sensory"
+                  },
+                  {
+                    "startTime": "230.400s",
+                    "endTime": "230.900s",
+                    "word": "experience"
+                  },
+                  {
+                    "startTime": "230.900s",
+                    "endTime": "231.100s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "231.100s",
+                    "endTime": "231.300s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "231.300s",
+                    "endTime": "232.100s",
+                    "word": "extent"
+                  },
+                  {
+                    "startTime": "232.200s",
+                    "endTime": "232.500s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "232.500s",
+                    "endTime": "233.100s",
+                    "word": "are"
+                  },
+                  {
+                    "startTime": "233.800s",
+                    "endTime": "234.500s",
+                    "word": "digesting"
+                  },
+                  {
+                    "startTime": "234.500s",
+                    "endTime": "234.900s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "235.200s",
+                    "endTime": "235.400s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "235.400s",
+                    "endTime": "235.500s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "235.500s",
+                    "endTime": "235.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "235.600s",
+                    "endTime": "235.900s",
+                    "word": "most"
+                  },
+                  {
+                    "startTime": "235.900s",
+                    "endTime": "236.400s",
+                    "word": "extreme"
+                  },
+                  {
+                    "startTime": "236.400s",
+                    "endTime": "236.900s",
+                    "word": "Point"
+                  },
+                  {
+                    "startTime": "237.200s",
+                    "endTime": "237.600s",
+                    "word": "form,"
+                  },
+                  {
+                    "startTime": "237.600s",
+                    "endTime": "237.900s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "237.900s",
+                    "endTime": "238.600s",
+                    "word": "literally"
+                  },
+                  {
+                    "startTime": "238.600s",
+                    "endTime": "239.200s",
+                    "word": "digest"
+                  },
+                  {
+                    "startTime": "239.200s",
+                    "endTime": "239.400s",
+                    "word": "it."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " down into its vibratory atoms and and that causes a merging of inside and outside and that's why you don't just merge with flowers and the sky and the rivers you also merge with garbage cans and unpleasant people and whatever comes up in front of your eyes because you can if you have really",
+                "confidence": 0.7368595,
+                "words": [
+                  {
+                    "startTime": "239.600s",
+                    "endTime": "239.800s",
+                    "word": "down"
+                  },
+                  {
+                    "startTime": "239.800s",
+                    "endTime": "240.200s",
+                    "word": "into"
+                  },
+                  {
+                    "startTime": "240.200s",
+                    "endTime": "240.400s",
+                    "word": "its"
+                  },
+                  {
+                    "startTime": "240.400s",
+                    "endTime": "241.300s",
+                    "word": "vibratory"
+                  },
+                  {
+                    "startTime": "241.300s",
+                    "endTime": "242s",
+                    "word": "atoms"
+                  },
+                  {
+                    "startTime": "242.400s",
+                    "endTime": "242.600s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "242.600s",
+                    "endTime": "242.700s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "242.700s",
+                    "endTime": "242.900s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "242.900s",
+                    "endTime": "243.600s",
+                    "word": "causes"
+                  },
+                  {
+                    "startTime": "244s",
+                    "endTime": "244.100s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "244.100s",
+                    "endTime": "244.700s",
+                    "word": "merging"
+                  },
+                  {
+                    "startTime": "244.700s",
+                    "endTime": "244.800s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "244.800s",
+                    "endTime": "245.200s",
+                    "word": "inside"
+                  },
+                  {
+                    "startTime": "245.200s",
+                    "endTime": "245.400s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "245.400s",
+                    "endTime": "246.100s",
+                    "word": "outside"
+                  },
+                  {
+                    "startTime": "246.200s",
+                    "endTime": "246.300s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "246.300s",
+                    "endTime": "246.500s",
+                    "word": "that's"
+                  },
+                  {
+                    "startTime": "246.500s",
+                    "endTime": "246.600s",
+                    "word": "why"
+                  },
+                  {
+                    "startTime": "246.600s",
+                    "endTime": "246.700s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "246.700s",
+                    "endTime": "247s",
+                    "word": "don't"
+                  },
+                  {
+                    "startTime": "247s",
+                    "endTime": "247.600s",
+                    "word": "just"
+                  },
+                  {
+                    "startTime": "247.700s",
+                    "endTime": "248.100s",
+                    "word": "merge"
+                  },
+                  {
+                    "startTime": "248.100s",
+                    "endTime": "248.500s",
+                    "word": "with"
+                  },
+                  {
+                    "startTime": "248.900s",
+                    "endTime": "250.100s",
+                    "word": "flowers"
+                  },
+                  {
+                    "startTime": "250.400s",
+                    "endTime": "251s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "253.800s",
+                    "endTime": "253.900s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "253.900s",
+                    "endTime": "254.600s",
+                    "word": "sky"
+                  },
+                  {
+                    "startTime": "254.600s",
+                    "endTime": "254.800s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "254.800s",
+                    "endTime": "254.900s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "254.900s",
+                    "endTime": "255.600s",
+                    "word": "rivers"
+                  },
+                  {
+                    "startTime": "255.700s",
+                    "endTime": "256s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "256s",
+                    "endTime": "256.700s",
+                    "word": "also"
+                  },
+                  {
+                    "startTime": "256.700s",
+                    "endTime": "257.200s",
+                    "word": "merge"
+                  },
+                  {
+                    "startTime": "257.200s",
+                    "endTime": "257.800s",
+                    "word": "with"
+                  },
+                  {
+                    "startTime": "257.800s",
+                    "endTime": "258.400s",
+                    "word": "garbage"
+                  },
+                  {
+                    "startTime": "258.400s",
+                    "endTime": "259.100s",
+                    "word": "cans"
+                  },
+                  {
+                    "startTime": "259.100s",
+                    "endTime": "259.600s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "260.100s",
+                    "endTime": "261.100s",
+                    "word": "unpleasant"
+                  },
+                  {
+                    "startTime": "261.100s",
+                    "endTime": "261.900s",
+                    "word": "people"
+                  },
+                  {
+                    "startTime": "263.400s",
+                    "endTime": "263.900s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "264.600s",
+                    "endTime": "265s",
+                    "word": "whatever"
+                  },
+                  {
+                    "startTime": "265s",
+                    "endTime": "265.300s",
+                    "word": "comes"
+                  },
+                  {
+                    "startTime": "265.300s",
+                    "endTime": "265.700s",
+                    "word": "up"
+                  },
+                  {
+                    "startTime": "265.800s",
+                    "endTime": "265.900s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "265.900s",
+                    "endTime": "266.100s",
+                    "word": "front"
+                  },
+                  {
+                    "startTime": "266.100s",
+                    "endTime": "266.200s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "266.200s",
+                    "endTime": "266.500s",
+                    "word": "your"
+                  },
+                  {
+                    "startTime": "266.500s",
+                    "endTime": "267s",
+                    "word": "eyes"
+                  },
+                  {
+                    "startTime": "267.400s",
+                    "endTime": "267.900s",
+                    "word": "because"
+                  },
+                  {
+                    "startTime": "267.900s",
+                    "endTime": "268s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "268s",
+                    "endTime": "268.300s",
+                    "word": "can"
+                  },
+                  {
+                    "startTime": "268.600s",
+                    "endTime": "268.700s",
+                    "word": "if"
+                  },
+                  {
+                    "startTime": "268.700s",
+                    "endTime": "268.800s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "268.800s",
+                    "endTime": "269.200s",
+                    "word": "have"
+                  },
+                  {
+                    "startTime": "269.200s",
+                    "endTime": "269.500s",
+                    "word": "really"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Good digestive plowers, then it all accrues to nutrition. However, the peristalsis of impermanence doesn't just digest the experiences of the moment it",
+                "confidence": 0.8980761,
+                "words": [
+                  {
+                    "startTime": "269.600s",
+                    "endTime": "269.800s",
+                    "word": "Good"
+                  },
+                  {
+                    "startTime": "269.800s",
+                    "endTime": "270.500s",
+                    "word": "digestive"
+                  },
+                  {
+                    "startTime": "270.500s",
+                    "endTime": "271.100s",
+                    "word": "plowers,"
+                  },
+                  {
+                    "startTime": "271.100s",
+                    "endTime": "271.400s",
+                    "word": "then"
+                  },
+                  {
+                    "startTime": "271.700s",
+                    "endTime": "271.900s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "271.900s",
+                    "endTime": "272.300s",
+                    "word": "all"
+                  },
+                  {
+                    "startTime": "272.300s",
+                    "endTime": "272.800s",
+                    "word": "accrues"
+                  },
+                  {
+                    "startTime": "272.800s",
+                    "endTime": "272.900s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "272.900s",
+                    "endTime": "273.700s",
+                    "word": "nutrition."
+                  },
+                  {
+                    "startTime": "274.600s",
+                    "endTime": "275.200s",
+                    "word": "However,"
+                  },
+                  {
+                    "startTime": "276.100s",
+                    "endTime": "276.500s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "276.500s",
+                    "endTime": "277.500s",
+                    "word": "peristalsis"
+                  },
+                  {
+                    "startTime": "277.500s",
+                    "endTime": "277.700s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "277.700s",
+                    "endTime": "278.700s",
+                    "word": "impermanence"
+                  },
+                  {
+                    "startTime": "279.200s",
+                    "endTime": "279.600s",
+                    "word": "doesn't"
+                  },
+                  {
+                    "startTime": "279.600s",
+                    "endTime": "279.800s",
+                    "word": "just"
+                  },
+                  {
+                    "startTime": "279.800s",
+                    "endTime": "281s",
+                    "word": "digest"
+                  },
+                  {
+                    "startTime": "281.100s",
+                    "endTime": "281.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "281.200s",
+                    "endTime": "282.100s",
+                    "word": "experiences"
+                  },
+                  {
+                    "startTime": "282.100s",
+                    "endTime": "282.200s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "282.200s",
+                    "endTime": "282.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "282.400s",
+                    "endTime": "283s",
+                    "word": "moment"
+                  },
+                  {
+                    "startTime": "283.900s",
+                    "endTime": "284.600s",
+                    "word": "it"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Breaks up the Holdings from the past the doodoo the karmic residue that's sort of stuck in the karma: you might say I know it's a gross metaphor.",
+                "confidence": 0.882046,
+                "words": [
+                  {
+                    "startTime": "286.400s",
+                    "endTime": "287.200s",
+                    "word": "Breaks"
+                  },
+                  {
+                    "startTime": "287.200s",
+                    "endTime": "287.400s",
+                    "word": "up"
+                  },
+                  {
+                    "startTime": "287.400s",
+                    "endTime": "287.800s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "287.800s",
+                    "endTime": "289.200s",
+                    "word": "Holdings"
+                  },
+                  {
+                    "startTime": "289.200s",
+                    "endTime": "289.400s",
+                    "word": "from"
+                  },
+                  {
+                    "startTime": "289.400s",
+                    "endTime": "289.500s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "289.500s",
+                    "endTime": "290.100s",
+                    "word": "past"
+                  },
+                  {
+                    "startTime": "290.100s",
+                    "endTime": "290.500s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "290.500s",
+                    "endTime": "290.900s",
+                    "word": "doodoo"
+                  },
+                  {
+                    "startTime": "290.900s",
+                    "endTime": "292.500s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "292.500s",
+                    "endTime": "293s",
+                    "word": "karmic"
+                  },
+                  {
+                    "startTime": "293s",
+                    "endTime": "293.600s",
+                    "word": "residue"
+                  },
+                  {
+                    "startTime": "293.600s",
+                    "endTime": "294.900s",
+                    "word": "that's"
+                  },
+                  {
+                    "startTime": "294.900s",
+                    "endTime": "295.700s",
+                    "word": "sort"
+                  },
+                  {
+                    "startTime": "295.700s",
+                    "endTime": "295.800s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "295.800s",
+                    "endTime": "296.500s",
+                    "word": "stuck"
+                  },
+                  {
+                    "startTime": "296.500s",
+                    "endTime": "296.700s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "296.700s",
+                    "endTime": "297.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "297.600s",
+                    "endTime": "298.200s",
+                    "word": "karma:"
+                  },
+                  {
+                    "startTime": "298.600s",
+                    "endTime": "298.700s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "298.700s",
+                    "endTime": "298.900s",
+                    "word": "might"
+                  },
+                  {
+                    "startTime": "298.900s",
+                    "endTime": "299.200s",
+                    "word": "say"
+                  },
+                  {
+                    "startTime": "299.200s",
+                    "endTime": "299.900s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "299.900s",
+                    "endTime": "300.100s",
+                    "word": "know"
+                  },
+                  {
+                    "startTime": "300.100s",
+                    "endTime": "300.500s",
+                    "word": "it's"
+                  },
+                  {
+                    "startTime": "300.500s",
+                    "endTime": "300.500s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "300.500s",
+                    "endTime": "300.800s",
+                    "word": "gross"
+                  },
+                  {
+                    "startTime": "300.800s",
+                    "endTime": "301.300s",
+                    "word": "metaphor."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " But actually maybe not such an inappropriate metaphor actually.",
+                "confidence": 0.8492979,
+                "words": [
+                  {
+                    "startTime": "303.900s",
+                    "endTime": "304.500s",
+                    "word": "But"
+                  },
+                  {
+                    "startTime": "304.700s",
+                    "endTime": "305.300s",
+                    "word": "actually"
+                  },
+                  {
+                    "startTime": "305.300s",
+                    "endTime": "306s",
+                    "word": "maybe"
+                  },
+                  {
+                    "startTime": "306.400s",
+                    "endTime": "306.800s",
+                    "word": "not"
+                  },
+                  {
+                    "startTime": "306.800s",
+                    "endTime": "307.100s",
+                    "word": "such"
+                  },
+                  {
+                    "startTime": "307.100s",
+                    "endTime": "307.200s",
+                    "word": "an"
+                  },
+                  {
+                    "startTime": "307.200s",
+                    "endTime": "308s",
+                    "word": "inappropriate"
+                  },
+                  {
+                    "startTime": "308s",
+                    "endTime": "308.500s",
+                    "word": "metaphor"
+                  },
+                  {
+                    "startTime": "308.500s",
+                    "endTime": "309.200s",
+                    "word": "actually."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " the flow of impermanence when turn to the outside world gives you a sense that you're digesting the present moment acquiring energy empowerment richness from it, but when applied to the internal world as we sit and practice and in daily life stuff comes up our cage gets rattled the stored pool of",
+                "confidence": 0.9025319,
+                "words": [
+                  {
+                    "startTime": "310.800s",
+                    "endTime": "311.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "311.400s",
+                    "endTime": "312.900s",
+                    "word": "flow"
+                  },
+                  {
+                    "startTime": "312.900s",
+                    "endTime": "313.300s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "313.300s",
+                    "endTime": "313.900s",
+                    "word": "impermanence"
+                  },
+                  {
+                    "startTime": "313.900s",
+                    "endTime": "315.600s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "315.600s",
+                    "endTime": "316s",
+                    "word": "turn"
+                  },
+                  {
+                    "startTime": "316s",
+                    "endTime": "316.300s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "316.300s",
+                    "endTime": "316.700s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "316.700s",
+                    "endTime": "317.200s",
+                    "word": "outside"
+                  },
+                  {
+                    "startTime": "317.200s",
+                    "endTime": "317.400s",
+                    "word": "world"
+                  },
+                  {
+                    "startTime": "317.400s",
+                    "endTime": "318.400s",
+                    "word": "gives"
+                  },
+                  {
+                    "startTime": "318.400s",
+                    "endTime": "318.500s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "318.500s",
+                    "endTime": "318.600s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "318.600s",
+                    "endTime": "318.900s",
+                    "word": "sense"
+                  },
+                  {
+                    "startTime": "318.900s",
+                    "endTime": "319.100s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "319.100s",
+                    "endTime": "319.400s",
+                    "word": "you're"
+                  },
+                  {
+                    "startTime": "319.400s",
+                    "endTime": "319.700s",
+                    "word": "digesting"
+                  },
+                  {
+                    "startTime": "319.700s",
+                    "endTime": "321.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "321.400s",
+                    "endTime": "321.900s",
+                    "word": "present"
+                  },
+                  {
+                    "startTime": "321.900s",
+                    "endTime": "322.100s",
+                    "word": "moment"
+                  },
+                  {
+                    "startTime": "322.100s",
+                    "endTime": "324.200s",
+                    "word": "acquiring"
+                  },
+                  {
+                    "startTime": "324.200s",
+                    "endTime": "324.800s",
+                    "word": "energy"
+                  },
+                  {
+                    "startTime": "324.800s",
+                    "endTime": "326s",
+                    "word": "empowerment"
+                  },
+                  {
+                    "startTime": "326s",
+                    "endTime": "327.100s",
+                    "word": "richness"
+                  },
+                  {
+                    "startTime": "327.100s",
+                    "endTime": "327.400s",
+                    "word": "from"
+                  },
+                  {
+                    "startTime": "327.400s",
+                    "endTime": "327.700s",
+                    "word": "it,"
+                  },
+                  {
+                    "startTime": "327.700s",
+                    "endTime": "328.600s",
+                    "word": "but"
+                  },
+                  {
+                    "startTime": "328.600s",
+                    "endTime": "328.800s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "328.800s",
+                    "endTime": "329.100s",
+                    "word": "applied"
+                  },
+                  {
+                    "startTime": "329.100s",
+                    "endTime": "329.600s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "329.600s",
+                    "endTime": "329.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "329.600s",
+                    "endTime": "330.300s",
+                    "word": "internal"
+                  },
+                  {
+                    "startTime": "330.300s",
+                    "endTime": "330.600s",
+                    "word": "world"
+                  },
+                  {
+                    "startTime": "330.600s",
+                    "endTime": "331s",
+                    "word": "as"
+                  },
+                  {
+                    "startTime": "331s",
+                    "endTime": "331.200s",
+                    "word": "we"
+                  },
+                  {
+                    "startTime": "331.200s",
+                    "endTime": "331.500s",
+                    "word": "sit"
+                  },
+                  {
+                    "startTime": "331.500s",
+                    "endTime": "331.700s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "331.700s",
+                    "endTime": "332s",
+                    "word": "practice"
+                  },
+                  {
+                    "startTime": "332s",
+                    "endTime": "333.100s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "333.100s",
+                    "endTime": "333.200s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "333.200s",
+                    "endTime": "333.400s",
+                    "word": "daily"
+                  },
+                  {
+                    "startTime": "333.400s",
+                    "endTime": "333.700s",
+                    "word": "life"
+                  },
+                  {
+                    "startTime": "333.700s",
+                    "endTime": "335s",
+                    "word": "stuff"
+                  },
+                  {
+                    "startTime": "335s",
+                    "endTime": "335.300s",
+                    "word": "comes"
+                  },
+                  {
+                    "startTime": "335.300s",
+                    "endTime": "335.400s",
+                    "word": "up"
+                  },
+                  {
+                    "startTime": "335.400s",
+                    "endTime": "336.700s",
+                    "word": "our"
+                  },
+                  {
+                    "startTime": "336.700s",
+                    "endTime": "337.400s",
+                    "word": "cage"
+                  },
+                  {
+                    "startTime": "337.400s",
+                    "endTime": "337.700s",
+                    "word": "gets"
+                  },
+                  {
+                    "startTime": "337.700s",
+                    "endTime": "338.300s",
+                    "word": "rattled"
+                  },
+                  {
+                    "startTime": "338.300s",
+                    "endTime": "339.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "339.200s",
+                    "endTime": "340s",
+                    "word": "stored"
+                  },
+                  {
+                    "startTime": "340s",
+                    "endTime": "340.400s",
+                    "word": "pool"
+                  },
+                  {
+                    "startTime": "340.400s",
+                    "endTime": "340.600s",
+                    "word": "of"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Is am in pain with them gets activated either due to its own rhythms for no particular reason or because something happens in the outside world that gets to us this expression having your cage rattled I think is a really good expression. Okay, because it is our cage that holding from the past is the prison it's our cage and when an event in the present",
+                "confidence": 0.7775706,
+                "words": [
+                  {
+                    "startTime": "340.800s",
+                    "endTime": "340.900s",
+                    "word": "Is"
+                  },
+                  {
+                    "startTime": "340.900s",
+                    "endTime": "341s",
+                    "word": "am"
+                  },
+                  {
+                    "startTime": "341s",
+                    "endTime": "341.200s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "341.200s",
+                    "endTime": "341.500s",
+                    "word": "pain"
+                  },
+                  {
+                    "startTime": "341.500s",
+                    "endTime": "341.700s",
+                    "word": "with"
+                  },
+                  {
+                    "startTime": "341.700s",
+                    "endTime": "342.200s",
+                    "word": "them"
+                  },
+                  {
+                    "startTime": "343.400s",
+                    "endTime": "343.800s",
+                    "word": "gets"
+                  },
+                  {
+                    "startTime": "343.800s",
+                    "endTime": "344.800s",
+                    "word": "activated"
+                  },
+                  {
+                    "startTime": "344.800s",
+                    "endTime": "345.200s",
+                    "word": "either"
+                  },
+                  {
+                    "startTime": "345.200s",
+                    "endTime": "345.400s",
+                    "word": "due"
+                  },
+                  {
+                    "startTime": "345.400s",
+                    "endTime": "345.500s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "345.500s",
+                    "endTime": "345.700s",
+                    "word": "its"
+                  },
+                  {
+                    "startTime": "345.700s",
+                    "endTime": "346s",
+                    "word": "own"
+                  },
+                  {
+                    "startTime": "346s",
+                    "endTime": "346.800s",
+                    "word": "rhythms"
+                  },
+                  {
+                    "startTime": "346.800s",
+                    "endTime": "346.900s",
+                    "word": "for"
+                  },
+                  {
+                    "startTime": "346.900s",
+                    "endTime": "347.100s",
+                    "word": "no"
+                  },
+                  {
+                    "startTime": "347.100s",
+                    "endTime": "347.700s",
+                    "word": "particular"
+                  },
+                  {
+                    "startTime": "347.700s",
+                    "endTime": "348.100s",
+                    "word": "reason"
+                  },
+                  {
+                    "startTime": "348.100s",
+                    "endTime": "348.200s",
+                    "word": "or"
+                  },
+                  {
+                    "startTime": "348.200s",
+                    "endTime": "348.700s",
+                    "word": "because"
+                  },
+                  {
+                    "startTime": "348.900s",
+                    "endTime": "349.300s",
+                    "word": "something"
+                  },
+                  {
+                    "startTime": "349.300s",
+                    "endTime": "349.700s",
+                    "word": "happens"
+                  },
+                  {
+                    "startTime": "349.700s",
+                    "endTime": "349.800s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "349.800s",
+                    "endTime": "349.900s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "349.900s",
+                    "endTime": "350.300s",
+                    "word": "outside"
+                  },
+                  {
+                    "startTime": "350.300s",
+                    "endTime": "350.700s",
+                    "word": "world"
+                  },
+                  {
+                    "startTime": "350.700s",
+                    "endTime": "351.200s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "351.200s",
+                    "endTime": "351.600s",
+                    "word": "gets"
+                  },
+                  {
+                    "startTime": "351.600s",
+                    "endTime": "351.800s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "351.800s",
+                    "endTime": "352.200s",
+                    "word": "us"
+                  },
+                  {
+                    "startTime": "352.900s",
+                    "endTime": "353.200s",
+                    "word": "this"
+                  },
+                  {
+                    "startTime": "353.200s",
+                    "endTime": "353.800s",
+                    "word": "expression"
+                  },
+                  {
+                    "startTime": "353.800s",
+                    "endTime": "354.200s",
+                    "word": "having"
+                  },
+                  {
+                    "startTime": "354.200s",
+                    "endTime": "354.400s",
+                    "word": "your"
+                  },
+                  {
+                    "startTime": "354.400s",
+                    "endTime": "354.900s",
+                    "word": "cage"
+                  },
+                  {
+                    "startTime": "354.900s",
+                    "endTime": "355.700s",
+                    "word": "rattled"
+                  },
+                  {
+                    "startTime": "356.200s",
+                    "endTime": "356.300s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "356.300s",
+                    "endTime": "356.600s",
+                    "word": "think"
+                  },
+                  {
+                    "startTime": "356.600s",
+                    "endTime": "356.800s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "356.800s",
+                    "endTime": "356.800s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "356.800s",
+                    "endTime": "357.100s",
+                    "word": "really"
+                  },
+                  {
+                    "startTime": "357.100s",
+                    "endTime": "357.700s",
+                    "word": "good"
+                  },
+                  {
+                    "startTime": "357.800s",
+                    "endTime": "358.600s",
+                    "word": "expression."
+                  },
+                  {
+                    "startTime": "358.600s",
+                    "endTime": "359s",
+                    "word": "Okay,"
+                  },
+                  {
+                    "startTime": "359.300s",
+                    "endTime": "359.800s",
+                    "word": "because"
+                  },
+                  {
+                    "startTime": "360s",
+                    "endTime": "360.200s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "360.200s",
+                    "endTime": "360.400s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "360.400s",
+                    "endTime": "360.600s",
+                    "word": "our"
+                  },
+                  {
+                    "startTime": "360.600s",
+                    "endTime": "361.300s",
+                    "word": "cage"
+                  },
+                  {
+                    "startTime": "361.700s",
+                    "endTime": "362s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "362s",
+                    "endTime": "362.800s",
+                    "word": "holding"
+                  },
+                  {
+                    "startTime": "362.900s",
+                    "endTime": "363.200s",
+                    "word": "from"
+                  },
+                  {
+                    "startTime": "363.200s",
+                    "endTime": "363.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "363.300s",
+                    "endTime": "364.200s",
+                    "word": "past"
+                  },
+                  {
+                    "startTime": "364.200s",
+                    "endTime": "364.500s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "364.500s",
+                    "endTime": "364.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "364.600s",
+                    "endTime": "365.200s",
+                    "word": "prison"
+                  },
+                  {
+                    "startTime": "365.900s",
+                    "endTime": "366.100s",
+                    "word": "it's"
+                  },
+                  {
+                    "startTime": "366.100s",
+                    "endTime": "366.200s",
+                    "word": "our"
+                  },
+                  {
+                    "startTime": "366.200s",
+                    "endTime": "366.900s",
+                    "word": "cage"
+                  },
+                  {
+                    "startTime": "367.400s",
+                    "endTime": "367.900s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "368.500s",
+                    "endTime": "368.800s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "368.800s",
+                    "endTime": "369s",
+                    "word": "an"
+                  },
+                  {
+                    "startTime": "369s",
+                    "endTime": "369.600s",
+                    "word": "event"
+                  },
+                  {
+                    "startTime": "369.600s",
+                    "endTime": "369.700s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "369.700s",
+                    "endTime": "369.900s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "369.900s",
+                    "endTime": "370.600s",
+                    "word": "present"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Sort of bangs on it. We get our cage rattled when we get our cage rattled. It comes up in body experience and mental experience primarily emotions, or as I call it feel activity in the body and then mental image internal talk. Sometimes it comes up in a purely physical form in the body if we bring concentration Clarity and Equanimity to that.",
+                "confidence": 0.9100561,
+                "words": [
+                  {
+                    "startTime": "371.300s",
+                    "endTime": "371.600s",
+                    "word": "Sort"
+                  },
+                  {
+                    "startTime": "371.600s",
+                    "endTime": "371.800s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "372s",
+                    "endTime": "372.600s",
+                    "word": "bangs"
+                  },
+                  {
+                    "startTime": "372.600s",
+                    "endTime": "372.800s",
+                    "word": "on"
+                  },
+                  {
+                    "startTime": "372.800s",
+                    "endTime": "373.100s",
+                    "word": "it."
+                  },
+                  {
+                    "startTime": "373.200s",
+                    "endTime": "373.300s",
+                    "word": "We"
+                  },
+                  {
+                    "startTime": "373.300s",
+                    "endTime": "373.500s",
+                    "word": "get"
+                  },
+                  {
+                    "startTime": "373.500s",
+                    "endTime": "373.700s",
+                    "word": "our"
+                  },
+                  {
+                    "startTime": "373.700s",
+                    "endTime": "374.100s",
+                    "word": "cage"
+                  },
+                  {
+                    "startTime": "374.100s",
+                    "endTime": "374.800s",
+                    "word": "rattled"
+                  },
+                  {
+                    "startTime": "375.500s",
+                    "endTime": "375.700s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "375.700s",
+                    "endTime": "375.800s",
+                    "word": "we"
+                  },
+                  {
+                    "startTime": "375.800s",
+                    "endTime": "375.900s",
+                    "word": "get"
+                  },
+                  {
+                    "startTime": "375.900s",
+                    "endTime": "376.100s",
+                    "word": "our"
+                  },
+                  {
+                    "startTime": "376.100s",
+                    "endTime": "376.500s",
+                    "word": "cage"
+                  },
+                  {
+                    "startTime": "376.500s",
+                    "endTime": "377.100s",
+                    "word": "rattled."
+                  },
+                  {
+                    "startTime": "377.100s",
+                    "endTime": "377.500s",
+                    "word": "It"
+                  },
+                  {
+                    "startTime": "377.500s",
+                    "endTime": "377.900s",
+                    "word": "comes"
+                  },
+                  {
+                    "startTime": "377.900s",
+                    "endTime": "378.100s",
+                    "word": "up"
+                  },
+                  {
+                    "startTime": "378.100s",
+                    "endTime": "378.300s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "378.300s",
+                    "endTime": "378.700s",
+                    "word": "body"
+                  },
+                  {
+                    "startTime": "378.700s",
+                    "endTime": "379.500s",
+                    "word": "experience"
+                  },
+                  {
+                    "startTime": "379.500s",
+                    "endTime": "380s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "380.100s",
+                    "endTime": "380.600s",
+                    "word": "mental"
+                  },
+                  {
+                    "startTime": "380.600s",
+                    "endTime": "381.400s",
+                    "word": "experience"
+                  },
+                  {
+                    "startTime": "381.800s",
+                    "endTime": "382.600s",
+                    "word": "primarily"
+                  },
+                  {
+                    "startTime": "382.600s",
+                    "endTime": "383.600s",
+                    "word": "emotions,"
+                  },
+                  {
+                    "startTime": "383.600s",
+                    "endTime": "384s",
+                    "word": "or"
+                  },
+                  {
+                    "startTime": "384s",
+                    "endTime": "384.200s",
+                    "word": "as"
+                  },
+                  {
+                    "startTime": "384.200s",
+                    "endTime": "384.300s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "384.300s",
+                    "endTime": "384.600s",
+                    "word": "call"
+                  },
+                  {
+                    "startTime": "384.600s",
+                    "endTime": "384.800s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "384.800s",
+                    "endTime": "385.200s",
+                    "word": "feel"
+                  },
+                  {
+                    "startTime": "385.200s",
+                    "endTime": "386s",
+                    "word": "activity"
+                  },
+                  {
+                    "startTime": "386s",
+                    "endTime": "386.100s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "386.100s",
+                    "endTime": "386.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "386.200s",
+                    "endTime": "386.800s",
+                    "word": "body"
+                  },
+                  {
+                    "startTime": "387.200s",
+                    "endTime": "387.300s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "387.300s",
+                    "endTime": "387.500s",
+                    "word": "then"
+                  },
+                  {
+                    "startTime": "387.500s",
+                    "endTime": "387.900s",
+                    "word": "mental"
+                  },
+                  {
+                    "startTime": "387.900s",
+                    "endTime": "388.300s",
+                    "word": "image"
+                  },
+                  {
+                    "startTime": "388.300s",
+                    "endTime": "388.700s",
+                    "word": "internal"
+                  },
+                  {
+                    "startTime": "388.700s",
+                    "endTime": "389.200s",
+                    "word": "talk."
+                  },
+                  {
+                    "startTime": "389.200s",
+                    "endTime": "389.600s",
+                    "word": "Sometimes"
+                  },
+                  {
+                    "startTime": "389.600s",
+                    "endTime": "389.700s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "389.700s",
+                    "endTime": "390s",
+                    "word": "comes"
+                  },
+                  {
+                    "startTime": "390s",
+                    "endTime": "390.500s",
+                    "word": "up"
+                  },
+                  {
+                    "startTime": "390.800s",
+                    "endTime": "390.900s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "390.900s",
+                    "endTime": "391s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "391s",
+                    "endTime": "391.400s",
+                    "word": "purely"
+                  },
+                  {
+                    "startTime": "391.400s",
+                    "endTime": "392s",
+                    "word": "physical"
+                  },
+                  {
+                    "startTime": "392s",
+                    "endTime": "392.300s",
+                    "word": "form"
+                  },
+                  {
+                    "startTime": "392.300s",
+                    "endTime": "392.400s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "392.400s",
+                    "endTime": "392.500s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "392.500s",
+                    "endTime": "393s",
+                    "word": "body"
+                  },
+                  {
+                    "startTime": "394.100s",
+                    "endTime": "394.400s",
+                    "word": "if"
+                  },
+                  {
+                    "startTime": "394.400s",
+                    "endTime": "394.600s",
+                    "word": "we"
+                  },
+                  {
+                    "startTime": "394.600s",
+                    "endTime": "395.100s",
+                    "word": "bring"
+                  },
+                  {
+                    "startTime": "395.100s",
+                    "endTime": "395.900s",
+                    "word": "concentration"
+                  },
+                  {
+                    "startTime": "395.900s",
+                    "endTime": "396.400s",
+                    "word": "Clarity"
+                  },
+                  {
+                    "startTime": "396.400s",
+                    "endTime": "396.500s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "396.500s",
+                    "endTime": "397.100s",
+                    "word": "Equanimity"
+                  },
+                  {
+                    "startTime": "397.100s",
+                    "endTime": "397.300s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "397.300s",
+                    "endTime": "397.800s",
+                    "word": "that."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Arising at the more it rattles ArcheAge the more it seems to go to the depths of our being then the more will be digested as we bring concentration Clarity and Equanimity to those body and mind volcanoes. And in the extreme case. We actually can digest it or read. I",
+                "confidence": 0.86920357,
+                "words": [
+                  {
+                    "startTime": "399.500s",
+                    "endTime": "400.500s",
+                    "word": "Arising"
+                  },
+                  {
+                    "startTime": "401.600s",
+                    "endTime": "402s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "402s",
+                    "endTime": "402.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "402.300s",
+                    "endTime": "402.600s",
+                    "word": "more"
+                  },
+                  {
+                    "startTime": "402.600s",
+                    "endTime": "402.800s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "402.800s",
+                    "endTime": "403.200s",
+                    "word": "rattles"
+                  },
+                  {
+                    "startTime": "403.200s",
+                    "endTime": "403.900s",
+                    "word": "ArcheAge"
+                  },
+                  {
+                    "startTime": "403.900s",
+                    "endTime": "404s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "404s",
+                    "endTime": "404.700s",
+                    "word": "more"
+                  },
+                  {
+                    "startTime": "405.100s",
+                    "endTime": "405.300s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "405.300s",
+                    "endTime": "405.700s",
+                    "word": "seems"
+                  },
+                  {
+                    "startTime": "405.700s",
+                    "endTime": "405.800s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "405.800s",
+                    "endTime": "406.100s",
+                    "word": "go"
+                  },
+                  {
+                    "startTime": "406.100s",
+                    "endTime": "406.300s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "406.300s",
+                    "endTime": "406.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "406.400s",
+                    "endTime": "406.900s",
+                    "word": "depths"
+                  },
+                  {
+                    "startTime": "406.900s",
+                    "endTime": "407.100s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "407.100s",
+                    "endTime": "407.200s",
+                    "word": "our"
+                  },
+                  {
+                    "startTime": "407.200s",
+                    "endTime": "407.800s",
+                    "word": "being"
+                  },
+                  {
+                    "startTime": "408.300s",
+                    "endTime": "408.800s",
+                    "word": "then"
+                  },
+                  {
+                    "startTime": "408.800s",
+                    "endTime": "409s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "409s",
+                    "endTime": "409.400s",
+                    "word": "more"
+                  },
+                  {
+                    "startTime": "409.400s",
+                    "endTime": "409.600s",
+                    "word": "will"
+                  },
+                  {
+                    "startTime": "409.600s",
+                    "endTime": "409.800s",
+                    "word": "be"
+                  },
+                  {
+                    "startTime": "409.800s",
+                    "endTime": "411.300s",
+                    "word": "digested"
+                  },
+                  {
+                    "startTime": "411.300s",
+                    "endTime": "411.800s",
+                    "word": "as"
+                  },
+                  {
+                    "startTime": "411.800s",
+                    "endTime": "411.900s",
+                    "word": "we"
+                  },
+                  {
+                    "startTime": "411.900s",
+                    "endTime": "412.500s",
+                    "word": "bring"
+                  },
+                  {
+                    "startTime": "412.600s",
+                    "endTime": "413.500s",
+                    "word": "concentration"
+                  },
+                  {
+                    "startTime": "413.500s",
+                    "endTime": "414s",
+                    "word": "Clarity"
+                  },
+                  {
+                    "startTime": "414s",
+                    "endTime": "414.200s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "414.200s",
+                    "endTime": "415.200s",
+                    "word": "Equanimity"
+                  },
+                  {
+                    "startTime": "415.400s",
+                    "endTime": "415.900s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "416.100s",
+                    "endTime": "416.500s",
+                    "word": "those"
+                  },
+                  {
+                    "startTime": "416.500s",
+                    "endTime": "417.100s",
+                    "word": "body"
+                  },
+                  {
+                    "startTime": "417.100s",
+                    "endTime": "417.300s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "417.300s",
+                    "endTime": "418s",
+                    "word": "mind"
+                  },
+                  {
+                    "startTime": "418.900s",
+                    "endTime": "420s",
+                    "word": "volcanoes."
+                  },
+                  {
+                    "startTime": "421.100s",
+                    "endTime": "421.600s",
+                    "word": "And"
+                  },
+                  {
+                    "startTime": "421.600s",
+                    "endTime": "421.700s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "421.700s",
+                    "endTime": "421.900s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "421.900s",
+                    "endTime": "422.400s",
+                    "word": "extreme"
+                  },
+                  {
+                    "startTime": "422.400s",
+                    "endTime": "423s",
+                    "word": "case."
+                  },
+                  {
+                    "startTime": "423.800s",
+                    "endTime": "424s",
+                    "word": "We"
+                  },
+                  {
+                    "startTime": "424s",
+                    "endTime": "424.800s",
+                    "word": "actually"
+                  },
+                  {
+                    "startTime": "424.800s",
+                    "endTime": "425.100s",
+                    "word": "can"
+                  },
+                  {
+                    "startTime": "426.500s",
+                    "endTime": "427.200s",
+                    "word": "digest"
+                  },
+                  {
+                    "startTime": "427.200s",
+                    "endTime": "427.500s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "427.500s",
+                    "endTime": "427.800s",
+                    "word": "or"
+                  },
+                  {
+                    "startTime": "427.800s",
+                    "endTime": "428.100s",
+                    "word": "read."
+                  },
+                  {
+                    "startTime": "428.100s",
+                    "endTime": "428.200s",
+                    "word": "I"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Instead it wasn't the reason it's stuck. There is it was never really digested in the first place. So it sticks around.",
+                "confidence": 0.72376734,
+                "words": [
+                  {
+                    "startTime": "428.400s",
+                    "endTime": "428.800s",
+                    "word": "Instead"
+                  },
+                  {
+                    "startTime": "428.800s",
+                    "endTime": "429s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "429s",
+                    "endTime": "429.300s",
+                    "word": "wasn't"
+                  },
+                  {
+                    "startTime": "429.300s",
+                    "endTime": "429.700s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "429.700s",
+                    "endTime": "430s",
+                    "word": "reason"
+                  },
+                  {
+                    "startTime": "430s",
+                    "endTime": "430.200s",
+                    "word": "it's"
+                  },
+                  {
+                    "startTime": "430.200s",
+                    "endTime": "430.500s",
+                    "word": "stuck."
+                  },
+                  {
+                    "startTime": "430.500s",
+                    "endTime": "430.700s",
+                    "word": "There"
+                  },
+                  {
+                    "startTime": "430.700s",
+                    "endTime": "430.800s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "430.800s",
+                    "endTime": "430.900s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "430.900s",
+                    "endTime": "431.100s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "431.100s",
+                    "endTime": "431.500s",
+                    "word": "never"
+                  },
+                  {
+                    "startTime": "431.500s",
+                    "endTime": "431.800s",
+                    "word": "really"
+                  },
+                  {
+                    "startTime": "431.800s",
+                    "endTime": "432.500s",
+                    "word": "digested"
+                  },
+                  {
+                    "startTime": "432.500s",
+                    "endTime": "432.600s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "432.600s",
+                    "endTime": "432.700s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "432.700s",
+                    "endTime": "433s",
+                    "word": "first"
+                  },
+                  {
+                    "startTime": "433s",
+                    "endTime": "433.500s",
+                    "word": "place."
+                  },
+                  {
+                    "startTime": "433.600s",
+                    "endTime": "433.800s",
+                    "word": "So"
+                  },
+                  {
+                    "startTime": "433.800s",
+                    "endTime": "433.900s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "433.900s",
+                    "endTime": "434.300s",
+                    "word": "sticks"
+                  },
+                  {
+                    "startTime": "434.300s",
+                    "endTime": "435s",
+                    "word": "around."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " So if when it comes up either as I say from its own rhythms or because it's been triggered by something from the outside. If we have a complete experience of it. We will digest it release it and in the most extreme case it will it the depths of the Holdings from the past will turn into vibration undulation expansion contraction energy.",
+                "confidence": 0.9095069,
+                "words": [
+                  {
+                    "startTime": "436.400s",
+                    "endTime": "436.800s",
+                    "word": "So"
+                  },
+                  {
+                    "startTime": "436.800s",
+                    "endTime": "437.100s",
+                    "word": "if"
+                  },
+                  {
+                    "startTime": "437.100s",
+                    "endTime": "437.400s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "437.400s",
+                    "endTime": "437.600s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "437.600s",
+                    "endTime": "438s",
+                    "word": "comes"
+                  },
+                  {
+                    "startTime": "438s",
+                    "endTime": "438.600s",
+                    "word": "up"
+                  },
+                  {
+                    "startTime": "438.700s",
+                    "endTime": "439.100s",
+                    "word": "either"
+                  },
+                  {
+                    "startTime": "439.100s",
+                    "endTime": "439.300s",
+                    "word": "as"
+                  },
+                  {
+                    "startTime": "439.300s",
+                    "endTime": "439.400s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "439.400s",
+                    "endTime": "439.700s",
+                    "word": "say"
+                  },
+                  {
+                    "startTime": "439.700s",
+                    "endTime": "439.900s",
+                    "word": "from"
+                  },
+                  {
+                    "startTime": "439.900s",
+                    "endTime": "440.100s",
+                    "word": "its"
+                  },
+                  {
+                    "startTime": "440.100s",
+                    "endTime": "440.300s",
+                    "word": "own"
+                  },
+                  {
+                    "startTime": "440.300s",
+                    "endTime": "440.900s",
+                    "word": "rhythms"
+                  },
+                  {
+                    "startTime": "440.900s",
+                    "endTime": "441.100s",
+                    "word": "or"
+                  },
+                  {
+                    "startTime": "441.100s",
+                    "endTime": "441.600s",
+                    "word": "because"
+                  },
+                  {
+                    "startTime": "441.600s",
+                    "endTime": "441.800s",
+                    "word": "it's"
+                  },
+                  {
+                    "startTime": "441.800s",
+                    "endTime": "441.900s",
+                    "word": "been"
+                  },
+                  {
+                    "startTime": "441.900s",
+                    "endTime": "442.400s",
+                    "word": "triggered"
+                  },
+                  {
+                    "startTime": "442.400s",
+                    "endTime": "442.600s",
+                    "word": "by"
+                  },
+                  {
+                    "startTime": "442.600s",
+                    "endTime": "443.200s",
+                    "word": "something"
+                  },
+                  {
+                    "startTime": "443.500s",
+                    "endTime": "443.800s",
+                    "word": "from"
+                  },
+                  {
+                    "startTime": "443.800s",
+                    "endTime": "443.900s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "443.900s",
+                    "endTime": "444.800s",
+                    "word": "outside."
+                  },
+                  {
+                    "startTime": "445.200s",
+                    "endTime": "445.600s",
+                    "word": "If"
+                  },
+                  {
+                    "startTime": "445.600s",
+                    "endTime": "446.400s",
+                    "word": "we"
+                  },
+                  {
+                    "startTime": "447.600s",
+                    "endTime": "447.800s",
+                    "word": "have"
+                  },
+                  {
+                    "startTime": "447.800s",
+                    "endTime": "447.900s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "447.900s",
+                    "endTime": "448.400s",
+                    "word": "complete"
+                  },
+                  {
+                    "startTime": "448.400s",
+                    "endTime": "449s",
+                    "word": "experience"
+                  },
+                  {
+                    "startTime": "449s",
+                    "endTime": "449.200s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "449.200s",
+                    "endTime": "449.600s",
+                    "word": "it."
+                  },
+                  {
+                    "startTime": "449.800s",
+                    "endTime": "450s",
+                    "word": "We"
+                  },
+                  {
+                    "startTime": "450s",
+                    "endTime": "450.500s",
+                    "word": "will"
+                  },
+                  {
+                    "startTime": "450.600s",
+                    "endTime": "451.200s",
+                    "word": "digest"
+                  },
+                  {
+                    "startTime": "451.200s",
+                    "endTime": "451.500s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "451.500s",
+                    "endTime": "451.900s",
+                    "word": "release"
+                  },
+                  {
+                    "startTime": "451.900s",
+                    "endTime": "452.400s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "452.400s",
+                    "endTime": "452.600s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "452.600s",
+                    "endTime": "453.100s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "453.100s",
+                    "endTime": "453.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "453.200s",
+                    "endTime": "453.500s",
+                    "word": "most"
+                  },
+                  {
+                    "startTime": "453.500s",
+                    "endTime": "454s",
+                    "word": "extreme"
+                  },
+                  {
+                    "startTime": "454s",
+                    "endTime": "454.500s",
+                    "word": "case"
+                  },
+                  {
+                    "startTime": "455.100s",
+                    "endTime": "455.300s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "455.300s",
+                    "endTime": "455.700s",
+                    "word": "will"
+                  },
+                  {
+                    "startTime": "455.900s",
+                    "endTime": "456.400s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "457.400s",
+                    "endTime": "457.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "457.600s",
+                    "endTime": "458.100s",
+                    "word": "depths"
+                  },
+                  {
+                    "startTime": "458.100s",
+                    "endTime": "458.200s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "458.200s",
+                    "endTime": "458.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "458.300s",
+                    "endTime": "458.900s",
+                    "word": "Holdings"
+                  },
+                  {
+                    "startTime": "458.900s",
+                    "endTime": "459s",
+                    "word": "from"
+                  },
+                  {
+                    "startTime": "459s",
+                    "endTime": "459.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "459.100s",
+                    "endTime": "459.900s",
+                    "word": "past"
+                  },
+                  {
+                    "startTime": "460.300s",
+                    "endTime": "460.800s",
+                    "word": "will"
+                  },
+                  {
+                    "startTime": "461.200s",
+                    "endTime": "461.600s",
+                    "word": "turn"
+                  },
+                  {
+                    "startTime": "461.600s",
+                    "endTime": "462s",
+                    "word": "into"
+                  },
+                  {
+                    "startTime": "462s",
+                    "endTime": "462.700s",
+                    "word": "vibration"
+                  },
+                  {
+                    "startTime": "462.700s",
+                    "endTime": "463.400s",
+                    "word": "undulation"
+                  },
+                  {
+                    "startTime": "463.400s",
+                    "endTime": "464s",
+                    "word": "expansion"
+                  },
+                  {
+                    "startTime": "464s",
+                    "endTime": "464.700s",
+                    "word": "contraction"
+                  },
+                  {
+                    "startTime": "464.900s",
+                    "endTime": "465.600s",
+                    "word": "energy."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " And whatever.",
+                "confidence": 0.755766,
+                "words": [
+                  {
+                    "startTime": "466.200s",
+                    "endTime": "466.800s",
+                    "word": "And"
+                  },
+                  {
+                    "startTime": "466.800s",
+                    "endTime": "467.600s",
+                    "word": "whatever."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Newt reiative value we can recycle from that we will recycle into the energy of our being and the rest just gets dissipated. It splashes ripples radiates and releases out of our being and that's the flow of impermanence as karma digester or purifier.",
+                "confidence": 0.8793129,
+                "words": [
+                  {
+                    "startTime": "469s",
+                    "endTime": "469.400s",
+                    "word": "Newt"
+                  },
+                  {
+                    "startTime": "469.400s",
+                    "endTime": "469.900s",
+                    "word": "reiative"
+                  },
+                  {
+                    "startTime": "469.900s",
+                    "endTime": "470.300s",
+                    "word": "value"
+                  },
+                  {
+                    "startTime": "470.300s",
+                    "endTime": "470.500s",
+                    "word": "we"
+                  },
+                  {
+                    "startTime": "470.500s",
+                    "endTime": "470.700s",
+                    "word": "can"
+                  },
+                  {
+                    "startTime": "470.700s",
+                    "endTime": "471.500s",
+                    "word": "recycle"
+                  },
+                  {
+                    "startTime": "471.500s",
+                    "endTime": "471.800s",
+                    "word": "from"
+                  },
+                  {
+                    "startTime": "471.800s",
+                    "endTime": "472.200s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "472.200s",
+                    "endTime": "472.400s",
+                    "word": "we"
+                  },
+                  {
+                    "startTime": "472.400s",
+                    "endTime": "472.800s",
+                    "word": "will"
+                  },
+                  {
+                    "startTime": "472.800s",
+                    "endTime": "473.700s",
+                    "word": "recycle"
+                  },
+                  {
+                    "startTime": "473.900s",
+                    "endTime": "474.200s",
+                    "word": "into"
+                  },
+                  {
+                    "startTime": "474.200s",
+                    "endTime": "474.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "474.300s",
+                    "endTime": "474.700s",
+                    "word": "energy"
+                  },
+                  {
+                    "startTime": "474.700s",
+                    "endTime": "474.800s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "474.800s",
+                    "endTime": "475s",
+                    "word": "our"
+                  },
+                  {
+                    "startTime": "475s",
+                    "endTime": "475.400s",
+                    "word": "being"
+                  },
+                  {
+                    "startTime": "475.700s",
+                    "endTime": "475.900s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "475.900s",
+                    "endTime": "476s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "476s",
+                    "endTime": "476.600s",
+                    "word": "rest"
+                  },
+                  {
+                    "startTime": "476.700s",
+                    "endTime": "477s",
+                    "word": "just"
+                  },
+                  {
+                    "startTime": "477s",
+                    "endTime": "477.500s",
+                    "word": "gets"
+                  },
+                  {
+                    "startTime": "477.500s",
+                    "endTime": "478.600s",
+                    "word": "dissipated."
+                  },
+                  {
+                    "startTime": "479.600s",
+                    "endTime": "479.800s",
+                    "word": "It"
+                  },
+                  {
+                    "startTime": "479.800s",
+                    "endTime": "480.800s",
+                    "word": "splashes"
+                  },
+                  {
+                    "startTime": "480.800s",
+                    "endTime": "481.600s",
+                    "word": "ripples"
+                  },
+                  {
+                    "startTime": "481.600s",
+                    "endTime": "482.500s",
+                    "word": "radiates"
+                  },
+                  {
+                    "startTime": "482.600s",
+                    "endTime": "482.800s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "482.800s",
+                    "endTime": "483.600s",
+                    "word": "releases"
+                  },
+                  {
+                    "startTime": "484.100s",
+                    "endTime": "484.500s",
+                    "word": "out"
+                  },
+                  {
+                    "startTime": "484.600s",
+                    "endTime": "484.700s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "484.700s",
+                    "endTime": "484.900s",
+                    "word": "our"
+                  },
+                  {
+                    "startTime": "484.900s",
+                    "endTime": "485.400s",
+                    "word": "being"
+                  },
+                  {
+                    "startTime": "485.700s",
+                    "endTime": "485.900s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "485.900s",
+                    "endTime": "486.200s",
+                    "word": "that's"
+                  },
+                  {
+                    "startTime": "486.200s",
+                    "endTime": "486.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "486.400s",
+                    "endTime": "486.700s",
+                    "word": "flow"
+                  },
+                  {
+                    "startTime": "486.700s",
+                    "endTime": "486.800s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "486.800s",
+                    "endTime": "487.700s",
+                    "word": "impermanence"
+                  },
+                  {
+                    "startTime": "487.700s",
+                    "endTime": "488.100s",
+                    "word": "as"
+                  },
+                  {
+                    "startTime": "489.300s",
+                    "endTime": "489.800s",
+                    "word": "karma"
+                  },
+                  {
+                    "startTime": "489.800s",
+                    "endTime": "490.600s",
+                    "word": "digester"
+                  },
+                  {
+                    "startTime": "490.600s",
+                    "endTime": "490.800s",
+                    "word": "or"
+                  },
+                  {
+                    "startTime": "490.800s",
+                    "endTime": "491.800s",
+                    "word": "purifier."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          }
+        ]
+      }
+    ]
+  }
+}

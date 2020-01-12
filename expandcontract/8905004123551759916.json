@@ -1,0 +1,4795 @@
+{
+  "name": "projects/923263939845/locations/us-west1/operations/8905004123551759916",
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoProgress",
+    "annotationProgress": [
+      {
+        "inputUri": "/shfvideos/expandcontract/The Dark Night by St. John of the Cross (in Spanish & English) ~ Shinzen Young.mp4",
+        "progressPercent": 100,
+        "startTime": "2019-12-27T03:11:35.797935Z",
+        "updateTime": "2019-12-27T03:17:34.518976Z"
+      }
+    ]
+  },
+  "done": true,
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoResponse",
+    "annotationResults": [
+      {
+        "inputUri": "/shfvideos/expandcontract/The Dark Night by St. John of the Cross (in Spanish & English) ~ Shinzen Young.mp4",
+        "segment": {
+          "startTimeOffset": "0s",
+          "endTimeOffset": "588.904489s"
+        },
+        "speechTranscriptions": [
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": "I'm going to recite.",
+                "confidence": 0.79990005,
+                "words": [
+                  {
+                    "startTime": "11.200s",
+                    "endTime": "11.300s",
+                    "word": "I'm"
+                  },
+                  {
+                    "startTime": "11.300s",
+                    "endTime": "11.600s",
+                    "word": "going"
+                  },
+                  {
+                    "startTime": "11.600s",
+                    "endTime": "11.700s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "11.700s",
+                    "endTime": "12.600s",
+                    "word": "recite."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " La Noche oscura The Dark Night by San Juan De La Cruz st. John of the cross",
+                "confidence": 0.7817451,
+                "words": [
+                  {
+                    "startTime": "14.300s",
+                    "endTime": "14.400s",
+                    "word": "La"
+                  },
+                  {
+                    "startTime": "14.400s",
+                    "endTime": "14.800s",
+                    "word": "Noche"
+                  },
+                  {
+                    "startTime": "14.800s",
+                    "endTime": "15.700s",
+                    "word": "oscura"
+                  },
+                  {
+                    "startTime": "16.100s",
+                    "endTime": "16.300s",
+                    "word": "The"
+                  },
+                  {
+                    "startTime": "16.300s",
+                    "endTime": "16.700s",
+                    "word": "Dark"
+                  },
+                  {
+                    "startTime": "16.700s",
+                    "endTime": "17.200s",
+                    "word": "Night"
+                  },
+                  {
+                    "startTime": "17.700s",
+                    "endTime": "17.900s",
+                    "word": "by"
+                  },
+                  {
+                    "startTime": "17.900s",
+                    "endTime": "18.200s",
+                    "word": "San"
+                  },
+                  {
+                    "startTime": "18.200s",
+                    "endTime": "18.400s",
+                    "word": "Juan"
+                  },
+                  {
+                    "startTime": "18.400s",
+                    "endTime": "18.500s",
+                    "word": "De"
+                  },
+                  {
+                    "startTime": "18.500s",
+                    "endTime": "18.700s",
+                    "word": "La"
+                  },
+                  {
+                    "startTime": "18.700s",
+                    "endTime": "19.500s",
+                    "word": "Cruz"
+                  },
+                  {
+                    "startTime": "19.800s",
+                    "endTime": "20s",
+                    "word": "st."
+                  },
+                  {
+                    "startTime": "20s",
+                    "endTime": "20.300s",
+                    "word": "John"
+                  },
+                  {
+                    "startTime": "20.300s",
+                    "endTime": "20.400s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "20.400s",
+                    "endTime": "20.500s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "20.500s",
+                    "endTime": "21.200s",
+                    "word": "cross"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " see John is considered to be one of the greatest poets in the Spanish language.",
+                "confidence": 0.7757472,
+                "words": [
+                  {
+                    "startTime": "23.400s",
+                    "endTime": "23.600s",
+                    "word": "see"
+                  },
+                  {
+                    "startTime": "23.600s",
+                    "endTime": "23.900s",
+                    "word": "John"
+                  },
+                  {
+                    "startTime": "23.900s",
+                    "endTime": "24.100s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "24.100s",
+                    "endTime": "25.300s",
+                    "word": "considered"
+                  },
+                  {
+                    "startTime": "25.800s",
+                    "endTime": "25.900s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "25.900s",
+                    "endTime": "26.600s",
+                    "word": "be"
+                  },
+                  {
+                    "startTime": "26.900s",
+                    "endTime": "27.200s",
+                    "word": "one"
+                  },
+                  {
+                    "startTime": "27.200s",
+                    "endTime": "27.200s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "27.200s",
+                    "endTime": "27.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "27.300s",
+                    "endTime": "27.800s",
+                    "word": "greatest"
+                  },
+                  {
+                    "startTime": "27.800s",
+                    "endTime": "28.400s",
+                    "word": "poets"
+                  },
+                  {
+                    "startTime": "28.400s",
+                    "endTime": "28.600s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "28.600s",
+                    "endTime": "28.800s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "28.800s",
+                    "endTime": "29.400s",
+                    "word": "Spanish"
+                  },
+                  {
+                    "startTime": "29.400s",
+                    "endTime": "30.100s",
+                    "word": "language."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " But he was also one of the greatest mistakes in the history of Christianity.",
+                "confidence": 0.8355468,
+                "words": [
+                  {
+                    "startTime": "32s",
+                    "endTime": "32.200s",
+                    "word": "But"
+                  },
+                  {
+                    "startTime": "32.200s",
+                    "endTime": "32.200s",
+                    "word": "he"
+                  },
+                  {
+                    "startTime": "32.200s",
+                    "endTime": "32.400s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "32.400s",
+                    "endTime": "33s",
+                    "word": "also"
+                  },
+                  {
+                    "startTime": "33.100s",
+                    "endTime": "33.200s",
+                    "word": "one"
+                  },
+                  {
+                    "startTime": "33.200s",
+                    "endTime": "33.300s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "33.300s",
+                    "endTime": "33.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "33.400s",
+                    "endTime": "33.800s",
+                    "word": "greatest"
+                  },
+                  {
+                    "startTime": "33.800s",
+                    "endTime": "34.700s",
+                    "word": "mistakes"
+                  },
+                  {
+                    "startTime": "35.100s",
+                    "endTime": "35.300s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "35.300s",
+                    "endTime": "35.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "35.400s",
+                    "endTime": "35.700s",
+                    "word": "history"
+                  },
+                  {
+                    "startTime": "35.700s",
+                    "endTime": "35.800s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "35.800s",
+                    "endTime": "36.700s",
+                    "word": "Christianity."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " So that brings together two extraordinary worlds.",
+                "confidence": 0.84890836,
+                "words": [
+                  {
+                    "startTime": "38.200s",
+                    "endTime": "38.500s",
+                    "word": "So"
+                  },
+                  {
+                    "startTime": "38.500s",
+                    "endTime": "38.800s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "38.800s",
+                    "endTime": "39.100s",
+                    "word": "brings"
+                  },
+                  {
+                    "startTime": "39.100s",
+                    "endTime": "39.800s",
+                    "word": "together"
+                  },
+                  {
+                    "startTime": "40.300s",
+                    "endTime": "40.500s",
+                    "word": "two"
+                  },
+                  {
+                    "startTime": "40.500s",
+                    "endTime": "41.200s",
+                    "word": "extraordinary"
+                  },
+                  {
+                    "startTime": "41.200s",
+                    "endTime": "42s",
+                    "word": "worlds."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " greatness in poetry and depth of spirituality",
+                "confidence": 0.9083729,
+                "words": [
+                  {
+                    "startTime": "43.100s",
+                    "endTime": "43.600s",
+                    "word": "greatness"
+                  },
+                  {
+                    "startTime": "43.600s",
+                    "endTime": "43.700s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "43.700s",
+                    "endTime": "44.500s",
+                    "word": "poetry"
+                  },
+                  {
+                    "startTime": "44.900s",
+                    "endTime": "45.600s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "46.600s",
+                    "endTime": "46.900s",
+                    "word": "depth"
+                  },
+                  {
+                    "startTime": "46.900s",
+                    "endTime": "47.100s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "47.100s",
+                    "endTime": "48.100s",
+                    "word": "spirituality"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " when we hear this poem",
+                "confidence": 0.86140406,
+                "words": [
+                  {
+                    "startTime": "51.200s",
+                    "endTime": "51.400s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "51.400s",
+                    "endTime": "51.900s",
+                    "word": "we"
+                  },
+                  {
+                    "startTime": "52.200s",
+                    "endTime": "52.500s",
+                    "word": "hear"
+                  },
+                  {
+                    "startTime": "52.500s",
+                    "endTime": "52.700s",
+                    "word": "this"
+                  },
+                  {
+                    "startTime": "52.700s",
+                    "endTime": "53.300s",
+                    "word": "poem"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " At the end it leaves us with two tastes simultaneously, which is the greatness of it.",
+                "confidence": 0.86714983,
+                "words": [
+                  {
+                    "startTime": "55.300s",
+                    "endTime": "55.500s",
+                    "word": "At"
+                  },
+                  {
+                    "startTime": "55.500s",
+                    "endTime": "55.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "55.600s",
+                    "endTime": "55.800s",
+                    "word": "end"
+                  },
+                  {
+                    "startTime": "55.800s",
+                    "endTime": "56s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "56s",
+                    "endTime": "56.400s",
+                    "word": "leaves"
+                  },
+                  {
+                    "startTime": "56.400s",
+                    "endTime": "56.800s",
+                    "word": "us"
+                  },
+                  {
+                    "startTime": "56.800s",
+                    "endTime": "57.200s",
+                    "word": "with"
+                  },
+                  {
+                    "startTime": "57.200s",
+                    "endTime": "57.400s",
+                    "word": "two"
+                  },
+                  {
+                    "startTime": "57.400s",
+                    "endTime": "58.400s",
+                    "word": "tastes"
+                  },
+                  {
+                    "startTime": "58.500s",
+                    "endTime": "59.700s",
+                    "word": "simultaneously,"
+                  },
+                  {
+                    "startTime": "59.700s",
+                    "endTime": "60s",
+                    "word": "which"
+                  },
+                  {
+                    "startTime": "60s",
+                    "endTime": "60.300s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "60.300s",
+                    "endTime": "60.500s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "60.500s",
+                    "endTime": "61.200s",
+                    "word": "greatness"
+                  },
+                  {
+                    "startTime": "61.200s",
+                    "endTime": "61.500s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "61.500s",
+                    "endTime": "61.800s",
+                    "word": "it."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " It's able to convey in a poetic way as opposed to a prosaic way.",
+                "confidence": 0.91236544,
+                "words": [
+                  {
+                    "startTime": "64s",
+                    "endTime": "64.300s",
+                    "word": "It's"
+                  },
+                  {
+                    "startTime": "64.300s",
+                    "endTime": "64.500s",
+                    "word": "able"
+                  },
+                  {
+                    "startTime": "64.500s",
+                    "endTime": "64.600s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "64.600s",
+                    "endTime": "65.300s",
+                    "word": "convey"
+                  },
+                  {
+                    "startTime": "65.300s",
+                    "endTime": "65.400s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "65.400s",
+                    "endTime": "65.500s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "65.500s",
+                    "endTime": "66.200s",
+                    "word": "poetic"
+                  },
+                  {
+                    "startTime": "66.200s",
+                    "endTime": "66.700s",
+                    "word": "way"
+                  },
+                  {
+                    "startTime": "67.100s",
+                    "endTime": "67.300s",
+                    "word": "as"
+                  },
+                  {
+                    "startTime": "67.300s",
+                    "endTime": "67.900s",
+                    "word": "opposed"
+                  },
+                  {
+                    "startTime": "67.900s",
+                    "endTime": "68.300s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "68.400s",
+                    "endTime": "69.100s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "69.100s",
+                    "endTime": "69.800s",
+                    "word": "prosaic"
+                  },
+                  {
+                    "startTime": "69.800s",
+                    "endTime": "70.200s",
+                    "word": "way."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " the essential character of mystical experience, which is paradoxical",
+                "confidence": 0.8663179,
+                "words": [
+                  {
+                    "startTime": "72s",
+                    "endTime": "72.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "73.900s",
+                    "endTime": "74.600s",
+                    "word": "essential"
+                  },
+                  {
+                    "startTime": "74.600s",
+                    "endTime": "75.400s",
+                    "word": "character"
+                  },
+                  {
+                    "startTime": "75.500s",
+                    "endTime": "75.900s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "75.900s",
+                    "endTime": "76.400s",
+                    "word": "mystical"
+                  },
+                  {
+                    "startTime": "76.400s",
+                    "endTime": "77.100s",
+                    "word": "experience,"
+                  },
+                  {
+                    "startTime": "77.100s",
+                    "endTime": "77.400s",
+                    "word": "which"
+                  },
+                  {
+                    "startTime": "77.400s",
+                    "endTime": "77.900s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "78s",
+                    "endTime": "79s",
+                    "word": "paradoxical"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " mystical experience is",
+                "confidence": 0.7991827,
+                "words": [
+                  {
+                    "startTime": "80.400s",
+                    "endTime": "80.900s",
+                    "word": "mystical"
+                  },
+                  {
+                    "startTime": "80.900s",
+                    "endTime": "81.600s",
+                    "word": "experience"
+                  },
+                  {
+                    "startTime": "81.600s",
+                    "endTime": "82.400s",
+                    "word": "is"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Experienced it is simultaneously deeply.",
+                "confidence": 0.7915389,
+                "words": [
+                  {
+                    "startTime": "83.800s",
+                    "endTime": "84.500s",
+                    "word": "Experienced"
+                  },
+                  {
+                    "startTime": "84.500s",
+                    "endTime": "84.600s",
+                    "word": "it"
+                  },
+                  {
+                    "startTime": "84.600s",
+                    "endTime": "84.800s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "84.800s",
+                    "endTime": "86.200s",
+                    "word": "simultaneously"
+                  },
+                  {
+                    "startTime": "86.400s",
+                    "endTime": "87.400s",
+                    "word": "deeply."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " sensorially rich",
+                "confidence": 0.8041017,
+                "words": [
+                  {
+                    "startTime": "88.700s",
+                    "endTime": "89.900s",
+                    "word": "sensorially"
+                  },
+                  {
+                    "startTime": "89.900s",
+                    "endTime": "90.600s",
+                    "word": "rich"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " and at the same time utterly vacuous",
+                "confidence": 0.85622287,
+                "words": [
+                  {
+                    "startTime": "91.800s",
+                    "endTime": "92s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "92s",
+                    "endTime": "92.100s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "92.100s",
+                    "endTime": "92.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "92.200s",
+                    "endTime": "92.500s",
+                    "word": "same"
+                  },
+                  {
+                    "startTime": "92.500s",
+                    "endTime": "93s",
+                    "word": "time"
+                  },
+                  {
+                    "startTime": "93s",
+                    "endTime": "93.800s",
+                    "word": "utterly"
+                  },
+                  {
+                    "startTime": "94.200s",
+                    "endTime": "95.200s",
+                    "word": "vacuous"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " and benighted",
+                "confidence": 0.82244796,
+                "words": [
+                  {
+                    "startTime": "96.300s",
+                    "endTime": "97.100s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "99s",
+                    "endTime": "100s",
+                    "word": "benighted"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " He's able to.",
+                "confidence": 0.7597805,
+                "words": [
+                  {
+                    "startTime": "103.100s",
+                    "endTime": "103.300s",
+                    "word": "He's"
+                  },
+                  {
+                    "startTime": "103.300s",
+                    "endTime": "103.600s",
+                    "word": "able"
+                  },
+                  {
+                    "startTime": "103.600s",
+                    "endTime": "104.200s",
+                    "word": "to."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Give us the taste of two things simultaneously.",
+                "confidence": 0.84367245,
+                "words": [
+                  {
+                    "startTime": "105.600s",
+                    "endTime": "105.800s",
+                    "word": "Give"
+                  },
+                  {
+                    "startTime": "105.800s",
+                    "endTime": "106s",
+                    "word": "us"
+                  },
+                  {
+                    "startTime": "106s",
+                    "endTime": "106.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "106.200s",
+                    "endTime": "106.900s",
+                    "word": "taste"
+                  },
+                  {
+                    "startTime": "106.900s",
+                    "endTime": "107s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "107s",
+                    "endTime": "107.200s",
+                    "word": "two"
+                  },
+                  {
+                    "startTime": "107.200s",
+                    "endTime": "107.600s",
+                    "word": "things"
+                  },
+                  {
+                    "startTime": "107.600s",
+                    "endTime": "108.900s",
+                    "word": "simultaneously."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " On the surface. It seems to be talking about a young girls sneaking out secretly at night for a romantic.",
+                "confidence": 0.8222185,
+                "words": [
+                  {
+                    "startTime": "111.400s",
+                    "endTime": "111.500s",
+                    "word": "On"
+                  },
+                  {
+                    "startTime": "111.500s",
+                    "endTime": "111.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "111.600s",
+                    "endTime": "112.400s",
+                    "word": "surface."
+                  },
+                  {
+                    "startTime": "112.500s",
+                    "endTime": "112.600s",
+                    "word": "It"
+                  },
+                  {
+                    "startTime": "112.600s",
+                    "endTime": "113s",
+                    "word": "seems"
+                  },
+                  {
+                    "startTime": "113s",
+                    "endTime": "113s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "113s",
+                    "endTime": "113.200s",
+                    "word": "be"
+                  },
+                  {
+                    "startTime": "113.200s",
+                    "endTime": "113.600s",
+                    "word": "talking"
+                  },
+                  {
+                    "startTime": "113.600s",
+                    "endTime": "114.300s",
+                    "word": "about"
+                  },
+                  {
+                    "startTime": "115s",
+                    "endTime": "115.100s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "115.100s",
+                    "endTime": "115.400s",
+                    "word": "young"
+                  },
+                  {
+                    "startTime": "115.400s",
+                    "endTime": "115.800s",
+                    "word": "girls"
+                  },
+                  {
+                    "startTime": "115.800s",
+                    "endTime": "116.400s",
+                    "word": "sneaking"
+                  },
+                  {
+                    "startTime": "116.400s",
+                    "endTime": "116.600s",
+                    "word": "out"
+                  },
+                  {
+                    "startTime": "116.600s",
+                    "endTime": "117.200s",
+                    "word": "secretly"
+                  },
+                  {
+                    "startTime": "117.200s",
+                    "endTime": "117.400s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "117.400s",
+                    "endTime": "117.900s",
+                    "word": "night"
+                  },
+                  {
+                    "startTime": "118.100s",
+                    "endTime": "118.700s",
+                    "word": "for"
+                  },
+                  {
+                    "startTime": "119.100s",
+                    "endTime": "119.300s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "119.300s",
+                    "endTime": "120.300s",
+                    "word": "romantic."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Adventure",
+                "confidence": 0.6504605,
+                "words": [
+                  {
+                    "startTime": "122s",
+                    "endTime": "122.700s",
+                    "word": "Adventure"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " But of course, it's really a direct description of his own experience.",
+                "confidence": 0.9090951,
+                "words": [
+                  {
+                    "startTime": "125.300s",
+                    "endTime": "125.400s",
+                    "word": "But"
+                  },
+                  {
+                    "startTime": "125.400s",
+                    "endTime": "125.500s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "125.500s",
+                    "endTime": "126.100s",
+                    "word": "course,"
+                  },
+                  {
+                    "startTime": "126.400s",
+                    "endTime": "126.600s",
+                    "word": "it's"
+                  },
+                  {
+                    "startTime": "126.600s",
+                    "endTime": "127.200s",
+                    "word": "really"
+                  },
+                  {
+                    "startTime": "127.200s",
+                    "endTime": "127.400s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "127.400s",
+                    "endTime": "127.800s",
+                    "word": "direct"
+                  },
+                  {
+                    "startTime": "127.800s",
+                    "endTime": "128.600s",
+                    "word": "description"
+                  },
+                  {
+                    "startTime": "128.700s",
+                    "endTime": "128.900s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "128.900s",
+                    "endTime": "129.300s",
+                    "word": "his"
+                  },
+                  {
+                    "startTime": "129.400s",
+                    "endTime": "129.700s",
+                    "word": "own"
+                  },
+                  {
+                    "startTime": "129.700s",
+                    "endTime": "130.700s",
+                    "word": "experience."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " of Oneness with the spiritual source",
+                "confidence": 0.8354534,
+                "words": [
+                  {
+                    "startTime": "133.700s",
+                    "endTime": "134.200s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "134.200s",
+                    "endTime": "134.800s",
+                    "word": "Oneness"
+                  },
+                  {
+                    "startTime": "134.800s",
+                    "endTime": "135s",
+                    "word": "with"
+                  },
+                  {
+                    "startTime": "135s",
+                    "endTime": "135.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "135.100s",
+                    "endTime": "135.700s",
+                    "word": "spiritual"
+                  },
+                  {
+                    "startTime": "135.700s",
+                    "endTime": "136.500s",
+                    "word": "source"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " in a state so deep that self and world as a thing have disappeared as but yet their richness has reached its fullest form at exactly the same time in exactly the same experience.",
+                "confidence": 0.90454334,
+                "words": [
+                  {
+                    "startTime": "138.300s",
+                    "endTime": "138.500s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "138.500s",
+                    "endTime": "138.600s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "138.600s",
+                    "endTime": "139.300s",
+                    "word": "state"
+                  },
+                  {
+                    "startTime": "139.300s",
+                    "endTime": "139.600s",
+                    "word": "so"
+                  },
+                  {
+                    "startTime": "139.600s",
+                    "endTime": "140.400s",
+                    "word": "deep"
+                  },
+                  {
+                    "startTime": "140.900s",
+                    "endTime": "141.500s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "142s",
+                    "endTime": "142.300s",
+                    "word": "self"
+                  },
+                  {
+                    "startTime": "142.300s",
+                    "endTime": "142.500s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "142.500s",
+                    "endTime": "143s",
+                    "word": "world"
+                  },
+                  {
+                    "startTime": "143s",
+                    "endTime": "143.200s",
+                    "word": "as"
+                  },
+                  {
+                    "startTime": "143.200s",
+                    "endTime": "143.300s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "143.300s",
+                    "endTime": "143.900s",
+                    "word": "thing"
+                  },
+                  {
+                    "startTime": "144s",
+                    "endTime": "144.100s",
+                    "word": "have"
+                  },
+                  {
+                    "startTime": "144.100s",
+                    "endTime": "145s",
+                    "word": "disappeared"
+                  },
+                  {
+                    "startTime": "145.900s",
+                    "endTime": "146.300s",
+                    "word": "as"
+                  },
+                  {
+                    "startTime": "146.500s",
+                    "endTime": "146.800s",
+                    "word": "but"
+                  },
+                  {
+                    "startTime": "146.800s",
+                    "endTime": "147.300s",
+                    "word": "yet"
+                  },
+                  {
+                    "startTime": "148.300s",
+                    "endTime": "148.500s",
+                    "word": "their"
+                  },
+                  {
+                    "startTime": "148.500s",
+                    "endTime": "149.300s",
+                    "word": "richness"
+                  },
+                  {
+                    "startTime": "150s",
+                    "endTime": "150.300s",
+                    "word": "has"
+                  },
+                  {
+                    "startTime": "150.300s",
+                    "endTime": "151.200s",
+                    "word": "reached"
+                  },
+                  {
+                    "startTime": "151.700s",
+                    "endTime": "152.300s",
+                    "word": "its"
+                  },
+                  {
+                    "startTime": "152.800s",
+                    "endTime": "153.300s",
+                    "word": "fullest"
+                  },
+                  {
+                    "startTime": "153.300s",
+                    "endTime": "154s",
+                    "word": "form"
+                  },
+                  {
+                    "startTime": "154.200s",
+                    "endTime": "154.400s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "154.400s",
+                    "endTime": "155.400s",
+                    "word": "exactly"
+                  },
+                  {
+                    "startTime": "155.900s",
+                    "endTime": "156s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "156s",
+                    "endTime": "156.300s",
+                    "word": "same"
+                  },
+                  {
+                    "startTime": "156.300s",
+                    "endTime": "156.900s",
+                    "word": "time"
+                  },
+                  {
+                    "startTime": "157.200s",
+                    "endTime": "157.400s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "157.400s",
+                    "endTime": "158.400s",
+                    "word": "exactly"
+                  },
+                  {
+                    "startTime": "158.800s",
+                    "endTime": "158.900s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "158.900s",
+                    "endTime": "159.200s",
+                    "word": "same"
+                  },
+                  {
+                    "startTime": "159.200s",
+                    "endTime": "160s",
+                    "word": "experience."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " So we can taste after you are at the end of the poem If you sort of close your eyes, you'll see you're left with the paradoxical Taste of mystical experience.",
+                "confidence": 0.9025768,
+                "words": [
+                  {
+                    "startTime": "161.600s",
+                    "endTime": "161.900s",
+                    "word": "So"
+                  },
+                  {
+                    "startTime": "161.900s",
+                    "endTime": "162s",
+                    "word": "we"
+                  },
+                  {
+                    "startTime": "162s",
+                    "endTime": "162.200s",
+                    "word": "can"
+                  },
+                  {
+                    "startTime": "162.200s",
+                    "endTime": "162.900s",
+                    "word": "taste"
+                  },
+                  {
+                    "startTime": "162.900s",
+                    "endTime": "163.300s",
+                    "word": "after"
+                  },
+                  {
+                    "startTime": "163.300s",
+                    "endTime": "163.600s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "163.600s",
+                    "endTime": "163.900s",
+                    "word": "are"
+                  },
+                  {
+                    "startTime": "164.300s",
+                    "endTime": "164.500s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "164.500s",
+                    "endTime": "164.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "164.600s",
+                    "endTime": "164.800s",
+                    "word": "end"
+                  },
+                  {
+                    "startTime": "164.800s",
+                    "endTime": "164.900s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "164.900s",
+                    "endTime": "165s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "165s",
+                    "endTime": "165.700s",
+                    "word": "poem"
+                  },
+                  {
+                    "startTime": "166.400s",
+                    "endTime": "166.500s",
+                    "word": "If"
+                  },
+                  {
+                    "startTime": "166.500s",
+                    "endTime": "166.700s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "166.700s",
+                    "endTime": "166.900s",
+                    "word": "sort"
+                  },
+                  {
+                    "startTime": "166.900s",
+                    "endTime": "166.900s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "166.900s",
+                    "endTime": "167.300s",
+                    "word": "close"
+                  },
+                  {
+                    "startTime": "167.300s",
+                    "endTime": "167.600s",
+                    "word": "your"
+                  },
+                  {
+                    "startTime": "167.600s",
+                    "endTime": "168s",
+                    "word": "eyes,"
+                  },
+                  {
+                    "startTime": "168.700s",
+                    "endTime": "168.900s",
+                    "word": "you'll"
+                  },
+                  {
+                    "startTime": "168.900s",
+                    "endTime": "169.100s",
+                    "word": "see"
+                  },
+                  {
+                    "startTime": "169.100s",
+                    "endTime": "169.300s",
+                    "word": "you're"
+                  },
+                  {
+                    "startTime": "169.300s",
+                    "endTime": "169.700s",
+                    "word": "left"
+                  },
+                  {
+                    "startTime": "169.700s",
+                    "endTime": "170.200s",
+                    "word": "with"
+                  },
+                  {
+                    "startTime": "170.200s",
+                    "endTime": "170.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "170.300s",
+                    "endTime": "171.300s",
+                    "word": "paradoxical"
+                  },
+                  {
+                    "startTime": "171.300s",
+                    "endTime": "172s",
+                    "word": "Taste"
+                  },
+                  {
+                    "startTime": "172.600s",
+                    "endTime": "172.800s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "172.800s",
+                    "endTime": "173.300s",
+                    "word": "mystical"
+                  },
+                  {
+                    "startTime": "173.300s",
+                    "endTime": "174.300s",
+                    "word": "experience."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " a sense of great richness and fulfillment and a sense of utter vacuity",
+                "confidence": 0.90795624,
+                "words": [
+                  {
+                    "startTime": "175.900s",
+                    "endTime": "176.100s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "176.100s",
+                    "endTime": "176.500s",
+                    "word": "sense"
+                  },
+                  {
+                    "startTime": "176.500s",
+                    "endTime": "176.900s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "177.400s",
+                    "endTime": "178.200s",
+                    "word": "great"
+                  },
+                  {
+                    "startTime": "179.200s",
+                    "endTime": "180.100s",
+                    "word": "richness"
+                  },
+                  {
+                    "startTime": "181.100s",
+                    "endTime": "181.400s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "181.400s",
+                    "endTime": "182.500s",
+                    "word": "fulfillment"
+                  },
+                  {
+                    "startTime": "183.100s",
+                    "endTime": "183.300s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "183.300s",
+                    "endTime": "183.300s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "183.300s",
+                    "endTime": "183.700s",
+                    "word": "sense"
+                  },
+                  {
+                    "startTime": "183.700s",
+                    "endTime": "184s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "184.200s",
+                    "endTime": "184.600s",
+                    "word": "utter"
+                  },
+                  {
+                    "startTime": "184.600s",
+                    "endTime": "185.600s",
+                    "word": "vacuity"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Timeless spaceless transparency",
+                "confidence": 0.90398246,
+                "words": [
+                  {
+                    "startTime": "186.800s",
+                    "endTime": "187.700s",
+                    "word": "Timeless"
+                  },
+                  {
+                    "startTime": "187.800s",
+                    "endTime": "188.800s",
+                    "word": "spaceless"
+                  },
+                  {
+                    "startTime": "188.800s",
+                    "endTime": "189.900s",
+                    "word": "transparency"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " both at exactly the same time coming from exactly the same source.",
+                "confidence": 0.87668365,
+                "words": [
+                  {
+                    "startTime": "191.200s",
+                    "endTime": "191.500s",
+                    "word": "both"
+                  },
+                  {
+                    "startTime": "191.500s",
+                    "endTime": "191.600s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "191.600s",
+                    "endTime": "192.200s",
+                    "word": "exactly"
+                  },
+                  {
+                    "startTime": "192.200s",
+                    "endTime": "192.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "192.300s",
+                    "endTime": "192.600s",
+                    "word": "same"
+                  },
+                  {
+                    "startTime": "192.600s",
+                    "endTime": "193.100s",
+                    "word": "time"
+                  },
+                  {
+                    "startTime": "193.900s",
+                    "endTime": "194.300s",
+                    "word": "coming"
+                  },
+                  {
+                    "startTime": "194.300s",
+                    "endTime": "194.700s",
+                    "word": "from"
+                  },
+                  {
+                    "startTime": "194.800s",
+                    "endTime": "195.800s",
+                    "word": "exactly"
+                  },
+                  {
+                    "startTime": "196.100s",
+                    "endTime": "196.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "196.200s",
+                    "endTime": "196.500s",
+                    "word": "same"
+                  },
+                  {
+                    "startTime": "196.500s",
+                    "endTime": "197.100s",
+                    "word": "source."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " And when I know chair or scooter.",
+                "confidence": 0.5471652,
+                "words": [
+                  {
+                    "startTime": "210.100s",
+                    "endTime": "210.400s",
+                    "word": "And"
+                  },
+                  {
+                    "startTime": "210.400s",
+                    "endTime": "210.600s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "210.600s",
+                    "endTime": "210.700s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "210.700s",
+                    "endTime": "210.800s",
+                    "word": "know"
+                  },
+                  {
+                    "startTime": "210.800s",
+                    "endTime": "211.200s",
+                    "word": "chair"
+                  },
+                  {
+                    "startTime": "211.200s",
+                    "endTime": "211.300s",
+                    "word": "or"
+                  },
+                  {
+                    "startTime": "211.300s",
+                    "endTime": "211.900s",
+                    "word": "scooter."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " On a dark night for Nancy are ceremonies in Florida.",
+                "confidence": 0.7924853,
+                "words": [
+                  {
+                    "startTime": "213.600s",
+                    "endTime": "213.700s",
+                    "word": "On"
+                  },
+                  {
+                    "startTime": "213.700s",
+                    "endTime": "213.800s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "213.800s",
+                    "endTime": "214.200s",
+                    "word": "dark"
+                  },
+                  {
+                    "startTime": "214.200s",
+                    "endTime": "214.600s",
+                    "word": "night"
+                  },
+                  {
+                    "startTime": "216.100s",
+                    "endTime": "216.200s",
+                    "word": "for"
+                  },
+                  {
+                    "startTime": "216.200s",
+                    "endTime": "216.700s",
+                    "word": "Nancy"
+                  },
+                  {
+                    "startTime": "216.700s",
+                    "endTime": "216.800s",
+                    "word": "are"
+                  },
+                  {
+                    "startTime": "216.800s",
+                    "endTime": "217.700s",
+                    "word": "ceremonies"
+                  },
+                  {
+                    "startTime": "217.700s",
+                    "endTime": "218.100s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "218.100s",
+                    "endTime": "219s",
+                    "word": "Florida."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " on fire with longing for love",
+                "confidence": 0.8919516,
+                "words": [
+                  {
+                    "startTime": "220.300s",
+                    "endTime": "220.500s",
+                    "word": "on"
+                  },
+                  {
+                    "startTime": "220.500s",
+                    "endTime": "221.300s",
+                    "word": "fire"
+                  },
+                  {
+                    "startTime": "222s",
+                    "endTime": "222.300s",
+                    "word": "with"
+                  },
+                  {
+                    "startTime": "222.300s",
+                    "endTime": "222.900s",
+                    "word": "longing"
+                  },
+                  {
+                    "startTime": "222.900s",
+                    "endTime": "223.100s",
+                    "word": "for"
+                  },
+                  {
+                    "startTime": "223.100s",
+                    "endTime": "223.700s",
+                    "word": "love"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Oh dichos servant Torah.",
+                "confidence": 0.64686716,
+                "words": [
+                  {
+                    "startTime": "225.100s",
+                    "endTime": "225.500s",
+                    "word": "Oh"
+                  },
+                  {
+                    "startTime": "225.500s",
+                    "endTime": "226.100s",
+                    "word": "dichos"
+                  },
+                  {
+                    "startTime": "226.100s",
+                    "endTime": "226.600s",
+                    "word": "servant"
+                  },
+                  {
+                    "startTime": "226.600s",
+                    "endTime": "227.500s",
+                    "word": "Torah."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Oh happy venture.",
+                "confidence": 0.82059634,
+                "words": [
+                  {
+                    "startTime": "228.800s",
+                    "endTime": "229.400s",
+                    "word": "Oh"
+                  },
+                  {
+                    "startTime": "229.400s",
+                    "endTime": "229.800s",
+                    "word": "happy"
+                  },
+                  {
+                    "startTime": "229.800s",
+                    "endTime": "230.500s",
+                    "word": "venture."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Sally",
+                "confidence": 0.6810798,
+                "words": [
+                  {
+                    "startTime": "231.800s",
+                    "endTime": "232.500s",
+                    "word": "Sally"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " I left.",
+                "confidence": 0.7439616,
+                "words": [
+                  {
+                    "startTime": "233.900s",
+                    "endTime": "234s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "234s",
+                    "endTime": "234.900s",
+                    "word": "left."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Since there are no Dada unseen.",
+                "confidence": 0.5894729,
+                "words": [
+                  {
+                    "startTime": "235.700s",
+                    "endTime": "236.100s",
+                    "word": "Since"
+                  },
+                  {
+                    "startTime": "236.100s",
+                    "endTime": "236.200s",
+                    "word": "there"
+                  },
+                  {
+                    "startTime": "236.200s",
+                    "endTime": "236.300s",
+                    "word": "are"
+                  },
+                  {
+                    "startTime": "236.300s",
+                    "endTime": "236.600s",
+                    "word": "no"
+                  },
+                  {
+                    "startTime": "236.600s",
+                    "endTime": "237.400s",
+                    "word": "Dada"
+                  },
+                  {
+                    "startTime": "238.400s",
+                    "endTime": "239.400s",
+                    "word": "unseen."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Stand-alone yummy Casa. So sagada",
+                "confidence": 0.6607478,
+                "words": [
+                  {
+                    "startTime": "240.500s",
+                    "endTime": "241.300s",
+                    "word": "Stand-alone"
+                  },
+                  {
+                    "startTime": "241.300s",
+                    "endTime": "241.700s",
+                    "word": "yummy"
+                  },
+                  {
+                    "startTime": "241.700s",
+                    "endTime": "242.600s",
+                    "word": "Casa."
+                  },
+                  {
+                    "startTime": "242.900s",
+                    "endTime": "243.300s",
+                    "word": "So"
+                  },
+                  {
+                    "startTime": "243.300s",
+                    "endTime": "244.400s",
+                    "word": "sagada"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " my house being still at last.",
+                "confidence": 0.86541903,
+                "words": [
+                  {
+                    "startTime": "245.600s",
+                    "endTime": "245.900s",
+                    "word": "my"
+                  },
+                  {
+                    "startTime": "245.900s",
+                    "endTime": "246.600s",
+                    "word": "house"
+                  },
+                  {
+                    "startTime": "247.200s",
+                    "endTime": "247.600s",
+                    "word": "being"
+                  },
+                  {
+                    "startTime": "247.600s",
+                    "endTime": "248.300s",
+                    "word": "still"
+                  },
+                  {
+                    "startTime": "249.200s",
+                    "endTime": "249.500s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "249.500s",
+                    "endTime": "250.300s",
+                    "word": "last."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " our scooter has",
+                "confidence": 0.9128386,
+                "words": [
+                  {
+                    "startTime": "253.500s",
+                    "endTime": "253.800s",
+                    "word": "our"
+                  },
+                  {
+                    "startTime": "253.800s",
+                    "endTime": "254.200s",
+                    "word": "scooter"
+                  },
+                  {
+                    "startTime": "254.200s",
+                    "endTime": "254.800s",
+                    "word": "has"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " in darkness",
+                "confidence": 0.8003605,
+                "words": [
+                  {
+                    "startTime": "255.900s",
+                    "endTime": "256.100s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "256.100s",
+                    "endTime": "257s",
+                    "word": "darkness"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " He said Yura and safe palasa creta Escala.",
+                "confidence": 0.76454675,
+                "words": [
+                  {
+                    "startTime": "258.300s",
+                    "endTime": "258.400s",
+                    "word": "He"
+                  },
+                  {
+                    "startTime": "258.400s",
+                    "endTime": "258.700s",
+                    "word": "said"
+                  },
+                  {
+                    "startTime": "258.700s",
+                    "endTime": "259.200s",
+                    "word": "Yura"
+                  },
+                  {
+                    "startTime": "260.300s",
+                    "endTime": "260.500s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "260.500s",
+                    "endTime": "261.300s",
+                    "word": "safe"
+                  },
+                  {
+                    "startTime": "262.400s",
+                    "endTime": "262.900s",
+                    "word": "palasa"
+                  },
+                  {
+                    "startTime": "262.900s",
+                    "endTime": "263.400s",
+                    "word": "creta"
+                  },
+                  {
+                    "startTime": "263.400s",
+                    "endTime": "264.200s",
+                    "word": "Escala."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " by the secret stairway",
+                "confidence": 0.74904037,
+                "words": [
+                  {
+                    "startTime": "265.300s",
+                    "endTime": "265.500s",
+                    "word": "by"
+                  },
+                  {
+                    "startTime": "265.500s",
+                    "endTime": "265.600s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "265.600s",
+                    "endTime": "266.400s",
+                    "word": "secret"
+                  },
+                  {
+                    "startTime": "266.500s",
+                    "endTime": "267.500s",
+                    "word": "stairway"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Des prasada",
+                "confidence": 0.6427458,
+                "words": [
+                  {
+                    "startTime": "268.400s",
+                    "endTime": "268.800s",
+                    "word": "Des"
+                  },
+                  {
+                    "startTime": "268.800s",
+                    "endTime": "269.900s",
+                    "word": "prasada"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " disguised",
+                "confidence": 0.6914157,
+                "words": [
+                  {
+                    "startTime": "270.900s",
+                    "endTime": "272.100s",
+                    "word": "disguised"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " all the choice of Endora",
+                "confidence": 0.7658644,
+                "words": [
+                  {
+                    "startTime": "273.300s",
+                    "endTime": "273.800s",
+                    "word": "all"
+                  },
+                  {
+                    "startTime": "273.800s",
+                    "endTime": "274s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "274s",
+                    "endTime": "274.500s",
+                    "word": "choice"
+                  },
+                  {
+                    "startTime": "274.500s",
+                    "endTime": "274.600s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "274.600s",
+                    "endTime": "275.700s",
+                    "word": "Endora"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Oh happy venture.",
+                "confidence": 0.8996437,
+                "words": [
+                  {
+                    "startTime": "277s",
+                    "endTime": "277.700s",
+                    "word": "Oh"
+                  },
+                  {
+                    "startTime": "277.700s",
+                    "endTime": "278.200s",
+                    "word": "happy"
+                  },
+                  {
+                    "startTime": "278.200s",
+                    "endTime": "278.900s",
+                    "word": "venture."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Oscar has",
+                "confidence": 0.9128386,
+                "words": [
+                  {
+                    "startTime": "280.400s",
+                    "endTime": "281.100s",
+                    "word": "Oscar"
+                  },
+                  {
+                    "startTime": "281.100s",
+                    "endTime": "281.800s",
+                    "word": "has"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " in darkness",
+                "confidence": 0.85944545,
+                "words": [
+                  {
+                    "startTime": "283.100s",
+                    "endTime": "283.400s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "283.400s",
+                    "endTime": "284.300s",
+                    "word": "darkness"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Iain, Salada and concealed",
+                "confidence": 0.65883744,
+                "words": [
+                  {
+                    "startTime": "285.400s",
+                    "endTime": "286s",
+                    "word": "Iain,"
+                  },
+                  {
+                    "startTime": "286s",
+                    "endTime": "286.900s",
+                    "word": "Salada"
+                  },
+                  {
+                    "startTime": "287.900s",
+                    "endTime": "288.300s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "288.300s",
+                    "endTime": "289.500s",
+                    "word": "concealed"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Estando, yamakasi. So sagada my house being still.",
+                "confidence": 0.8143319,
+                "words": [
+                  {
+                    "startTime": "291.100s",
+                    "endTime": "292.500s",
+                    "word": "Estando,"
+                  },
+                  {
+                    "startTime": "292.500s",
+                    "endTime": "294s",
+                    "word": "yamakasi."
+                  },
+                  {
+                    "startTime": "294.100s",
+                    "endTime": "294.600s",
+                    "word": "So"
+                  },
+                  {
+                    "startTime": "294.600s",
+                    "endTime": "295.700s",
+                    "word": "sagada"
+                  },
+                  {
+                    "startTime": "296.700s",
+                    "endTime": "297s",
+                    "word": "my"
+                  },
+                  {
+                    "startTime": "297s",
+                    "endTime": "297.900s",
+                    "word": "house"
+                  },
+                  {
+                    "startTime": "298.500s",
+                    "endTime": "298.900s",
+                    "word": "being"
+                  },
+                  {
+                    "startTime": "298.900s",
+                    "endTime": "299.600s",
+                    "word": "still."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " at last",
+                "confidence": 0.91283864,
+                "words": [
+                  {
+                    "startTime": "300.800s",
+                    "endTime": "301s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "301s",
+                    "endTime": "302s",
+                    "word": "last"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " En La Noche de Sousa",
+                "confidence": 0.8154891,
+                "words": [
+                  {
+                    "startTime": "304.100s",
+                    "endTime": "304.300s",
+                    "word": "En"
+                  },
+                  {
+                    "startTime": "304.300s",
+                    "endTime": "304.400s",
+                    "word": "La"
+                  },
+                  {
+                    "startTime": "304.400s",
+                    "endTime": "304.900s",
+                    "word": "Noche"
+                  },
+                  {
+                    "startTime": "304.900s",
+                    "endTime": "305s",
+                    "word": "de"
+                  },
+                  {
+                    "startTime": "305s",
+                    "endTime": "305.900s",
+                    "word": "Sousa"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " into the happy night",
+                "confidence": 0.8700202,
+                "words": [
+                  {
+                    "startTime": "307.700s",
+                    "endTime": "308.100s",
+                    "word": "into"
+                  },
+                  {
+                    "startTime": "308.100s",
+                    "endTime": "308.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "308.200s",
+                    "endTime": "308.600s",
+                    "word": "happy"
+                  },
+                  {
+                    "startTime": "308.600s",
+                    "endTime": "309.100s",
+                    "word": "night"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " and Secreto in secret",
+                "confidence": 0.84584284,
+                "words": [
+                  {
+                    "startTime": "311.300s",
+                    "endTime": "311.500s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "311.500s",
+                    "endTime": "312.500s",
+                    "word": "Secreto"
+                  },
+                  {
+                    "startTime": "313.500s",
+                    "endTime": "313.700s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "313.700s",
+                    "endTime": "314.500s",
+                    "word": "secret"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Kennedy maybe. Yeah.",
+                "confidence": 0.68245375,
+                "words": [
+                  {
+                    "startTime": "315.500s",
+                    "endTime": "316.300s",
+                    "word": "Kennedy"
+                  },
+                  {
+                    "startTime": "316.300s",
+                    "endTime": "316.900s",
+                    "word": "maybe."
+                  },
+                  {
+                    "startTime": "316.900s",
+                    "endTime": "317.300s",
+                    "word": "Yeah."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " For no one saw me.",
+                "confidence": 0.8659924,
+                "words": [
+                  {
+                    "startTime": "318.500s",
+                    "endTime": "318.700s",
+                    "word": "For"
+                  },
+                  {
+                    "startTime": "318.700s",
+                    "endTime": "318.900s",
+                    "word": "no"
+                  },
+                  {
+                    "startTime": "318.900s",
+                    "endTime": "319.100s",
+                    "word": "one"
+                  },
+                  {
+                    "startTime": "319.100s",
+                    "endTime": "319.400s",
+                    "word": "saw"
+                  },
+                  {
+                    "startTime": "319.400s",
+                    "endTime": "319.900s",
+                    "word": "me."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Naomi Rabe cosas and neither did I see anything?",
+                "confidence": 0.71409845,
+                "words": [
+                  {
+                    "startTime": "321.600s",
+                    "endTime": "322.100s",
+                    "word": "Naomi"
+                  },
+                  {
+                    "startTime": "322.100s",
+                    "endTime": "322.700s",
+                    "word": "Rabe"
+                  },
+                  {
+                    "startTime": "322.700s",
+                    "endTime": "323.200s",
+                    "word": "cosas"
+                  },
+                  {
+                    "startTime": "324.300s",
+                    "endTime": "324.500s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "324.500s",
+                    "endTime": "325s",
+                    "word": "neither"
+                  },
+                  {
+                    "startTime": "325s",
+                    "endTime": "325.200s",
+                    "word": "did"
+                  },
+                  {
+                    "startTime": "325.200s",
+                    "endTime": "325.400s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "325.400s",
+                    "endTime": "326.100s",
+                    "word": "see"
+                  },
+                  {
+                    "startTime": "326.200s",
+                    "endTime": "327s",
+                    "word": "anything?"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Cenote traduce aghia",
+                "confidence": 0.83087635,
+                "words": [
+                  {
+                    "startTime": "330.400s",
+                    "endTime": "331.100s",
+                    "word": "Cenote"
+                  },
+                  {
+                    "startTime": "331.100s",
+                    "endTime": "331.900s",
+                    "word": "traduce"
+                  },
+                  {
+                    "startTime": "332s",
+                    "endTime": "332.900s",
+                    "word": "aghia"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " without light or God",
+                "confidence": 0.8401118,
+                "words": [
+                  {
+                    "startTime": "333.900s",
+                    "endTime": "334.500s",
+                    "word": "without"
+                  },
+                  {
+                    "startTime": "334.500s",
+                    "endTime": "335.100s",
+                    "word": "light"
+                  },
+                  {
+                    "startTime": "336s",
+                    "endTime": "336.200s",
+                    "word": "or"
+                  },
+                  {
+                    "startTime": "336.200s",
+                    "endTime": "337.100s",
+                    "word": "God"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " see no.",
+                "confidence": 0.6784167,
+                "words": [
+                  {
+                    "startTime": "338.200s",
+                    "endTime": "338.400s",
+                    "word": "see"
+                  },
+                  {
+                    "startTime": "338.400s",
+                    "endTime": "338.900s",
+                    "word": "no."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " La Que en El Corazon Ardea",
+                "confidence": 0.8021405,
+                "words": [
+                  {
+                    "startTime": "340.200s",
+                    "endTime": "340.400s",
+                    "word": "La"
+                  },
+                  {
+                    "startTime": "340.400s",
+                    "endTime": "340.700s",
+                    "word": "Que"
+                  },
+                  {
+                    "startTime": "340.700s",
+                    "endTime": "341.100s",
+                    "word": "en"
+                  },
+                  {
+                    "startTime": "341.100s",
+                    "endTime": "341.400s",
+                    "word": "El"
+                  },
+                  {
+                    "startTime": "341.400s",
+                    "endTime": "342.300s",
+                    "word": "Corazon"
+                  },
+                  {
+                    "startTime": "342.800s",
+                    "endTime": "343.800s",
+                    "word": "Ardea"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " other than that",
+                "confidence": 0.84549093,
+                "words": [
+                  {
+                    "startTime": "346.100s",
+                    "endTime": "346.400s",
+                    "word": "other"
+                  },
+                  {
+                    "startTime": "346.400s",
+                    "endTime": "346.600s",
+                    "word": "than"
+                  },
+                  {
+                    "startTime": "346.600s",
+                    "endTime": "347.200s",
+                    "word": "that"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Which burned in my heart?",
+                "confidence": 0.87531805,
+                "words": [
+                  {
+                    "startTime": "348.300s",
+                    "endTime": "348.600s",
+                    "word": "Which"
+                  },
+                  {
+                    "startTime": "348.600s",
+                    "endTime": "349.400s",
+                    "word": "burned"
+                  },
+                  {
+                    "startTime": "350s",
+                    "endTime": "350.200s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "350.200s",
+                    "endTime": "350.300s",
+                    "word": "my"
+                  },
+                  {
+                    "startTime": "350.300s",
+                    "endTime": "351s",
+                    "word": "heart?"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " I guess the McGee Abba.",
+                "confidence": 0.79458463,
+                "words": [
+                  {
+                    "startTime": "353.900s",
+                    "endTime": "354s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "354s",
+                    "endTime": "354.300s",
+                    "word": "guess"
+                  },
+                  {
+                    "startTime": "354.300s",
+                    "endTime": "354.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "354.400s",
+                    "endTime": "354.800s",
+                    "word": "McGee"
+                  },
+                  {
+                    "startTime": "354.800s",
+                    "endTime": "355.400s",
+                    "word": "Abba."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " This guided me.",
+                "confidence": 0.8082326,
+                "words": [
+                  {
+                    "startTime": "356.400s",
+                    "endTime": "356.700s",
+                    "word": "This"
+                  },
+                  {
+                    "startTime": "356.700s",
+                    "endTime": "357.100s",
+                    "word": "guided"
+                  },
+                  {
+                    "startTime": "357.100s",
+                    "endTime": "357.600s",
+                    "word": "me."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Marcel took a la Luz Del mediodía.",
+                "confidence": 0.84065706,
+                "words": [
+                  {
+                    "startTime": "358.700s",
+                    "endTime": "359.400s",
+                    "word": "Marcel"
+                  },
+                  {
+                    "startTime": "359.400s",
+                    "endTime": "359.800s",
+                    "word": "took"
+                  },
+                  {
+                    "startTime": "359.800s",
+                    "endTime": "359.800s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "359.800s",
+                    "endTime": "360s",
+                    "word": "la"
+                  },
+                  {
+                    "startTime": "360s",
+                    "endTime": "360.400s",
+                    "word": "Luz"
+                  },
+                  {
+                    "startTime": "360.400s",
+                    "endTime": "360.600s",
+                    "word": "Del"
+                  },
+                  {
+                    "startTime": "360.600s",
+                    "endTime": "361.600s",
+                    "word": "mediodía."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " More certain than the light of noon.",
+                "confidence": 0.8514831,
+                "words": [
+                  {
+                    "startTime": "363s",
+                    "endTime": "363.200s",
+                    "word": "More"
+                  },
+                  {
+                    "startTime": "363.200s",
+                    "endTime": "363.800s",
+                    "word": "certain"
+                  },
+                  {
+                    "startTime": "363.800s",
+                    "endTime": "364s",
+                    "word": "than"
+                  },
+                  {
+                    "startTime": "364s",
+                    "endTime": "364.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "364.200s",
+                    "endTime": "364.800s",
+                    "word": "light"
+                  },
+                  {
+                    "startTime": "365.800s",
+                    "endTime": "366.100s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "366.100s",
+                    "endTime": "366.800s",
+                    "word": "noon."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " I don't them esperaba.",
+                "confidence": 0.7647934,
+                "words": [
+                  {
+                    "startTime": "368.100s",
+                    "endTime": "368.200s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "368.200s",
+                    "endTime": "368.500s",
+                    "word": "don't"
+                  },
+                  {
+                    "startTime": "368.500s",
+                    "endTime": "368.600s",
+                    "word": "them"
+                  },
+                  {
+                    "startTime": "368.600s",
+                    "endTime": "369.800s",
+                    "word": "esperaba."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " To where he awaited?",
+                "confidence": 0.81361014,
+                "words": [
+                  {
+                    "startTime": "370.700s",
+                    "endTime": "370.900s",
+                    "word": "To"
+                  },
+                  {
+                    "startTime": "370.900s",
+                    "endTime": "371.500s",
+                    "word": "where"
+                  },
+                  {
+                    "startTime": "371.700s",
+                    "endTime": "372.500s",
+                    "word": "he"
+                  },
+                  {
+                    "startTime": "372.700s",
+                    "endTime": "373.600s",
+                    "word": "awaited?"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Again, you'll be inadmissible. Yeah.",
+                "confidence": 0.7892156,
+                "words": [
+                  {
+                    "startTime": "375.300s",
+                    "endTime": "375.800s",
+                    "word": "Again,"
+                  },
+                  {
+                    "startTime": "375.800s",
+                    "endTime": "376s",
+                    "word": "you'll"
+                  },
+                  {
+                    "startTime": "376s",
+                    "endTime": "376.200s",
+                    "word": "be"
+                  },
+                  {
+                    "startTime": "376.200s",
+                    "endTime": "377.300s",
+                    "word": "inadmissible."
+                  },
+                  {
+                    "startTime": "377.300s",
+                    "endTime": "377.800s",
+                    "word": "Yeah."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " One well-known to me.",
+                "confidence": 0.79376274,
+                "words": [
+                  {
+                    "startTime": "378.900s",
+                    "endTime": "379.600s",
+                    "word": "One"
+                  },
+                  {
+                    "startTime": "379.700s",
+                    "endTime": "380.600s",
+                    "word": "well-known"
+                  },
+                  {
+                    "startTime": "380.600s",
+                    "endTime": "380.800s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "380.800s",
+                    "endTime": "381.300s",
+                    "word": "me."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " And parted on the Nadia but it's Sia.",
+                "confidence": 0.8739187,
+                "words": [
+                  {
+                    "startTime": "382.800s",
+                    "endTime": "383s",
+                    "word": "And"
+                  },
+                  {
+                    "startTime": "383s",
+                    "endTime": "383.800s",
+                    "word": "parted"
+                  },
+                  {
+                    "startTime": "383.800s",
+                    "endTime": "384s",
+                    "word": "on"
+                  },
+                  {
+                    "startTime": "384s",
+                    "endTime": "384.200s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "384.200s",
+                    "endTime": "385.300s",
+                    "word": "Nadia"
+                  },
+                  {
+                    "startTime": "386s",
+                    "endTime": "386.200s",
+                    "word": "but"
+                  },
+                  {
+                    "startTime": "386.200s",
+                    "endTime": "386.400s",
+                    "word": "it's"
+                  },
+                  {
+                    "startTime": "386.400s",
+                    "endTime": "387s",
+                    "word": "Sia."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " In a place where no one could find us.",
+                "confidence": 0.9128386,
+                "words": [
+                  {
+                    "startTime": "388.200s",
+                    "endTime": "388.400s",
+                    "word": "In"
+                  },
+                  {
+                    "startTime": "388.400s",
+                    "endTime": "388.400s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "388.400s",
+                    "endTime": "389.200s",
+                    "word": "place"
+                  },
+                  {
+                    "startTime": "389.800s",
+                    "endTime": "390s",
+                    "word": "where"
+                  },
+                  {
+                    "startTime": "390s",
+                    "endTime": "390.300s",
+                    "word": "no"
+                  },
+                  {
+                    "startTime": "390.300s",
+                    "endTime": "390.900s",
+                    "word": "one"
+                  },
+                  {
+                    "startTime": "391.100s",
+                    "endTime": "391.400s",
+                    "word": "could"
+                  },
+                  {
+                    "startTime": "391.400s",
+                    "endTime": "391.900s",
+                    "word": "find"
+                  },
+                  {
+                    "startTime": "391.900s",
+                    "endTime": "392.400s",
+                    "word": "us."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Oh, no, JK Geass day.",
+                "confidence": 0.77639914,
+                "words": [
+                  {
+                    "startTime": "396.900s",
+                    "endTime": "397s",
+                    "word": "Oh,"
+                  },
+                  {
+                    "startTime": "397s",
+                    "endTime": "397.300s",
+                    "word": "no,"
+                  },
+                  {
+                    "startTime": "397.300s",
+                    "endTime": "397.800s",
+                    "word": "JK"
+                  },
+                  {
+                    "startTime": "397.800s",
+                    "endTime": "398.300s",
+                    "word": "Geass"
+                  },
+                  {
+                    "startTime": "398.300s",
+                    "endTime": "398.700s",
+                    "word": "day."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Oh night that guides.",
+                "confidence": 0.7762041,
+                "words": [
+                  {
+                    "startTime": "400.400s",
+                    "endTime": "400.500s",
+                    "word": "Oh"
+                  },
+                  {
+                    "startTime": "400.500s",
+                    "endTime": "401.200s",
+                    "word": "night"
+                  },
+                  {
+                    "startTime": "401.300s",
+                    "endTime": "401.400s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "401.400s",
+                    "endTime": "402.200s",
+                    "word": "guides."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Oh, no Jay. I'm up Lamaze Kayla albarado.",
+                "confidence": 0.7346349,
+                "words": [
+                  {
+                    "startTime": "403.800s",
+                    "endTime": "403.900s",
+                    "word": "Oh,"
+                  },
+                  {
+                    "startTime": "403.900s",
+                    "endTime": "404.200s",
+                    "word": "no"
+                  },
+                  {
+                    "startTime": "404.200s",
+                    "endTime": "404.600s",
+                    "word": "Jay."
+                  },
+                  {
+                    "startTime": "404.800s",
+                    "endTime": "405s",
+                    "word": "I'm"
+                  },
+                  {
+                    "startTime": "405s",
+                    "endTime": "405.200s",
+                    "word": "up"
+                  },
+                  {
+                    "startTime": "405.200s",
+                    "endTime": "406.100s",
+                    "word": "Lamaze"
+                  },
+                  {
+                    "startTime": "406.700s",
+                    "endTime": "407.500s",
+                    "word": "Kayla"
+                  },
+                  {
+                    "startTime": "407.500s",
+                    "endTime": "408.700s",
+                    "word": "albarado."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Oh night more lovely than the light of God.",
+                "confidence": 0.86516356,
+                "words": [
+                  {
+                    "startTime": "410.300s",
+                    "endTime": "410.500s",
+                    "word": "Oh"
+                  },
+                  {
+                    "startTime": "410.500s",
+                    "endTime": "411.100s",
+                    "word": "night"
+                  },
+                  {
+                    "startTime": "412s",
+                    "endTime": "412.300s",
+                    "word": "more"
+                  },
+                  {
+                    "startTime": "412.300s",
+                    "endTime": "412.700s",
+                    "word": "lovely"
+                  },
+                  {
+                    "startTime": "412.700s",
+                    "endTime": "412.900s",
+                    "word": "than"
+                  },
+                  {
+                    "startTime": "412.900s",
+                    "endTime": "413s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "413s",
+                    "endTime": "413.400s",
+                    "word": "light"
+                  },
+                  {
+                    "startTime": "413.400s",
+                    "endTime": "413.500s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "413.500s",
+                    "endTime": "414.100s",
+                    "word": "God."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Oh, no, JK junta's day.",
+                "confidence": 0.78402597,
+                "words": [
+                  {
+                    "startTime": "416.100s",
+                    "endTime": "416.200s",
+                    "word": "Oh,"
+                  },
+                  {
+                    "startTime": "416.200s",
+                    "endTime": "416.400s",
+                    "word": "no,"
+                  },
+                  {
+                    "startTime": "416.400s",
+                    "endTime": "417s",
+                    "word": "JK"
+                  },
+                  {
+                    "startTime": "417s",
+                    "endTime": "417.900s",
+                    "word": "junta's"
+                  },
+                  {
+                    "startTime": "417.900s",
+                    "endTime": "418.300s",
+                    "word": "day."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Oh night that unites.",
+                "confidence": 0.8195401,
+                "words": [
+                  {
+                    "startTime": "419.700s",
+                    "endTime": "419.900s",
+                    "word": "Oh"
+                  },
+                  {
+                    "startTime": "419.900s",
+                    "endTime": "420.500s",
+                    "word": "night"
+                  },
+                  {
+                    "startTime": "420.500s",
+                    "endTime": "420.800s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "420.800s",
+                    "endTime": "421.700s",
+                    "word": "unites."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Amado come Amada",
+                "confidence": 0.8602942,
+                "words": [
+                  {
+                    "startTime": "423.900s",
+                    "endTime": "424.800s",
+                    "word": "Amado"
+                  },
+                  {
+                    "startTime": "424.800s",
+                    "endTime": "425.200s",
+                    "word": "come"
+                  },
+                  {
+                    "startTime": "425.300s",
+                    "endTime": "426.300s",
+                    "word": "Amada"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " the lover with the Beloved",
+                "confidence": 0.86583275,
+                "words": [
+                  {
+                    "startTime": "427.400s",
+                    "endTime": "427.500s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "427.500s",
+                    "endTime": "428.200s",
+                    "word": "lover"
+                  },
+                  {
+                    "startTime": "428.900s",
+                    "endTime": "429.100s",
+                    "word": "with"
+                  },
+                  {
+                    "startTime": "429.100s",
+                    "endTime": "429.300s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "429.300s",
+                    "endTime": "430.200s",
+                    "word": "Beloved"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Amada in a model transform mother",
+                "confidence": 0.84334815,
+                "words": [
+                  {
+                    "startTime": "431.600s",
+                    "endTime": "432.500s",
+                    "word": "Amada"
+                  },
+                  {
+                    "startTime": "432.900s",
+                    "endTime": "433.400s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "433.800s",
+                    "endTime": "434s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "434s",
+                    "endTime": "434.800s",
+                    "word": "model"
+                  },
+                  {
+                    "startTime": "435.300s",
+                    "endTime": "436.300s",
+                    "word": "transform"
+                  },
+                  {
+                    "startTime": "436.300s",
+                    "endTime": "437.100s",
+                    "word": "mother"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " and transforms the buffer into the Beloved.",
+                "confidence": 0.82715887,
+                "words": [
+                  {
+                    "startTime": "438.200s",
+                    "endTime": "438.400s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "438.400s",
+                    "endTime": "439.800s",
+                    "word": "transforms"
+                  },
+                  {
+                    "startTime": "440s",
+                    "endTime": "440.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "440.100s",
+                    "endTime": "440.700s",
+                    "word": "buffer"
+                  },
+                  {
+                    "startTime": "441.600s",
+                    "endTime": "442.300s",
+                    "word": "into"
+                  },
+                  {
+                    "startTime": "442.300s",
+                    "endTime": "442.500s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "442.500s",
+                    "endTime": "443.400s",
+                    "word": "Beloved."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " And we better florido.",
+                "confidence": 0.7338433,
+                "words": [
+                  {
+                    "startTime": "445.800s",
+                    "endTime": "446s",
+                    "word": "And"
+                  },
+                  {
+                    "startTime": "446s",
+                    "endTime": "446.100s",
+                    "word": "we"
+                  },
+                  {
+                    "startTime": "446.100s",
+                    "endTime": "446.700s",
+                    "word": "better"
+                  },
+                  {
+                    "startTime": "446.700s",
+                    "endTime": "447.500s",
+                    "word": "florido."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " on my flowering breasts",
+                "confidence": 0.7756699,
+                "words": [
+                  {
+                    "startTime": "448.900s",
+                    "endTime": "449.200s",
+                    "word": "on"
+                  },
+                  {
+                    "startTime": "449.200s",
+                    "endTime": "449.400s",
+                    "word": "my"
+                  },
+                  {
+                    "startTime": "449.400s",
+                    "endTime": "450.200s",
+                    "word": "flowering"
+                  },
+                  {
+                    "startTime": "450.200s",
+                    "endTime": "450.700s",
+                    "word": "breasts"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Can tear apart a solo segue DARPA which I reserved for him alone.",
+                "confidence": 0.80820495,
+                "words": [
+                  {
+                    "startTime": "452.400s",
+                    "endTime": "452.700s",
+                    "word": "Can"
+                  },
+                  {
+                    "startTime": "452.700s",
+                    "endTime": "453s",
+                    "word": "tear"
+                  },
+                  {
+                    "startTime": "453s",
+                    "endTime": "453.400s",
+                    "word": "apart"
+                  },
+                  {
+                    "startTime": "453.400s",
+                    "endTime": "453.500s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "453.500s",
+                    "endTime": "453.900s",
+                    "word": "solo"
+                  },
+                  {
+                    "startTime": "453.900s",
+                    "endTime": "454.400s",
+                    "word": "segue"
+                  },
+                  {
+                    "startTime": "454.400s",
+                    "endTime": "455.100s",
+                    "word": "DARPA"
+                  },
+                  {
+                    "startTime": "455.900s",
+                    "endTime": "456.200s",
+                    "word": "which"
+                  },
+                  {
+                    "startTime": "456.200s",
+                    "endTime": "456.600s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "456.700s",
+                    "endTime": "457.300s",
+                    "word": "reserved"
+                  },
+                  {
+                    "startTime": "457.300s",
+                    "endTime": "457.500s",
+                    "word": "for"
+                  },
+                  {
+                    "startTime": "457.500s",
+                    "endTime": "458.200s",
+                    "word": "him"
+                  },
+                  {
+                    "startTime": "458.600s",
+                    "endTime": "459.300s",
+                    "word": "alone."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Aikido",
+                "confidence": 0.7061627,
+                "words": [
+                  {
+                    "startTime": "461.200s",
+                    "endTime": "462.200s",
+                    "word": "Aikido"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " There he dwelt.",
+                "confidence": 0.8303798,
+                "words": [
+                  {
+                    "startTime": "463.300s",
+                    "endTime": "463.600s",
+                    "word": "There"
+                  },
+                  {
+                    "startTime": "463.600s",
+                    "endTime": "463.800s",
+                    "word": "he"
+                  },
+                  {
+                    "startTime": "463.800s",
+                    "endTime": "464.500s",
+                    "word": "dwelt."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Yoli real Ava",
+                "confidence": 0.5389578,
+                "words": [
+                  {
+                    "startTime": "466.100s",
+                    "endTime": "466.700s",
+                    "word": "Yoli"
+                  },
+                  {
+                    "startTime": "466.700s",
+                    "endTime": "467.200s",
+                    "word": "real"
+                  },
+                  {
+                    "startTime": "467.200s",
+                    "endTime": "467.700s",
+                    "word": "Ava"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " and I caressed him.",
+                "confidence": 0.81761867,
+                "words": [
+                  {
+                    "startTime": "468.900s",
+                    "endTime": "469.100s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "469.100s",
+                    "endTime": "469.200s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "469.200s",
+                    "endTime": "469.800s",
+                    "word": "caressed"
+                  },
+                  {
+                    "startTime": "469.800s",
+                    "endTime": "470.100s",
+                    "word": "him."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Yell when tired to say throws I had up.",
+                "confidence": 0.618344,
+                "words": [
+                  {
+                    "startTime": "471.800s",
+                    "endTime": "472.400s",
+                    "word": "Yell"
+                  },
+                  {
+                    "startTime": "472.600s",
+                    "endTime": "472.900s",
+                    "word": "when"
+                  },
+                  {
+                    "startTime": "472.900s",
+                    "endTime": "473.300s",
+                    "word": "tired"
+                  },
+                  {
+                    "startTime": "473.300s",
+                    "endTime": "473.500s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "473.500s",
+                    "endTime": "473.800s",
+                    "word": "say"
+                  },
+                  {
+                    "startTime": "473.800s",
+                    "endTime": "474.700s",
+                    "word": "throws"
+                  },
+                  {
+                    "startTime": "475.200s",
+                    "endTime": "475.600s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "475.600s",
+                    "endTime": "475.900s",
+                    "word": "had"
+                  },
+                  {
+                    "startTime": "475.900s",
+                    "endTime": "476.300s",
+                    "word": "up."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " while the Cedars fend us with their Breeze",
+                "confidence": 0.7483303,
+                "words": [
+                  {
+                    "startTime": "477.500s",
+                    "endTime": "477.800s",
+                    "word": "while"
+                  },
+                  {
+                    "startTime": "477.800s",
+                    "endTime": "478s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "478s",
+                    "endTime": "478.800s",
+                    "word": "Cedars"
+                  },
+                  {
+                    "startTime": "478.800s",
+                    "endTime": "479.400s",
+                    "word": "fend"
+                  },
+                  {
+                    "startTime": "479.400s",
+                    "endTime": "480s",
+                    "word": "us"
+                  },
+                  {
+                    "startTime": "480.200s",
+                    "endTime": "480.400s",
+                    "word": "with"
+                  },
+                  {
+                    "startTime": "480.400s",
+                    "endTime": "480.700s",
+                    "word": "their"
+                  },
+                  {
+                    "startTime": "480.700s",
+                    "endTime": "481.600s",
+                    "word": "Breeze"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " L I read a lot Amina",
+                "confidence": 0.7747,
+                "words": [
+                  {
+                    "startTime": "484.500s",
+                    "endTime": "484.800s",
+                    "word": "L"
+                  },
+                  {
+                    "startTime": "484.800s",
+                    "endTime": "485s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "485s",
+                    "endTime": "485.300s",
+                    "word": "read"
+                  },
+                  {
+                    "startTime": "485.300s",
+                    "endTime": "485.300s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "485.300s",
+                    "endTime": "485.600s",
+                    "word": "lot"
+                  },
+                  {
+                    "startTime": "485.600s",
+                    "endTime": "486.400s",
+                    "word": "Amina"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " the breeze came over the castle wall.",
+                "confidence": 0.88579977,
+                "words": [
+                  {
+                    "startTime": "487.800s",
+                    "endTime": "487.900s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "487.900s",
+                    "endTime": "488.400s",
+                    "word": "breeze"
+                  },
+                  {
+                    "startTime": "488.400s",
+                    "endTime": "488.700s",
+                    "word": "came"
+                  },
+                  {
+                    "startTime": "488.700s",
+                    "endTime": "488.900s",
+                    "word": "over"
+                  },
+                  {
+                    "startTime": "488.900s",
+                    "endTime": "489s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "489s",
+                    "endTime": "489.500s",
+                    "word": "castle"
+                  },
+                  {
+                    "startTime": "489.500s",
+                    "endTime": "490.100s",
+                    "word": "wall."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Cuando, yo suzka Bells is Perseus.",
+                "confidence": 0.7686173,
+                "words": [
+                  {
+                    "startTime": "491.200s",
+                    "endTime": "491.500s",
+                    "word": "Cuando,"
+                  },
+                  {
+                    "startTime": "491.500s",
+                    "endTime": "491.800s",
+                    "word": "yo"
+                  },
+                  {
+                    "startTime": "491.800s",
+                    "endTime": "492.200s",
+                    "word": "suzka"
+                  },
+                  {
+                    "startTime": "492.200s",
+                    "endTime": "492.700s",
+                    "word": "Bells"
+                  },
+                  {
+                    "startTime": "492.700s",
+                    "endTime": "492.900s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "492.900s",
+                    "endTime": "493.800s",
+                    "word": "Perseus."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " As I ran my fingers through his hair.",
+                "confidence": 0.82437533,
+                "words": [
+                  {
+                    "startTime": "495s",
+                    "endTime": "495.300s",
+                    "word": "As"
+                  },
+                  {
+                    "startTime": "495.300s",
+                    "endTime": "495.400s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "495.400s",
+                    "endTime": "495.700s",
+                    "word": "ran"
+                  },
+                  {
+                    "startTime": "495.700s",
+                    "endTime": "496s",
+                    "word": "my"
+                  },
+                  {
+                    "startTime": "496s",
+                    "endTime": "496.600s",
+                    "word": "fingers"
+                  },
+                  {
+                    "startTime": "496.600s",
+                    "endTime": "496.900s",
+                    "word": "through"
+                  },
+                  {
+                    "startTime": "496.900s",
+                    "endTime": "497.100s",
+                    "word": "his"
+                  },
+                  {
+                    "startTime": "497.100s",
+                    "endTime": "497.700s",
+                    "word": "hair."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " con Su Mano, Serena",
+                "confidence": 0.67528677,
+                "words": [
+                  {
+                    "startTime": "499.200s",
+                    "endTime": "499.500s",
+                    "word": "con"
+                  },
+                  {
+                    "startTime": "499.500s",
+                    "endTime": "499.700s",
+                    "word": "Su"
+                  },
+                  {
+                    "startTime": "499.700s",
+                    "endTime": "500s",
+                    "word": "Mano,"
+                  },
+                  {
+                    "startTime": "500s",
+                    "endTime": "500.800s",
+                    "word": "Serena"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " with his gentle hand",
+                "confidence": 0.9128386,
+                "words": [
+                  {
+                    "startTime": "502.300s",
+                    "endTime": "502.500s",
+                    "word": "with"
+                  },
+                  {
+                    "startTime": "502.500s",
+                    "endTime": "503s",
+                    "word": "his"
+                  },
+                  {
+                    "startTime": "503.100s",
+                    "endTime": "503.600s",
+                    "word": "gentle"
+                  },
+                  {
+                    "startTime": "503.600s",
+                    "endTime": "504.500s",
+                    "word": "hand"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " and meek way Shore area",
+                "confidence": 0.72066647,
+                "words": [
+                  {
+                    "startTime": "506s",
+                    "endTime": "506.200s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "506.200s",
+                    "endTime": "506.500s",
+                    "word": "meek"
+                  },
+                  {
+                    "startTime": "506.500s",
+                    "endTime": "506.800s",
+                    "word": "way"
+                  },
+                  {
+                    "startTime": "506.800s",
+                    "endTime": "507.200s",
+                    "word": "Shore"
+                  },
+                  {
+                    "startTime": "507.200s",
+                    "endTime": "507.900s",
+                    "word": "area"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " he wounded my neck.",
+                "confidence": 0.90778327,
+                "words": [
+                  {
+                    "startTime": "509.300s",
+                    "endTime": "509.600s",
+                    "word": "he"
+                  },
+                  {
+                    "startTime": "509.600s",
+                    "endTime": "510.600s",
+                    "word": "wounded"
+                  },
+                  {
+                    "startTime": "510.800s",
+                    "endTime": "511s",
+                    "word": "my"
+                  },
+                  {
+                    "startTime": "511s",
+                    "endTime": "511.500s",
+                    "word": "neck."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Ito dos me says indeed those who spend a year",
+                "confidence": 0.7579064,
+                "words": [
+                  {
+                    "startTime": "512.700s",
+                    "endTime": "513.500s",
+                    "word": "Ito"
+                  },
+                  {
+                    "startTime": "513.500s",
+                    "endTime": "513.900s",
+                    "word": "dos"
+                  },
+                  {
+                    "startTime": "513.900s",
+                    "endTime": "514.400s",
+                    "word": "me"
+                  },
+                  {
+                    "startTime": "514.400s",
+                    "endTime": "514.800s",
+                    "word": "says"
+                  },
+                  {
+                    "startTime": "514.800s",
+                    "endTime": "515.300s",
+                    "word": "indeed"
+                  },
+                  {
+                    "startTime": "515.300s",
+                    "endTime": "515.300s",
+                    "word": "those"
+                  },
+                  {
+                    "startTime": "515.300s",
+                    "endTime": "516s",
+                    "word": "who"
+                  },
+                  {
+                    "startTime": "516s",
+                    "endTime": "517s",
+                    "word": "spend"
+                  },
+                  {
+                    "startTime": "517s",
+                    "endTime": "517.100s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "517.100s",
+                    "endTime": "517.200s",
+                    "word": "year"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " and suspended all my senses.",
+                "confidence": 0.9051549,
+                "words": [
+                  {
+                    "startTime": "519.300s",
+                    "endTime": "519.500s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "519.500s",
+                    "endTime": "520.600s",
+                    "word": "suspended"
+                  },
+                  {
+                    "startTime": "521.300s",
+                    "endTime": "521.800s",
+                    "word": "all"
+                  },
+                  {
+                    "startTime": "521.800s",
+                    "endTime": "522s",
+                    "word": "my"
+                  },
+                  {
+                    "startTime": "522s",
+                    "endTime": "522.900s",
+                    "word": "senses."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " get them a",
+                "confidence": 0.7743771,
+                "words": [
+                  {
+                    "startTime": "525.700s",
+                    "endTime": "525.900s",
+                    "word": "get"
+                  },
+                  {
+                    "startTime": "525.900s",
+                    "endTime": "526.300s",
+                    "word": "them"
+                  },
+                  {
+                    "startTime": "526.300s",
+                    "endTime": "526.700s",
+                    "word": "a"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Plus I dwelt.",
+                "confidence": 0.6999383,
+                "words": [
+                  {
+                    "startTime": "527.700s",
+                    "endTime": "528.100s",
+                    "word": "Plus"
+                  },
+                  {
+                    "startTime": "528.200s",
+                    "endTime": "528.300s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "528.300s",
+                    "endTime": "529.100s",
+                    "word": "dwelt."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " E or read Ma.",
+                "confidence": 0.7945258,
+                "words": [
+                  {
+                    "startTime": "530.100s",
+                    "endTime": "530.600s",
+                    "word": "E"
+                  },
+                  {
+                    "startTime": "530.700s",
+                    "endTime": "531.100s",
+                    "word": "or"
+                  },
+                  {
+                    "startTime": "531.100s",
+                    "endTime": "531.300s",
+                    "word": "read"
+                  },
+                  {
+                    "startTime": "531.300s",
+                    "endTime": "531.800s",
+                    "word": "Ma."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " and forgot myself",
+                "confidence": 0.84549755,
+                "words": [
+                  {
+                    "startTime": "533.200s",
+                    "endTime": "533.400s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "533.400s",
+                    "endTime": "534s",
+                    "word": "forgot"
+                  },
+                  {
+                    "startTime": "534s",
+                    "endTime": "534.700s",
+                    "word": "myself"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " El rastro rectilinear so Braille Amado",
+                "confidence": 0.84587526,
+                "words": [
+                  {
+                    "startTime": "536.300s",
+                    "endTime": "536.700s",
+                    "word": "El"
+                  },
+                  {
+                    "startTime": "536.800s",
+                    "endTime": "537.800s",
+                    "word": "rastro"
+                  },
+                  {
+                    "startTime": "537.900s",
+                    "endTime": "538.900s",
+                    "word": "rectilinear"
+                  },
+                  {
+                    "startTime": "538.900s",
+                    "endTime": "539.300s",
+                    "word": "so"
+                  },
+                  {
+                    "startTime": "539.300s",
+                    "endTime": "540.100s",
+                    "word": "Braille"
+                  },
+                  {
+                    "startTime": "540.100s",
+                    "endTime": "541s",
+                    "word": "Amado"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " my face resting directly upon the Beloved",
+                "confidence": 0.8413274,
+                "words": [
+                  {
+                    "startTime": "542.900s",
+                    "endTime": "543.200s",
+                    "word": "my"
+                  },
+                  {
+                    "startTime": "543.200s",
+                    "endTime": "543.900s",
+                    "word": "face"
+                  },
+                  {
+                    "startTime": "544.200s",
+                    "endTime": "544.800s",
+                    "word": "resting"
+                  },
+                  {
+                    "startTime": "544.800s",
+                    "endTime": "546.100s",
+                    "word": "directly"
+                  },
+                  {
+                    "startTime": "546.300s",
+                    "endTime": "546.700s",
+                    "word": "upon"
+                  },
+                  {
+                    "startTime": "546.700s",
+                    "endTime": "546.800s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "546.800s",
+                    "endTime": "547.600s",
+                    "word": "Beloved"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " says so daughter.",
+                "confidence": 0.75858855,
+                "words": [
+                  {
+                    "startTime": "549.900s",
+                    "endTime": "550.400s",
+                    "word": "says"
+                  },
+                  {
+                    "startTime": "550.400s",
+                    "endTime": "550.900s",
+                    "word": "so"
+                  },
+                  {
+                    "startTime": "550.900s",
+                    "endTime": "551.900s",
+                    "word": "daughter."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " everything stopped",
+                "confidence": 0.735244,
+                "words": [
+                  {
+                    "startTime": "553.600s",
+                    "endTime": "554.600s",
+                    "word": "everything"
+                  },
+                  {
+                    "startTime": "554.600s",
+                    "endTime": "555.200s",
+                    "word": "stopped"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Edith Ma",
+                "confidence": 0.8429348,
+                "words": [
+                  {
+                    "startTime": "557.300s",
+                    "endTime": "557.900s",
+                    "word": "Edith"
+                  },
+                  {
+                    "startTime": "557.900s",
+                    "endTime": "558.600s",
+                    "word": "Ma"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " And I was set free.",
+                "confidence": 0.82709825,
+                "words": [
+                  {
+                    "startTime": "559.800s",
+                    "endTime": "560.300s",
+                    "word": "And"
+                  },
+                  {
+                    "startTime": "560.300s",
+                    "endTime": "560.400s",
+                    "word": "I"
+                  },
+                  {
+                    "startTime": "560.400s",
+                    "endTime": "560.700s",
+                    "word": "was"
+                  },
+                  {
+                    "startTime": "560.700s",
+                    "endTime": "561s",
+                    "word": "set"
+                  },
+                  {
+                    "startTime": "561s",
+                    "endTime": "561.600s",
+                    "word": "free."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " the Honda me cuidado",
+                "confidence": 0.7864302,
+                "words": [
+                  {
+                    "startTime": "563.800s",
+                    "endTime": "564.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "564.100s",
+                    "endTime": "564.700s",
+                    "word": "Honda"
+                  },
+                  {
+                    "startTime": "564.700s",
+                    "endTime": "564.900s",
+                    "word": "me"
+                  },
+                  {
+                    "startTime": "564.900s",
+                    "endTime": "565.900s",
+                    "word": "cuidado"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " abandoning my cares",
+                "confidence": 0.8323805,
+                "words": [
+                  {
+                    "startTime": "567.700s",
+                    "endTime": "568.500s",
+                    "word": "abandoning"
+                  },
+                  {
+                    "startTime": "568.500s",
+                    "endTime": "568.800s",
+                    "word": "my"
+                  },
+                  {
+                    "startTime": "568.800s",
+                    "endTime": "569.900s",
+                    "word": "cares"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " and Reba Susanna's all vedado.",
+                "confidence": 0.7787235,
+                "words": [
+                  {
+                    "startTime": "571.400s",
+                    "endTime": "571.900s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "571.900s",
+                    "endTime": "572.400s",
+                    "word": "Reba"
+                  },
+                  {
+                    "startTime": "572.400s",
+                    "endTime": "573.500s",
+                    "word": "Susanna's"
+                  },
+                  {
+                    "startTime": "574.200s",
+                    "endTime": "574.900s",
+                    "word": "all"
+                  },
+                  {
+                    "startTime": "575.100s",
+                    "endTime": "576s",
+                    "word": "vedado."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " forgotten",
+                "confidence": 0.7627855,
+                "words": [
+                  {
+                    "startTime": "577.900s",
+                    "endTime": "578.700s",
+                    "word": "forgotten"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " among the lilies",
+                "confidence": 0.8031375,
+                "words": [
+                  {
+                    "startTime": "580.300s",
+                    "endTime": "580.700s",
+                    "word": "among"
+                  },
+                  {
+                    "startTime": "580.700s",
+                    "endTime": "580.800s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "580.800s",
+                    "endTime": "581.700s",
+                    "word": "lilies"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          }
+        ]
+      }
+    ]
+  }
+}

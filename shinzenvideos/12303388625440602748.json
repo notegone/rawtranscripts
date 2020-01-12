@@ -1,0 +1,1212 @@
+{
+  "name": "projects/923263939845/locations/us-east1/operations/12303388625440602748",
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoProgress",
+    "annotationProgress": [
+      {
+        "inputUri": "/shfvideos/ShinzenVideos/WHY MEDITATE ~ Shinzen Young.mp4",
+        "progressPercent": 100,
+        "startTime": "2019-12-27T07:16:33.112415Z",
+        "updateTime": "2019-12-27T07:20:12.534363Z"
+      }
+    ]
+  },
+  "done": true,
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoResponse",
+    "annotationResults": [
+      {
+        "inputUri": "/shfvideos/ShinzenVideos/WHY MEDITATE ~ Shinzen Young.mp4",
+        "segment": {
+          "startTimeOffset": "0s",
+          "endTimeOffset": "145.217596s"
+        },
+        "speechTranscriptions": [
+          {
+            "alternatives": [
+              {
+                "transcript": "Meditation optimizes five fundamental dimensions of human happiness. The First Dimension is reducing suffering the ability to experience unavoidable pain with less.",
+                "confidence": 0.903282,
+                "words": [
+                  {
+                    "startTime": "6.500s",
+                    "endTime": "7.600s",
+                    "word": "Meditation"
+                  },
+                  {
+                    "startTime": "8.100s",
+                    "endTime": "9.500s",
+                    "word": "optimizes"
+                  },
+                  {
+                    "startTime": "10.100s",
+                    "endTime": "10.800s",
+                    "word": "five"
+                  },
+                  {
+                    "startTime": "10.800s",
+                    "endTime": "11.900s",
+                    "word": "fundamental"
+                  },
+                  {
+                    "startTime": "11.900s",
+                    "endTime": "12.800s",
+                    "word": "dimensions"
+                  },
+                  {
+                    "startTime": "12.800s",
+                    "endTime": "12.900s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "12.900s",
+                    "endTime": "13.300s",
+                    "word": "human"
+                  },
+                  {
+                    "startTime": "13.300s",
+                    "endTime": "14.200s",
+                    "word": "happiness."
+                  },
+                  {
+                    "startTime": "14.900s",
+                    "endTime": "15s",
+                    "word": "The"
+                  },
+                  {
+                    "startTime": "15s",
+                    "endTime": "15.300s",
+                    "word": "First"
+                  },
+                  {
+                    "startTime": "15.300s",
+                    "endTime": "16.100s",
+                    "word": "Dimension"
+                  },
+                  {
+                    "startTime": "16.100s",
+                    "endTime": "16.600s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "17.100s",
+                    "endTime": "17.800s",
+                    "word": "reducing"
+                  },
+                  {
+                    "startTime": "17.800s",
+                    "endTime": "18.500s",
+                    "word": "suffering"
+                  },
+                  {
+                    "startTime": "19.300s",
+                    "endTime": "19.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "19.400s",
+                    "endTime": "20s",
+                    "word": "ability"
+                  },
+                  {
+                    "startTime": "20s",
+                    "endTime": "20.200s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "20.200s",
+                    "endTime": "21.100s",
+                    "word": "experience"
+                  },
+                  {
+                    "startTime": "21.100s",
+                    "endTime": "22.100s",
+                    "word": "unavoidable"
+                  },
+                  {
+                    "startTime": "22.100s",
+                    "endTime": "22.800s",
+                    "word": "pain"
+                  },
+                  {
+                    "startTime": "23.500s",
+                    "endTime": "23.800s",
+                    "word": "with"
+                  },
+                  {
+                    "startTime": "24.100s",
+                    "endTime": "24.800s",
+                    "word": "less."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Problem. The second is elevation of fulfillment the ability to experience even small Pleasures with enormous satisfaction.",
+                "confidence": 0.8909623,
+                "words": [
+                  {
+                    "startTime": "25.700s",
+                    "endTime": "26.400s",
+                    "word": "Problem."
+                  },
+                  {
+                    "startTime": "27.600s",
+                    "endTime": "27.700s",
+                    "word": "The"
+                  },
+                  {
+                    "startTime": "27.700s",
+                    "endTime": "28.200s",
+                    "word": "second"
+                  },
+                  {
+                    "startTime": "28.200s",
+                    "endTime": "28.600s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "28.600s",
+                    "endTime": "29.600s",
+                    "word": "elevation"
+                  },
+                  {
+                    "startTime": "29.600s",
+                    "endTime": "29.800s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "29.800s",
+                    "endTime": "30.800s",
+                    "word": "fulfillment"
+                  },
+                  {
+                    "startTime": "31.300s",
+                    "endTime": "31.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "31.400s",
+                    "endTime": "31.900s",
+                    "word": "ability"
+                  },
+                  {
+                    "startTime": "31.900s",
+                    "endTime": "32s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "32s",
+                    "endTime": "32.700s",
+                    "word": "experience"
+                  },
+                  {
+                    "startTime": "32.700s",
+                    "endTime": "33.100s",
+                    "word": "even"
+                  },
+                  {
+                    "startTime": "33.100s",
+                    "endTime": "33.600s",
+                    "word": "small"
+                  },
+                  {
+                    "startTime": "33.600s",
+                    "endTime": "34.400s",
+                    "word": "Pleasures"
+                  },
+                  {
+                    "startTime": "35s",
+                    "endTime": "35.300s",
+                    "word": "with"
+                  },
+                  {
+                    "startTime": "35.300s",
+                    "endTime": "36s",
+                    "word": "enormous"
+                  },
+                  {
+                    "startTime": "36s",
+                    "endTime": "37.100s",
+                    "word": "satisfaction."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " The third dimension where my meditation impacts is self-understanding. It's actually helpful to understand yourself at a psychological level. But we're meditation really shines is to understand who you are at the deepest level. The fourth dimension is meditation will help you make objective changes in Behavior. So if there's something you're doing that you need to stop doing",
+                "confidence": 0.9125298,
+                "words": [
+                  {
+                    "startTime": "38.200s",
+                    "endTime": "38.300s",
+                    "word": "The"
+                  },
+                  {
+                    "startTime": "38.300s",
+                    "endTime": "38.600s",
+                    "word": "third"
+                  },
+                  {
+                    "startTime": "38.600s",
+                    "endTime": "39.400s",
+                    "word": "dimension"
+                  },
+                  {
+                    "startTime": "39.600s",
+                    "endTime": "39.800s",
+                    "word": "where"
+                  },
+                  {
+                    "startTime": "39.800s",
+                    "endTime": "40.100s",
+                    "word": "my"
+                  },
+                  {
+                    "startTime": "40.200s",
+                    "endTime": "40.800s",
+                    "word": "meditation"
+                  },
+                  {
+                    "startTime": "40.800s",
+                    "endTime": "41.600s",
+                    "word": "impacts"
+                  },
+                  {
+                    "startTime": "41.900s",
+                    "endTime": "42.500s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "42.600s",
+                    "endTime": "43.800s",
+                    "word": "self-understanding."
+                  },
+                  {
+                    "startTime": "44.500s",
+                    "endTime": "44.700s",
+                    "word": "It's"
+                  },
+                  {
+                    "startTime": "44.700s",
+                    "endTime": "45.200s",
+                    "word": "actually"
+                  },
+                  {
+                    "startTime": "45.200s",
+                    "endTime": "45.800s",
+                    "word": "helpful"
+                  },
+                  {
+                    "startTime": "45.800s",
+                    "endTime": "45.900s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "45.900s",
+                    "endTime": "46.600s",
+                    "word": "understand"
+                  },
+                  {
+                    "startTime": "46.600s",
+                    "endTime": "47.200s",
+                    "word": "yourself"
+                  },
+                  {
+                    "startTime": "47.200s",
+                    "endTime": "47.300s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "47.300s",
+                    "endTime": "47.400s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "47.400s",
+                    "endTime": "48.300s",
+                    "word": "psychological"
+                  },
+                  {
+                    "startTime": "48.300s",
+                    "endTime": "48.800s",
+                    "word": "level."
+                  },
+                  {
+                    "startTime": "49.400s",
+                    "endTime": "49.600s",
+                    "word": "But"
+                  },
+                  {
+                    "startTime": "49.600s",
+                    "endTime": "49.700s",
+                    "word": "we're"
+                  },
+                  {
+                    "startTime": "49.700s",
+                    "endTime": "50.500s",
+                    "word": "meditation"
+                  },
+                  {
+                    "startTime": "50.500s",
+                    "endTime": "50.900s",
+                    "word": "really"
+                  },
+                  {
+                    "startTime": "50.900s",
+                    "endTime": "51.700s",
+                    "word": "shines"
+                  },
+                  {
+                    "startTime": "52.100s",
+                    "endTime": "52.500s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "52.500s",
+                    "endTime": "52.600s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "52.600s",
+                    "endTime": "53.400s",
+                    "word": "understand"
+                  },
+                  {
+                    "startTime": "53.400s",
+                    "endTime": "53.700s",
+                    "word": "who"
+                  },
+                  {
+                    "startTime": "53.700s",
+                    "endTime": "53.900s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "53.900s",
+                    "endTime": "54.300s",
+                    "word": "are"
+                  },
+                  {
+                    "startTime": "54.400s",
+                    "endTime": "54.500s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "54.500s",
+                    "endTime": "54.700s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "54.700s",
+                    "endTime": "55.300s",
+                    "word": "deepest"
+                  },
+                  {
+                    "startTime": "55.300s",
+                    "endTime": "55.800s",
+                    "word": "level."
+                  },
+                  {
+                    "startTime": "56.400s",
+                    "endTime": "56.500s",
+                    "word": "The"
+                  },
+                  {
+                    "startTime": "56.500s",
+                    "endTime": "56.800s",
+                    "word": "fourth"
+                  },
+                  {
+                    "startTime": "56.800s",
+                    "endTime": "57.400s",
+                    "word": "dimension"
+                  },
+                  {
+                    "startTime": "57.400s",
+                    "endTime": "57.800s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "57.800s",
+                    "endTime": "58.600s",
+                    "word": "meditation"
+                  },
+                  {
+                    "startTime": "58.600s",
+                    "endTime": "59s",
+                    "word": "will"
+                  },
+                  {
+                    "startTime": "59s",
+                    "endTime": "59.300s",
+                    "word": "help"
+                  },
+                  {
+                    "startTime": "59.300s",
+                    "endTime": "59.500s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "59.500s",
+                    "endTime": "60s",
+                    "word": "make"
+                  },
+                  {
+                    "startTime": "60.100s",
+                    "endTime": "61.300s",
+                    "word": "objective"
+                  },
+                  {
+                    "startTime": "61.300s",
+                    "endTime": "62s",
+                    "word": "changes"
+                  },
+                  {
+                    "startTime": "62s",
+                    "endTime": "62.200s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "62.200s",
+                    "endTime": "63s",
+                    "word": "Behavior."
+                  },
+                  {
+                    "startTime": "63.500s",
+                    "endTime": "64.100s",
+                    "word": "So"
+                  },
+                  {
+                    "startTime": "64.100s",
+                    "endTime": "64.700s",
+                    "word": "if"
+                  },
+                  {
+                    "startTime": "64.700s",
+                    "endTime": "65.200s",
+                    "word": "there's"
+                  },
+                  {
+                    "startTime": "65.300s",
+                    "endTime": "65.600s",
+                    "word": "something"
+                  },
+                  {
+                    "startTime": "65.600s",
+                    "endTime": "65.700s",
+                    "word": "you're"
+                  },
+                  {
+                    "startTime": "65.700s",
+                    "endTime": "66.100s",
+                    "word": "doing"
+                  },
+                  {
+                    "startTime": "66.100s",
+                    "endTime": "66.400s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "66.400s",
+                    "endTime": "66.600s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "66.600s",
+                    "endTime": "66.800s",
+                    "word": "need"
+                  },
+                  {
+                    "startTime": "66.800s",
+                    "endTime": "66.900s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "66.900s",
+                    "endTime": "67.300s",
+                    "word": "stop"
+                  },
+                  {
+                    "startTime": "67.300s",
+                    "endTime": "67.700s",
+                    "word": "doing"
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Or something you should be doing that you're procrastinating or putting off you can use meditation skills to behave more skillfully in the world.",
+                "confidence": 0.9046987,
+                "words": [
+                  {
+                    "startTime": "68s",
+                    "endTime": "68.200s",
+                    "word": "Or"
+                  },
+                  {
+                    "startTime": "68.200s",
+                    "endTime": "68.600s",
+                    "word": "something"
+                  },
+                  {
+                    "startTime": "68.600s",
+                    "endTime": "68.700s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "68.700s",
+                    "endTime": "68.900s",
+                    "word": "should"
+                  },
+                  {
+                    "startTime": "68.900s",
+                    "endTime": "69s",
+                    "word": "be"
+                  },
+                  {
+                    "startTime": "69s",
+                    "endTime": "69.500s",
+                    "word": "doing"
+                  },
+                  {
+                    "startTime": "69.500s",
+                    "endTime": "69.700s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "69.700s",
+                    "endTime": "70s",
+                    "word": "you're"
+                  },
+                  {
+                    "startTime": "70.100s",
+                    "endTime": "71.100s",
+                    "word": "procrastinating"
+                  },
+                  {
+                    "startTime": "71.100s",
+                    "endTime": "71.200s",
+                    "word": "or"
+                  },
+                  {
+                    "startTime": "71.200s",
+                    "endTime": "71.600s",
+                    "word": "putting"
+                  },
+                  {
+                    "startTime": "71.600s",
+                    "endTime": "72s",
+                    "word": "off"
+                  },
+                  {
+                    "startTime": "72.400s",
+                    "endTime": "72.500s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "72.500s",
+                    "endTime": "72.700s",
+                    "word": "can"
+                  },
+                  {
+                    "startTime": "72.700s",
+                    "endTime": "73.100s",
+                    "word": "use"
+                  },
+                  {
+                    "startTime": "73.100s",
+                    "endTime": "73.800s",
+                    "word": "meditation"
+                  },
+                  {
+                    "startTime": "73.800s",
+                    "endTime": "74.600s",
+                    "word": "skills"
+                  },
+                  {
+                    "startTime": "74.900s",
+                    "endTime": "75.300s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "75.400s",
+                    "endTime": "76.300s",
+                    "word": "behave"
+                  },
+                  {
+                    "startTime": "77.200s",
+                    "endTime": "77.500s",
+                    "word": "more"
+                  },
+                  {
+                    "startTime": "77.500s",
+                    "endTime": "78.400s",
+                    "word": "skillfully"
+                  },
+                  {
+                    "startTime": "78.800s",
+                    "endTime": "79s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "79s",
+                    "endTime": "79.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "79.100s",
+                    "endTime": "79.900s",
+                    "word": "world."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " Reduce suffering Elevate fulfillment understand yourself at all levels including the deepest improved behavior and ultimately to find within yourself a spirit of serving or contributing to the happiness of others that comes from a spontaneous love.",
+                "confidence": 0.90299046,
+                "words": [
+                  {
+                    "startTime": "82.200s",
+                    "endTime": "82.600s",
+                    "word": "Reduce"
+                  },
+                  {
+                    "startTime": "82.600s",
+                    "endTime": "83.200s",
+                    "word": "suffering"
+                  },
+                  {
+                    "startTime": "83.200s",
+                    "endTime": "83.600s",
+                    "word": "Elevate"
+                  },
+                  {
+                    "startTime": "83.600s",
+                    "endTime": "84.400s",
+                    "word": "fulfillment"
+                  },
+                  {
+                    "startTime": "84.400s",
+                    "endTime": "84.900s",
+                    "word": "understand"
+                  },
+                  {
+                    "startTime": "84.900s",
+                    "endTime": "85.700s",
+                    "word": "yourself"
+                  },
+                  {
+                    "startTime": "85.800s",
+                    "endTime": "86s",
+                    "word": "at"
+                  },
+                  {
+                    "startTime": "86s",
+                    "endTime": "86.100s",
+                    "word": "all"
+                  },
+                  {
+                    "startTime": "86.100s",
+                    "endTime": "86.500s",
+                    "word": "levels"
+                  },
+                  {
+                    "startTime": "86.500s",
+                    "endTime": "87s",
+                    "word": "including"
+                  },
+                  {
+                    "startTime": "87s",
+                    "endTime": "87.100s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "87.100s",
+                    "endTime": "88s",
+                    "word": "deepest"
+                  },
+                  {
+                    "startTime": "88.500s",
+                    "endTime": "89.200s",
+                    "word": "improved"
+                  },
+                  {
+                    "startTime": "89.200s",
+                    "endTime": "90s",
+                    "word": "behavior"
+                  },
+                  {
+                    "startTime": "90.700s",
+                    "endTime": "91.100s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "91.100s",
+                    "endTime": "92.200s",
+                    "word": "ultimately"
+                  },
+                  {
+                    "startTime": "93.300s",
+                    "endTime": "94s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "94s",
+                    "endTime": "94.500s",
+                    "word": "find"
+                  },
+                  {
+                    "startTime": "94.500s",
+                    "endTime": "94.800s",
+                    "word": "within"
+                  },
+                  {
+                    "startTime": "94.800s",
+                    "endTime": "95.600s",
+                    "word": "yourself"
+                  },
+                  {
+                    "startTime": "95.700s",
+                    "endTime": "95.800s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "95.800s",
+                    "endTime": "96.500s",
+                    "word": "spirit"
+                  },
+                  {
+                    "startTime": "96.500s",
+                    "endTime": "97.100s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "98s",
+                    "endTime": "98.900s",
+                    "word": "serving"
+                  },
+                  {
+                    "startTime": "99.600s",
+                    "endTime": "99.700s",
+                    "word": "or"
+                  },
+                  {
+                    "startTime": "99.700s",
+                    "endTime": "100.600s",
+                    "word": "contributing"
+                  },
+                  {
+                    "startTime": "100.600s",
+                    "endTime": "100.800s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "100.800s",
+                    "endTime": "100.900s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "100.900s",
+                    "endTime": "101.500s",
+                    "word": "happiness"
+                  },
+                  {
+                    "startTime": "101.500s",
+                    "endTime": "101.700s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "101.700s",
+                    "endTime": "102.400s",
+                    "word": "others"
+                  },
+                  {
+                    "startTime": "103s",
+                    "endTime": "103.200s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "103.200s",
+                    "endTime": "103.600s",
+                    "word": "comes"
+                  },
+                  {
+                    "startTime": "103.600s",
+                    "endTime": "104s",
+                    "word": "from"
+                  },
+                  {
+                    "startTime": "104s",
+                    "endTime": "104.100s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "104.100s",
+                    "endTime": "105.200s",
+                    "word": "spontaneous"
+                  },
+                  {
+                    "startTime": "105.200s",
+                    "endTime": "105.800s",
+                    "word": "love."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " So actually that Spirit of love and service is a consequence of success in the other four dimensions as you suffer less are more fulfilled as you understand who you are and as you have a handle on changing how you carry yourself all of that sums up ultimately in how you contribute.",
+                "confidence": 0.75904363,
+                "words": [
+                  {
+                    "startTime": "107s",
+                    "endTime": "107.200s",
+                    "word": "So"
+                  },
+                  {
+                    "startTime": "107.200s",
+                    "endTime": "108.100s",
+                    "word": "actually"
+                  },
+                  {
+                    "startTime": "108.100s",
+                    "endTime": "108.400s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "108.400s",
+                    "endTime": "108.800s",
+                    "word": "Spirit"
+                  },
+                  {
+                    "startTime": "108.800s",
+                    "endTime": "109s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "109s",
+                    "endTime": "109.200s",
+                    "word": "love"
+                  },
+                  {
+                    "startTime": "109.200s",
+                    "endTime": "109.400s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "109.400s",
+                    "endTime": "110.200s",
+                    "word": "service"
+                  },
+                  {
+                    "startTime": "110.900s",
+                    "endTime": "111.600s",
+                    "word": "is"
+                  },
+                  {
+                    "startTime": "111.700s",
+                    "endTime": "111.900s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "111.900s",
+                    "endTime": "113s",
+                    "word": "consequence"
+                  },
+                  {
+                    "startTime": "113.100s",
+                    "endTime": "113.300s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "113.300s",
+                    "endTime": "114s",
+                    "word": "success"
+                  },
+                  {
+                    "startTime": "114s",
+                    "endTime": "114.200s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "114.200s",
+                    "endTime": "114.400s",
+                    "word": "the"
+                  },
+                  {
+                    "startTime": "114.400s",
+                    "endTime": "114.900s",
+                    "word": "other"
+                  },
+                  {
+                    "startTime": "114.900s",
+                    "endTime": "115.200s",
+                    "word": "four"
+                  },
+                  {
+                    "startTime": "115.200s",
+                    "endTime": "116.100s",
+                    "word": "dimensions"
+                  },
+                  {
+                    "startTime": "117.300s",
+                    "endTime": "117.700s",
+                    "word": "as"
+                  },
+                  {
+                    "startTime": "117.700s",
+                    "endTime": "118.200s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "118.300s",
+                    "endTime": "118.700s",
+                    "word": "suffer"
+                  },
+                  {
+                    "startTime": "118.700s",
+                    "endTime": "119.500s",
+                    "word": "less"
+                  },
+                  {
+                    "startTime": "119.900s",
+                    "endTime": "120s",
+                    "word": "are"
+                  },
+                  {
+                    "startTime": "120s",
+                    "endTime": "120.200s",
+                    "word": "more"
+                  },
+                  {
+                    "startTime": "120.200s",
+                    "endTime": "121.300s",
+                    "word": "fulfilled"
+                  },
+                  {
+                    "startTime": "121.900s",
+                    "endTime": "122.100s",
+                    "word": "as"
+                  },
+                  {
+                    "startTime": "122.100s",
+                    "endTime": "122.200s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "122.200s",
+                    "endTime": "122.800s",
+                    "word": "understand"
+                  },
+                  {
+                    "startTime": "122.800s",
+                    "endTime": "123.100s",
+                    "word": "who"
+                  },
+                  {
+                    "startTime": "123.100s",
+                    "endTime": "123.300s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "123.300s",
+                    "endTime": "123.900s",
+                    "word": "are"
+                  },
+                  {
+                    "startTime": "124.100s",
+                    "endTime": "124.400s",
+                    "word": "and"
+                  },
+                  {
+                    "startTime": "124.400s",
+                    "endTime": "124.600s",
+                    "word": "as"
+                  },
+                  {
+                    "startTime": "124.600s",
+                    "endTime": "124.800s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "124.800s",
+                    "endTime": "125s",
+                    "word": "have"
+                  },
+                  {
+                    "startTime": "125s",
+                    "endTime": "125.300s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "125.300s",
+                    "endTime": "126s",
+                    "word": "handle"
+                  },
+                  {
+                    "startTime": "126.400s",
+                    "endTime": "126.600s",
+                    "word": "on"
+                  },
+                  {
+                    "startTime": "126.600s",
+                    "endTime": "127.400s",
+                    "word": "changing"
+                  },
+                  {
+                    "startTime": "127.500s",
+                    "endTime": "127.700s",
+                    "word": "how"
+                  },
+                  {
+                    "startTime": "127.700s",
+                    "endTime": "127.900s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "127.900s",
+                    "endTime": "128.300s",
+                    "word": "carry"
+                  },
+                  {
+                    "startTime": "128.300s",
+                    "endTime": "129.100s",
+                    "word": "yourself"
+                  },
+                  {
+                    "startTime": "130.300s",
+                    "endTime": "130.600s",
+                    "word": "all"
+                  },
+                  {
+                    "startTime": "130.600s",
+                    "endTime": "130.700s",
+                    "word": "of"
+                  },
+                  {
+                    "startTime": "130.700s",
+                    "endTime": "131.300s",
+                    "word": "that"
+                  },
+                  {
+                    "startTime": "131.800s",
+                    "endTime": "132.300s",
+                    "word": "sums"
+                  },
+                  {
+                    "startTime": "132.300s",
+                    "endTime": "132.600s",
+                    "word": "up"
+                  },
+                  {
+                    "startTime": "132.600s",
+                    "endTime": "133.700s",
+                    "word": "ultimately"
+                  },
+                  {
+                    "startTime": "134.200s",
+                    "endTime": "134.600s",
+                    "word": "in"
+                  },
+                  {
+                    "startTime": "134.900s",
+                    "endTime": "135.300s",
+                    "word": "how"
+                  },
+                  {
+                    "startTime": "135.300s",
+                    "endTime": "135.800s",
+                    "word": "you"
+                  },
+                  {
+                    "startTime": "135.800s",
+                    "endTime": "136.600s",
+                    "word": "contribute."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {
+                "transcript": " It to making this world a better place.",
+                "confidence": 0.73021454,
+                "words": [
+                  {
+                    "startTime": "136.700s",
+                    "endTime": "136.900s",
+                    "word": "It"
+                  },
+                  {
+                    "startTime": "136.900s",
+                    "endTime": "137.400s",
+                    "word": "to"
+                  },
+                  {
+                    "startTime": "137.400s",
+                    "endTime": "137.800s",
+                    "word": "making"
+                  },
+                  {
+                    "startTime": "137.800s",
+                    "endTime": "138.100s",
+                    "word": "this"
+                  },
+                  {
+                    "startTime": "138.100s",
+                    "endTime": "138.400s",
+                    "word": "world"
+                  },
+                  {
+                    "startTime": "138.400s",
+                    "endTime": "138.500s",
+                    "word": "a"
+                  },
+                  {
+                    "startTime": "138.500s",
+                    "endTime": "138.800s",
+                    "word": "better"
+                  },
+                  {
+                    "startTime": "138.800s",
+                    "endTime": "139.500s",
+                    "word": "place."
+                  }
+                ]
+              }
+            ],
+            "languageCode": "en-us"
+          },
+          {
+            "alternatives": [
+              {}
+            ],
+            "languageCode": "en-us"
+          }
+        ]
+      }
+    ]
+  }
+}
